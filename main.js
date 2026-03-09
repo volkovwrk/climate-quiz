@@ -1,0 +1,383 @@
+// Простая игровая логика на фронтенде.
+// В этом прототипе данные для города и координат — заглушки.
+// Позже сюда можно будет подставить реальные API-запросы к backend
+// (геокодер + парсер ru.climate-data.org).
+
+const state = {
+  currentCity: null,
+  correctIndex: null,
+  markers: [],
+  scoreCorrect: 0,
+  scoreWrong: 0,
+  roundLocked: false,
+  cities: [],
+  citiesLoaded: false,
+  map: null,
+};
+
+function $(id) {
+  return document.getElementById(id);
+}
+
+function setStatus(text, tone = "neutral") {
+  const el = $("status-text");
+  el.textContent = text;
+  if (tone === "success") {
+    el.style.color = "#4ade80";
+  } else if (tone === "error") {
+    el.style.color = "#f97373";
+  } else {
+    el.style.color = "#9ca3af";
+  }
+}
+
+function updateScore() {
+  $("score-correct").textContent = state.scoreCorrect;
+  $("score-wrong").textContent = state.scoreWrong;
+}
+
+function clearMarkers() {
+  if (state.map && state.markers && state.markers.length) {
+    state.markers.forEach((m) => {
+      if (m) {
+        state.map.geoObjects.remove(m);
+      }
+    });
+  }
+  state.markers = [];
+}
+
+function handleGuess(idx) {
+  if (state.roundLocked) return;
+
+  state.roundLocked = true;
+
+  const isCorrect = idx === state.correctIndex;
+  if (isCorrect) {
+    state.scoreCorrect += 1;
+    setStatus("Верно! Это правильный город.", "success");
+  } else {
+    state.scoreWrong += 1;
+    setStatus(`Неверно. Правильная точка — ${["А", "Б", "В", "Г"][state.correctIndex]}.`, "error");
+  }
+  updateScore();
+
+  // Перекрашиваем метки: правильная — зелёная, неверный выбор — красная.
+  const labels = ["А", "Б", "В", "Г"];
+  state.markers.forEach((placemark, i) => {
+    if (!placemark || !placemark.properties) return;
+    placemark.properties.set("iconCaption", labels[i]);
+    if (!placemark.options) return;
+    if (i === state.correctIndex) {
+      placemark.options.set("preset", "islands#greenDotIcon");
+    } else if (i === idx) {
+      placemark.options.set("preset", "islands#redDotIcon");
+    } else {
+      placemark.options.set("preset", "islands#blueDotIcon");
+    }
+  });
+
+  showCityCaption();
+}
+
+function showClimatoLoading() {
+  $("climato-loading").classList.remove("hidden");
+  $("climato-image").classList.add("hidden");
+  clearCityCaption();
+}
+
+function showClimatoImage(src) {
+  const img = $("climato-image");
+  img.src = src;
+  img.onload = () => {
+    $("climato-loading").classList.add("hidden");
+    img.classList.remove("hidden");
+  };
+  img.onerror = () => {
+    $("climato-loading").textContent = "Не удалось загрузить климатограмму.";
+  };
+}
+
+function updateSourceLink(url) {
+  const link = $("climato-source");
+  if (!url) {
+    link.classList.add("hidden");
+    return;
+  }
+  link.href = url;
+  link.classList.remove("hidden");
+}
+
+function getLargeClimatoSrc(src) {
+  if (!src) return src;
+  // На ru.climate-data.org часто есть несколько размеров, например climate-graph-200.png, 400, 800.
+  // Пробуем заменить 200 (или другой размер) на 800, чтобы открыть более крупную версию.
+  const match = src.match(/(climate-graph-)(\d+)(\.\w+)$/);
+  if (match) {
+    const [, prefix, size, ext] = match;
+    return src.replace(prefix + size + ext, prefix + "800" + ext);
+  }
+  return src;
+}
+
+function hasCyrillic(str) {
+  return /[\u0400-\u04FF]/.test(str);
+}
+
+function capitalizeFirst(str) {
+  if (!str) return "";
+  return str.charAt(0).toUpperCase() + str.slice(1);
+}
+
+function toRussianCityName(name) {
+  if (!name) return "";
+  if (hasCyrillic(name)) {
+    return capitalizeFirst(name);
+  }
+
+  const dict = {
+    Ipswich: "Ипсуич",
+    Sydney: "Сидней",
+    Brisbane: "Брисбен",
+    Newcastle: "Ньюкасл",
+    Hobart: "Хобарт",
+    Canberra: "Канберра",
+    Melbourne: "Мельбурн",
+  };
+
+  return dict[name] || name;
+}
+
+function toRussianCountryName(country) {
+  if (!country) return "";
+
+  const normalized = country.trim().toLowerCase();
+
+  const dict = {
+    "россия": "Российская Федерация",
+    "российская федерация": "Российская Федерация",
+    "australia": "Австралия",
+    "австралия": "Австралия",
+  };
+
+  if (dict[normalized]) {
+    return dict[normalized];
+  }
+
+  if (hasCyrillic(country)) {
+    return capitalizeFirst(country);
+  }
+
+  return country;
+}
+
+function clearCityCaption() {
+  const el = $("city-caption");
+  if (!el) return;
+  el.textContent = "";
+  el.classList.add("hidden");
+}
+
+function showCityCaption() {
+  const el = $("city-caption");
+  if (!el || !state.currentCity) return;
+
+  const cityName = toRussianCityName(state.currentCity.name || "");
+  const countryName = toRussianCountryName(state.currentCity.country || "");
+
+  if (!cityName && !countryName) return;
+
+  el.textContent = countryName ? `${cityName}, ${countryName}` : cityName;
+  el.classList.remove("hidden");
+}
+
+async function loadCitiesOnce() {
+  if (state.citiesLoaded) return;
+  setStatus("Загружаем базу городов…");
+  const data = await fetch("./cities.json").then((r) => {
+    if (!r.ok) {
+      throw new Error("Не удалось загрузить cities.json");
+    }
+    return r.json();
+  });
+  if (!Array.isArray(data) || data.length === 0) {
+    throw new Error("Файл cities.json пуст или повреждён");
+  }
+  state.cities = data;
+  state.citiesLoaded = true;
+}
+
+function randomGlobalPoint() {
+  const latMin = -60;
+  const latMax = 75;
+  const lonMin = -180;
+  const lonMax = 180;
+  const lat = latMin + Math.random() * (latMax - latMin);
+  const lon = lonMin + Math.random() * (lonMax - lonMin);
+  return { lat, lon };
+}
+
+function distance2D(a, b) {
+  const dx = a.x - b.x;
+  const dy = a.y - b.y;
+  return Math.sqrt(dx * dx + dy * dy);
+}
+
+function generateDecoyPoints(correctLat, correctLon, count) {
+  const points = [];
+  const minDist = 10; // минимальное расстояние в градусах
+
+  // Берём ложные точки не случайно "в океане", а из других городов из базы,
+  // чтобы гарантированно быть на суше и при этом быть разбросанными по миру.
+  const pool = state.cities.filter(
+    (c) =>
+      c.lat != null &&
+      c.lon != null &&
+      distance2D({ x: c.lat, y: c.lon }, { x: correctLat, y: correctLon }) >= minDist
+  );
+
+  while (points.length < count && pool.length > 0) {
+    const idx = Math.floor(Math.random() * pool.length);
+    const candidate = pool.splice(idx, 1)[0];
+    const tooCloseToOthers = points.some(
+      (p) => distance2D({ x: candidate.lat, y: candidate.lon }, { x: p.lat, y: p.lon }) < minDist
+    );
+    if (!tooCloseToOthers) {
+      points.push({ lat: candidate.lat, lon: candidate.lon });
+    }
+  }
+
+  // Если по какой-то причине не удалось набрать нужное количество (малый пул),
+  // добиваем случайными точками, как раньше.
+  while (points.length < count) {
+    points.push(randomGlobalPoint());
+  }
+
+  return points;
+}
+
+async function startNewRound() {
+  await loadCitiesOnce();
+  setStatus("Генерируем новое задание…");
+  state.roundLocked = true;
+  clearMarkers();
+  showClimatoLoading();
+
+  const idx = Math.floor(Math.random() * state.cities.length);
+  const cityData = state.cities[idx];
+
+  state.currentCity = cityData;
+  clearCityCaption();
+
+  showClimatoImage(cityData.climateImageUrl);
+  updateSourceLink(cityData.climatePageUrl);
+
+  // Формируем 1 правильную и 3 ложные точки по базе городов (все гарантированно на суше).
+  const decoys = generateDecoyPoints(cityData.lat, cityData.lon, 3);
+  const options = [
+    { ...cityData, _isCorrect: true },
+    ...decoys.map((d) => ({ lat: d.lat, lon: d.lon, _isCorrect: false })),
+  ];
+
+  // Перемешиваем варианты, чтобы правильная точка могла быть в любой позиции.
+  for (let i = options.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [options[i], options[j]] = [options[j], options[i]];
+  }
+
+  state.correctIndex = options.findIndex((o) => o._isCorrect);
+
+  const labels = ["А", "Б", "В", "Г"];
+  if (!state.map) {
+    throw new Error("Карта ещё загружается. Подождите пару секунд и нажмите «Новый раунд» снова.");
+  }
+  options.forEach((p, i) => {
+      const label = labels[i];
+      const placemark = new ymaps.Placemark(
+        [p.lat, p.lon],
+        { iconCaption: label },
+        {
+          preset: "islands#blueDotIcon",
+        }
+      );
+      placemark.events.add("click", () => handleGuess(i));
+      state.map.geoObjects.add(placemark);
+      state.markers.push(placemark);
+    });
+
+  state.roundLocked = false;
+  setStatus("Выбери точку на карте, которая соответствует климатограмме.");
+}
+
+function init() {
+  if (window.ymaps && $("map")) {
+    ymaps.ready(() => {
+      state.map = new ymaps.Map(
+        "map",
+        {
+          center: [20, 0],
+          zoom: 2,
+          controls: [],
+        },
+        {
+          suppressMapOpenBlock: true,
+        }
+      );
+    });
+  }
+
+  const climatoPanel = $("climato-panel");
+  const climatoImage = $("climato-image");
+  const modal = $("climato-modal");
+  const modalImage = $("climato-modal-image");
+
+  function openClimatoModal(src) {
+    if (!modal || !modalImage || !src) return;
+    const largeSrc = getLargeClimatoSrc(src);
+    modalImage.src = largeSrc || src;
+    modal.classList.remove("hidden");
+  }
+
+  function closeClimatoModal() {
+    if (!modal || !modalImage) return;
+    modal.classList.add("hidden");
+    modalImage.src = "";
+  }
+
+  if (modal) {
+    modal.addEventListener("click", (e) => {
+      const target = e.target;
+      if (target && target.dataset && target.dataset.close === "true") {
+        closeClimatoModal();
+      } else if (target && target.id === "climato-modal-image") {
+        closeClimatoModal();
+      }
+    });
+  }
+
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") {
+      closeClimatoModal();
+    }
+  });
+
+  if (climatoPanel && climatoImage) {
+    climatoImage.addEventListener("click", () => {
+      if (climatoImage.src) {
+        openClimatoModal(climatoImage.src);
+      }
+    });
+  }
+
+  $("new-round-btn").addEventListener("click", () => {
+    startNewRound().catch((err) => {
+      console.error(err);
+      const msg = err && err.message ? err.message : "Неизвестная ошибка";
+      setStatus("Ошибка: " + msg + " Запускайте сайт через npx serve .", "error");
+    });
+  });
+  updateScore();
+}
+
+document.addEventListener("DOMContentLoaded", init);
+

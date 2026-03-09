@@ -1,0 +1,15 @@
+{
+  "name": "climate-quiz",
+  "version": "1.0.0",
+  "description": "Игра по климатограммам на основе ru.climate-data.org",
+  "scripts": {
+    "build:cities": "node build-cities.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^2.7.0"
+  }
+}
+

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <title>Климатическая карта — игра</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <h1>Угадай город по климатограмме</h1>
+      <p class="subtitle">
+        Смотри на климатограмму и выбери точку на карте, которая ей соответствует.
+      </p>
+    </header>
+
+    <main class="main">
+      <section class="map-section">
+        <div id="map" class="map-container"></div>
+      </section>
+
+      <section class="climato-panel" id="climato-panel">
+        <div class="climato-info">
+          <button id="new-round-btn" class="btn primary">Новый раунд</button>
+        </div>
+        <div class="climato-image-wrapper">
+          <div id="climato-loading" class="climato-loading hidden">Загружаем климатограмму…</div>
+          <img id="climato-image" class="climato-image hidden" alt="Климатограмма" />
+          <a id="climato-source" class="climato-source hidden" href="#" target="_blank" rel="noopener noreferrer">
+            Источник данных: ru.climate-data.org
+          </a>
+          <p id="city-caption" class="city-caption hidden"></p>
+        </div>
+        <a
+          href="https://t.me/volkovwrk"
+          class="telegram-link"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Связаться в Telegram: @volkovwrk
+        </a>
+      </section>
+    </main>
+
+    <section class="status-panel">
+      <div id="status-text" class="status-text">Нажми «Новый раунд», чтобы начать.</div>
+      <div class="score">
+        <span>Верно: <span id="score-correct">0</span></span>
+        <span>Ошибки: <span id="score-wrong">0</span></span>
+      </div>
+    </section>
+  </div>
+
+  <!-- Вставь сюда свой ключ вместо YOUR_YANDEX_MAPS_API_KEY -->
+  <script
+    src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&apikey=65aa499a-964d-4166-8961-293d6ec8dca5"
+    type="text/javascript"
+  ></script>
+  <script src="./main.js"></script>
+
+  <div id="climato-modal" class="climato-modal hidden" role="dialog" aria-modal="true">
+    <div class="climato-modal__backdrop" data-close="true"></div>
+    <img id="climato-modal-image" class="climato-modal__image" alt="Климатограмма (увеличено)" />
+  </div>
+</body>
+</html>
+
