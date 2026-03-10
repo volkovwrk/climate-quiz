@@ -16,6 +16,7 @@ const state = {
   citiesLoaded: false,
   map: null,
   numOptions: 4,
+  minDistanceKm: 3000,
 };
 
 function $(id) {
@@ -234,7 +235,10 @@ function distance2D(a, b) {
 
 function generateDecoyPoints(correctLat, correctLon, count) {
   const points = [];
-  const minDist = 10; // минимальное расстояние в градусах
+  // Переводим минимальное расстояние из километров в "градусы" для простой евклидовой оценки.
+  // 1 градус широты ≈ 111 км.
+  const minDistKm = Math.min(5000, Math.max(1000, state.minDistanceKm || 3000));
+  const minDist = minDistKm / 111;
 
   // Берём ложные точки не случайно "в океане", а из других городов из базы,
   // чтобы гарантированно быть на суше и при этом быть разбросанными по миру.
@@ -353,6 +357,8 @@ function init() {
   const settingsPanel = $("settings-panel");
   const optionsInput = $("options-count-input");
   const optionsRange = $("options-count-range");
+  const distanceInput = $("min-distance-input");
+  const distanceRange = $("min-distance-range");
 
   function clampOptionsCount(n) {
     const num = Number.isNaN(Number(n)) ? 4 : Number(n);
@@ -364,6 +370,18 @@ function init() {
     state.numOptions = clamped;
     if (optionsInput) optionsInput.value = String(clamped);
     if (optionsRange) optionsRange.value = String(clamped);
+  }
+
+  function clampMinDistanceKm(n) {
+    const num = Number.isNaN(Number(n)) ? 3000 : Number(n);
+    return Math.min(5000, Math.max(1000, num));
+  }
+
+  function applyMinDistanceKm(value) {
+    const clamped = clampMinDistanceKm(value);
+    state.minDistanceKm = clamped;
+    if (distanceInput) distanceInput.value = String(clamped);
+    if (distanceRange) distanceRange.value = String(clamped);
   }
 
   function closeSettingsPanel() {
@@ -426,6 +444,20 @@ function init() {
     optionsRange.value = String(state.numOptions);
     optionsRange.addEventListener("input", () => {
       applyOptionsCount(optionsRange.value);
+    });
+  }
+
+  if (distanceInput) {
+    distanceInput.value = String(state.minDistanceKm);
+    distanceInput.addEventListener("change", () => {
+      applyMinDistanceKm(distanceInput.value);
+    });
+  }
+
+  if (distanceRange) {
+    distanceRange.value = String(state.minDistanceKm);
+    distanceRange.addEventListener("input", () => {
+      applyMinDistanceKm(distanceRange.value);
     });
   }
 
