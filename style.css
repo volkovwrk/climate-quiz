@@ -170,9 +170,16 @@ body {
   align-items: center;
 }
 
-.map-section {
+.map-wrapper {
   flex: 1;
   min-width: 280px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.map-section {
+  flex: 0 0 auto;
 }
 
 .climato-panel {
@@ -317,7 +324,6 @@ body {
   align-items: center;
   justify-content: space-between;
   gap: 10px;
-  margin-top: 16px;
   padding: 10px 12px;
   background: rgba(15, 23, 42, 0.9);
   border-radius: var(--radius-md);

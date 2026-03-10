@@ -70,9 +70,19 @@
     </div>
 
     <main class="main">
-      <section class="map-section">
-        <div id="map" class="map-container"></div>
-      </section>
+      <div class="map-wrapper">
+        <section class="map-section">
+          <div id="map" class="map-container"></div>
+        </section>
+        <section class="status-panel">
+          <div id="status-text" class="status-text">Загружаем карту и первое задание…</div>
+          <div class="score">
+            <span>Верно: <span id="score-correct">0</span></span>
+            <span>Ошибки: <span id="score-wrong">0</span></span>
+            <span>Пропуски: <span id="score-skipped">0</span></span>
+          </div>
+        </section>
+      </div>
 
       <section class="climato-panel" id="climato-panel">
         <div class="climato-info">
@@ -102,15 +112,6 @@
         </a>
       </section>
     </main>
-
-    <section class="status-panel">
-      <div id="status-text" class="status-text">Загружаем карту и первое задание…</div>
-      <div class="score">
-        <span>Верно: <span id="score-correct">0</span></span>
-        <span>Ошибки: <span id="score-wrong">0</span></span>
-        <span>Пропуски: <span id="score-skipped">0</span></span>
-      </div>
-    </section>
   </div>
 
   <!-- Вставь сюда свой ключ вместо YOUR_YANDEX_MAPS_API_KEY -->
