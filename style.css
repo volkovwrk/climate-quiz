@@ -60,26 +60,22 @@ body {
   right: 22px;
   width: 32px;
   height: 32px;
-  border-radius: 999px;
-  border: 1px solid rgba(148, 163, 184, 0.35);
-  background: radial-gradient(circle at 30% 20%, rgba(148, 163, 184, 0.4), rgba(15, 23, 42, 0.95));
-  color: #e5e7eb;
+  border: none;
+  background: transparent;
+  color: #9ca3af;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: 0.9rem;
-  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.65);
 }
 
 .settings-button:hover {
-  box-shadow: 0 14px 30px rgba(15, 23, 42, 0.85);
-  transform: translateY(-1px);
+  color: #e5e7eb;
 }
 
 .settings-button:active {
-  transform: translateY(0);
-  box-shadow: 0 8px 18px rgba(15, 23, 42, 0.7);
+  transform: scale(0.95);
 }
 
 .settings-panel {
@@ -114,21 +110,31 @@ body {
 .settings-panel__controls {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 6px;
 }
 
 .settings-panel__range {
-  width: 120px;
+  width: 110px;
 }
 
 .settings-panel__input {
-  width: 60px;
+  width: 48px;
   padding: 4px 6px;
   border-radius: 999px;
   border: 1px solid rgba(148, 163, 184, 0.7);
   background: rgba(15, 23, 42, 0.9);
   color: var(--text);
   text-align: center;
+}
+
+.settings-panel__input {
+  -moz-appearance: textfield;
+}
+
+.settings-panel__input::-webkit-outer-spin-button,
+.settings-panel__input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
 }
 
 .settings-panel__input:focus {
