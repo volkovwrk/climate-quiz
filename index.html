@@ -9,11 +9,41 @@
 <body>
   <div class="app">
     <header class="header">
-      <h1>Угадай город по климатограмме</h1>
+      <h1>Угадай пункт по климатограмме</h1>
       <p class="subtitle">
         Смотри на климатограмму и выбери точку на карте, которая ей соответствует.
       </p>
     </header>
+
+    <button id="settings-btn" class="settings-button" aria-label="Настройки количества пунктов">
+      ⚙
+    </button>
+
+    <div id="settings-panel" class="settings-panel hidden">
+      <div class="settings-panel__header">Настройки</div>
+      <label class="settings-panel__row">
+        <span>Пунктов на карте:</span>
+        <div class="settings-panel__controls">
+          <input
+            id="options-count-range"
+            class="settings-panel__range"
+            type="range"
+            min="2"
+            max="8"
+            value="4"
+          />
+          <input
+            id="options-count-input"
+            class="settings-panel__input"
+            type="number"
+            min="2"
+            max="8"
+            value="4"
+          />
+        </div>
+      </label>
+      <p class="settings-panel__hint">Минимум 2, максимум 8. Один пункт всегда настоящий.</p>
+    </div>
 
     <main class="main">
       <section class="map-section">

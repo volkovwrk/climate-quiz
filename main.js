@@ -3,6 +3,8 @@
 // Позже сюда можно будет подставить реальные API-запросы к backend
 // (геокодер + парсер ru.climate-data.org).
 
+const OPTION_LABELS = ["А", "Б", "В", "Г", "Д", "Е", "Ж", "З"];
+
 const state = {
   currentCity: null,
   correctIndex: null,
@@ -13,6 +15,7 @@ const state = {
   cities: [],
   citiesLoaded: false,
   map: null,
+  numOptions: 4,
 };
 
 function $(id) {
@@ -58,15 +61,21 @@ function handleGuess(idx) {
     setStatus("Верно! Это правильный город.", "success");
   } else {
     state.scoreWrong += 1;
-    setStatus(`Неверно. Правильная точка — ${["А", "Б", "В", "Г"][state.correctIndex]}.`, "error");
+    const label = OPTION_LABELS[state.correctIndex] || "";
+    setStatus(
+      label
+        ? `Неверно. Правильная точка — ${label}.`
+        : "Неверно. Это был другой пункт.",
+      "error"
+    );
   }
   updateScore();
 
   // Перекрашиваем метки: правильная — зелёная, неверный выбор — красная.
-  const labels = ["А", "Б", "В", "Г"];
   state.markers.forEach((placemark, i) => {
     if (!placemark || !placemark.properties) return;
-    placemark.properties.set("iconCaption", labels[i]);
+    const label = OPTION_LABELS[i] || "";
+    placemark.properties.set("iconCaption", label);
     if (!placemark.options) return;
     if (i === state.correctIndex) {
       placemark.options.set("preset", "islands#greenDotIcon");
@@ -272,8 +281,12 @@ async function startNewRound() {
   showClimatoImage(cityData.climateImageUrl);
   updateSourceLink(cityData.climatePageUrl);
 
-  // Формируем 1 правильную и 3 ложные точки по базе городов (все гарантированно на суше).
-  const decoys = generateDecoyPoints(cityData.lat, cityData.lon, 3);
+  // Актуальное количество пунктов на карте (от 2 до 8).
+  const optionCount = Math.min(8, Math.max(2, state.numOptions || 4));
+  state.numOptions = optionCount;
+
+  // Формируем 1 правильную и (optionCount - 1) ложные точки по базе городов (все гарантированно на суше).
+  const decoys = generateDecoyPoints(cityData.lat, cityData.lon, optionCount - 1);
   const options = [
     { ...cityData, _isCorrect: true },
     ...decoys.map((d) => ({ lat: d.lat, lon: d.lon, _isCorrect: false })),
@@ -287,12 +300,11 @@ async function startNewRound() {
 
   state.correctIndex = options.findIndex((o) => o._isCorrect);
 
-  const labels = ["А", "Б", "В", "Г"];
   if (!state.map) {
     throw new Error("Карта ещё загружается. Подождите пару секунд и нажмите «Новый раунд» снова.");
   }
   options.forEach((p, i) => {
-      const label = labels[i];
+      const label = OPTION_LABELS[i] || "";
       const placemark = new ymaps.Placemark(
         [p.lat, p.lon],
         { iconCaption: label },
@@ -337,6 +349,22 @@ function init() {
   const climatoImage = $("climato-image");
   const modal = $("climato-modal");
   const modalImage = $("climato-modal-image");
+  const settingsBtn = $("settings-btn");
+  const settingsPanel = $("settings-panel");
+  const optionsInput = $("options-count-input");
+  const optionsRange = $("options-count-range");
+
+  function clampOptionsCount(n) {
+    const num = Number.isNaN(Number(n)) ? 4 : Number(n);
+    return Math.min(8, Math.max(2, num));
+  }
+
+  function applyOptionsCount(value) {
+    const clamped = clampOptionsCount(value);
+    state.numOptions = clamped;
+    if (optionsInput) optionsInput.value = String(clamped);
+    if (optionsRange) optionsRange.value = String(clamped);
+  }
 
   function openClimatoModal(src) {
     if (!modal || !modalImage || !src) return;
@@ -373,6 +401,26 @@ function init() {
       if (climatoImage.src) {
         openClimatoModal(climatoImage.src);
       }
+    });
+  }
+
+  if (optionsInput) {
+    optionsInput.value = String(state.numOptions);
+    optionsInput.addEventListener("change", () => {
+      applyOptionsCount(optionsInput.value);
+    });
+  }
+
+  if (optionsRange) {
+    optionsRange.value = String(state.numOptions);
+    optionsRange.addEventListener("input", () => {
+      applyOptionsCount(optionsRange.value);
+    });
+  }
+
+  if (settingsBtn && settingsPanel) {
+    settingsBtn.addEventListener("click", () => {
+      settingsPanel.classList.toggle("hidden");
     });
   }
 
