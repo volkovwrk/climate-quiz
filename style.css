@@ -1,3 +1,12 @@
+@font-face {
+  font-family: "Roscha";
+  src: url("./fonts/OpenType-TT/Roscha.ttf") format("truetype"),
+    url("./fonts/OpenType-PS/Roscha.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   --bg: #050816;
   --bg-elevated: #0b1020;
@@ -162,6 +171,12 @@ body {
   min-width: 280px;
 }
 
+.side-panel {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+}
+
 .climato-panel {
   background: linear-gradient(145deg, rgba(15, 23, 42, 0.95), rgba(17, 24, 39, 0.98));
   border-radius: var(--radius-lg);
@@ -258,6 +273,24 @@ body {
 .telegram-link:hover {
   color: #93c5fd;
   text-decoration: underline;
+}
+
+.settings-hint {
+  width: 220px;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+.settings-hint__text {
+  margin: 0 0 6px;
+  font-family: "Roscha", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  letter-spacing: 0.02em;
+}
+
+.settings-hint__arrow {
+  width: 120px;
+  height: 80px;
 }
 
 .climato-modal {
@@ -366,6 +399,10 @@ body {
   .climato-panel {
     width: 100%;
     order: -1;
+  }
+
+  .settings-hint {
+    display: none;
   }
 }
 
