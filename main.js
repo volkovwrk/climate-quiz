@@ -323,6 +323,13 @@ function init() {
           suppressMapOpenBlock: true,
         }
       );
+
+      // Автоматически запускаем первый раунд, как только карта готова.
+      startNewRound().catch((err) => {
+        console.error(err);
+        const msg = err && err.message ? err.message : "Неизвестная ошибка";
+        setStatus("Ошибка: " + msg + " Запускайте сайт через npx serve .", "error");
+      });
     });
   }
 
