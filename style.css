@@ -192,7 +192,7 @@ body {
   align-items: center;
   justify-content: space-between;
   gap: 12px;
-  margin-bottom: 10px;
+  margin-bottom: 6px;
 }
 
 .climato-label {
@@ -216,12 +216,11 @@ body {
   border-radius: var(--radius-md);
   border: 1px solid rgba(15, 23, 42, 0.9);
   padding: 10px;
-  min-height: 260px;
+  min-height: 180px;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  flex: 1;
 }
 
 .climato-image {
@@ -259,13 +258,11 @@ body {
 }
 
 .telegram-link {
-  margin-top: 12px;
-  padding-top: 10px;
+  margin-top: 8px;
   font-size: 0.82rem;
   color: var(--text-muted);
   text-decoration: none;
   align-self: flex-start;
-  margin-top: auto;
 }
 
 .telegram-link:hover {
