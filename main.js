@@ -366,6 +366,16 @@ function init() {
     if (optionsRange) optionsRange.value = String(clamped);
   }
 
+  function closeSettingsPanel() {
+    if (!settingsPanel) return;
+    settingsPanel.classList.add("hidden");
+  }
+
+  function toggleSettingsPanel() {
+    if (!settingsPanel) return;
+    settingsPanel.classList.toggle("hidden");
+  }
+
   function openClimatoModal(src) {
     if (!modal || !modalImage || !src) return;
     const largeSrc = getLargeClimatoSrc(src);
@@ -393,6 +403,7 @@ function init() {
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape") {
       closeClimatoModal();
+      closeSettingsPanel();
     }
   });
 
@@ -420,9 +431,19 @@ function init() {
 
   if (settingsBtn && settingsPanel) {
     settingsBtn.addEventListener("click", () => {
-      settingsPanel.classList.toggle("hidden");
+      toggleSettingsPanel();
     });
   }
+
+  document.addEventListener("click", (e) => {
+    if (!settingsPanel || settingsPanel.classList.contains("hidden")) return;
+    const target = e.target;
+    const clickedInsidePanel = settingsPanel.contains(target);
+    const clickedButton = settingsBtn && settingsBtn.contains(target);
+    if (!clickedInsidePanel && !clickedButton) {
+      closeSettingsPanel();
+    }
+  });
 
   $("new-round-btn").addEventListener("click", () => {
     startNewRound().catch((err) => {
