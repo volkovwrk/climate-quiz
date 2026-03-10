@@ -11,6 +11,7 @@ const state = {
   markers: [],
   scoreCorrect: 0,
   scoreWrong: 0,
+  scoreSkipped: 0,
   roundLocked: false,
   cities: [],
   citiesLoaded: false,
@@ -38,6 +39,8 @@ function setStatus(text, tone = "neutral") {
 function updateScore() {
   $("score-correct").textContent = state.scoreCorrect;
   $("score-wrong").textContent = state.scoreWrong;
+  const skippedEl = $("score-skipped");
+  if (skippedEl) skippedEl.textContent = state.scoreSkipped;
 }
 
 function clearMarkers() {
@@ -478,6 +481,10 @@ function init() {
   });
 
   $("new-round-btn").addEventListener("click", () => {
+    if (state.currentCity && !state.roundLocked) {
+      state.scoreSkipped += 1;
+      updateScore();
+    }
     startNewRound().catch((err) => {
       console.error(err);
       const msg = err && err.message ? err.message : "Неизвестная ошибка";
