@@ -50,27 +50,65 @@
         <div id="map" class="map-container"></div>
       </section>
 
-      <section class="climato-panel" id="climato-panel">
-        <div class="climato-info">
-          <button id="new-round-btn" class="btn primary">Новый раунд</button>
-        </div>
-        <div class="climato-image-wrapper">
-          <div id="climato-loading" class="climato-loading hidden">Загружаем климатограмму…</div>
-          <img id="climato-image" class="climato-image hidden" alt="Климатограмма" />
-          <a id="climato-source" class="climato-source hidden" href="#" target="_blank" rel="noopener noreferrer">
-            Источник данных: ru.climate-data.org
+      <div class="side-panel">
+        <section class="climato-panel" id="climato-panel">
+          <div class="climato-info">
+            <button id="new-round-btn" class="btn primary">Новый раунд</button>
+          </div>
+          <div class="climato-image-wrapper">
+            <div id="climato-loading" class="climato-loading hidden">Загружаем климатограмму…</div>
+            <img id="climato-image" class="climato-image hidden" alt="Климатограмма" />
+            <a
+              id="climato-source"
+              class="climato-source hidden"
+              href="#"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Источник данных: ru.climate-data.org
+            </a>
+            <p id="city-caption" class="city-caption hidden"></p>
+          </div>
+          <a
+            href="https://t.me/volkovwrk"
+            class="telegram-link"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Связаться в Telegram: @volkovwrk
           </a>
-          <p id="city-caption" class="city-caption hidden"></p>
+        </section>
+
+        <div class="settings-hint">
+          <div class="settings-hint__text">Слишком просто? Загляни в настройки</div>
+          <svg
+            class="settings-hint__arrow"
+            viewBox="0 0 120 80"
+            xmlns="http://www.w3.org/2000/svg"
+            aria-hidden="true"
+          >
+            <defs>
+              <marker
+                id="arrowhead"
+                markerWidth="6"
+                markerHeight="6"
+                refX="5"
+                refY="3"
+                orient="auto"
+              >
+                <polygon points="0 0, 6 3, 0 6" fill="#9ca3af" />
+              </marker>
+            </defs>
+            <path
+              d="M10,70 C40,40 60,30 100,15"
+              fill="none"
+              stroke="#9ca3af"
+              stroke-width="2"
+              marker-end="url(#arrowhead)"
+            />
+          </svg>
         </div>
-        <a
-          href="https://t.me/volkovwrk"
-          class="telegram-link"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Связаться в Telegram: @volkovwrk
-        </a>
-      </section>
+      </div>
     </main>
 
     <section class="status-panel">
