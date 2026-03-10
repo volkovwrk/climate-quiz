@@ -381,6 +381,13 @@ body {
     width: 100%;
     order: -1;
   }
+
+  .settings-panel {
+    right: 8px;
+    left: 8px;
+    width: auto;
+    max-width: none;
+  }
 }
 
 
