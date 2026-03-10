@@ -167,7 +167,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   gap: 16px;
-  align-items: stretch;
+  align-items: center;
 }
 
 .map-section {
@@ -178,7 +178,7 @@ body {
 .climato-panel {
   background: linear-gradient(145deg, rgba(15, 23, 42, 0.95), rgba(17, 24, 39, 0.98));
   border-radius: var(--radius-lg);
-  padding: 16px 18px 14px;
+  padding: 12px 16px 12px;
   border: 1px solid rgba(148, 163, 184, 0.18);
   box-shadow: var(--shadow-soft);
   width: 420px;
