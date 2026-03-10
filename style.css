@@ -91,7 +91,7 @@ body {
   position: absolute;
   top: 64px;
   right: 16px;
-  width: 340px;
+  width: 400px;
   padding: 14px 14px 12px;
   border-radius: 14px;
   background: radial-gradient(circle at top left, rgba(148, 163, 184, 0.18), transparent 55%),
@@ -114,7 +114,7 @@ body {
   justify-content: space-between;
   gap: 10px;
   font-size: 0.85rem;
-  margin-bottom: 6px;
+  margin-bottom: 0;
 }
 
 .settings-panel__controls {
@@ -154,9 +154,13 @@ body {
 }
 
 .settings-panel__hint {
-  margin: 4px 0 0;
+  margin: 0;
   font-size: 0.78rem;
   color: var(--text-muted);
+}
+
+.settings-panel__hint + .settings-panel__row {
+  margin-top: 8px;
 }
 
 .main {
