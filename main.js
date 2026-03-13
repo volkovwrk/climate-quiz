@@ -47,7 +47,7 @@ function updateScore() {
 
 function addClimateZonesLayer() {
   if (!state.map || state.climateZonesLayer) return;
-  const kmlUrl = "./111111111111111.KML";
+  const kmlUrl = "./111111111111111.kml";
   if (typeof ymaps.geoXml === "undefined") {
     console.error("Модуль geoXml не загружен. Добавьте load=package.full в URL API.");
     return;
@@ -58,6 +58,17 @@ function addClimateZonesLayer() {
         console.warn("KML-файл пуст или не содержит объектов.");
         return;
       }
+      // KML возвращает вложенную структуру (Folder): нужна рекурсивная обработка и явные стили линий
+      function styleObject(obj) {
+        if (obj.options && obj.options.set) {
+          obj.options.set("strokeColor", "0099CC");
+          obj.options.set("strokeWidth", 2);
+        }
+        if (obj.each && typeof obj.each === "function") {
+          obj.each(styleObject);
+        }
+      }
+      res.geoObjects.each(styleObject);
       state.climateZonesLayer = res.geoObjects;
       state.map.geoObjects.add(state.climateZonesLayer);
     },
