@@ -18,6 +18,8 @@ const state = {
   map: null,
   numOptions: 4,
   minDistanceKm: 3000,
+  showClimateZones: false,
+  climateZonesLayer: null,
 };
 
 function $(id) {
@@ -41,6 +43,29 @@ function updateScore() {
   $("score-wrong").textContent = state.scoreWrong;
   const skippedEl = $("score-skipped");
   if (skippedEl) skippedEl.textContent = state.scoreSkipped;
+}
+
+function addClimateZonesLayer() {
+  if (!state.map || state.climateZonesLayer) return;
+  const zones = [
+    { coords: [[66.5, -180], [66.5, 180], [90, 180], [90, -180]], fill: "rgba(148,163,184,0.12)", stroke: "rgba(148,163,184,0.4)" },
+    { coords: [[23.5, -180], [23.5, 180], [66.5, 180], [66.5, -180]], fill: "rgba(79,70,229,0.06)", stroke: "rgba(79,70,229,0.35)" },
+    { coords: [[-23.5, -180], [-23.5, 180], [23.5, 180], [23.5, -180]], fill: "rgba(34,197,94,0.08)", stroke: "rgba(34,197,94,0.35)" },
+    { coords: [[-66.5, -180], [-66.5, 180], [-23.5, 180], [-23.5, -180]], fill: "rgba(79,70,229,0.06)", stroke: "rgba(79,70,229,0.35)" },
+    { coords: [[-90, -180], [-90, 180], [-66.5, 180], [-66.5, -180]], fill: "rgba(148,163,184,0.12)", stroke: "rgba(148,163,184,0.4)" },
+  ];
+  state.climateZonesLayer = new ymaps.GeoObjectCollection(null, { pane: "overlays" });
+  zones.forEach((z) => {
+    const poly = new ymaps.Polygon([z.coords], {}, { fillColor: z.fill, strokeColor: z.stroke, strokeWidth: 1, interactivityModel: "default#transparent" });
+    state.climateZonesLayer.add(poly);
+  });
+  state.map.geoObjects.add(state.climateZonesLayer);
+}
+
+function removeClimateZonesLayer() {
+  if (!state.map || !state.climateZonesLayer) return;
+  state.map.geoObjects.remove(state.climateZonesLayer);
+  state.climateZonesLayer = null;
 }
 
 function clearMarkers() {
@@ -349,6 +374,23 @@ function init() {
         const msg = err && err.message ? err.message : "Неизвестная ошибка";
         setStatus("Ошибка: " + msg + " Запускайте сайт через npx serve .", "error");
       });
+
+      const climateZonesBtn = $("climate-zones-toggle");
+      if (climateZonesBtn) {
+        function updateClimateZonesButton() {
+          climateZonesBtn.textContent = state.showClimateZones ? "Выключить" : "Включить";
+        }
+        climateZonesBtn.addEventListener("click", () => {
+          state.showClimateZones = !state.showClimateZones;
+          if (state.showClimateZones) {
+            addClimateZonesLayer();
+          } else {
+            removeClimateZonesLayer();
+          }
+          updateClimateZonesButton();
+        });
+        updateClimateZonesButton();
+      }
     });
   }
 

@@ -371,6 +371,18 @@ body {
   box-shadow: 0 8px 16px rgba(15, 23, 42, 0.7);
 }
 
+.btn--small {
+  padding: 4px 10px;
+  font-size: 0.8rem;
+  background: rgba(79, 70, 229, 0.4);
+  color: var(--text);
+  border: 1px solid rgba(148, 163, 184, 0.5);
+}
+
+.btn--small:hover {
+  background: rgba(79, 70, 229, 0.6);
+}
+
 .hidden {
   display: none !important;
 }
