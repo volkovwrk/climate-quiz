@@ -47,29 +47,24 @@ function updateScore() {
 
 function addClimateZonesLayer() {
   if (!state.map || state.climateZonesLayer) return;
-  // Полигоны по широтам: [lon, lat], кольцо замкнуто (первая = последняя точка)
-  const zones = [
-    { ring: [[-180, 66.5], [180, 66.5], [180, 90], [-180, 90], [-180, 66.5]], fill: "rgba(148,163,184,0.18)", stroke: "rgba(148,163,184,0.5)" },
-    { ring: [[-180, 23.5], [180, 23.5], [180, 66.5], [-180, 66.5], [-180, 23.5]], fill: "rgba(79,70,229,0.1)", stroke: "rgba(79,70,229,0.45)" },
-    { ring: [[-180, -23.5], [180, -23.5], [180, 23.5], [-180, 23.5], [-180, -23.5]], fill: "rgba(34,197,94,0.12)", stroke: "rgba(34,197,94,0.45)" },
-    { ring: [[-180, -66.5], [180, -66.5], [180, -23.5], [-180, -23.5], [-180, -66.5]], fill: "rgba(79,70,229,0.1)", stroke: "rgba(79,70,229,0.45)" },
-    { ring: [[-180, -90], [180, -90], [180, -66.5], [-180, -66.5], [-180, -90]], fill: "rgba(148,163,184,0.18)", stroke: "rgba(148,163,184,0.5)" },
-  ];
-  state.climateZonesLayer = new ymaps.GeoObjectCollection();
-  try {
-    zones.forEach((z) => {
-      const poly = new ymaps.Polygon([z.ring], {}, {
-        fillColor: z.fill,
-        strokeColor: z.stroke,
-        strokeWidth: 1,
-        interactivityModel: "default#transparent",
-      });
-      state.climateZonesLayer.add(poly);
-    });
-    state.map.geoObjects.add(state.climateZonesLayer);
-  } catch (e) {
-    console.error("Ошибка добавления климатических поясов:", e);
+  const kmlUrl = "./111111111111111.KML";
+  if (typeof ymaps.geoXml === "undefined") {
+    console.error("Модуль geoXml не загружен. Добавьте load=package.full в URL API.");
+    return;
   }
+  ymaps.geoXml.load(kmlUrl).then(
+    (res) => {
+      if (!res.geoObjects || res.geoObjects.getLength() === 0) {
+        console.warn("KML-файл пуст или не содержит объектов.");
+        return;
+      }
+      state.climateZonesLayer = res.geoObjects;
+      state.map.geoObjects.add(state.climateZonesLayer);
+    },
+    (err) => {
+      console.error("Не удалось загрузить KML:", err);
+    }
+  );
 }
 
 function removeClimateZonesLayer() {
