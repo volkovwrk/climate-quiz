@@ -47,19 +47,29 @@ function updateScore() {
 
 function addClimateZonesLayer() {
   if (!state.map || state.climateZonesLayer) return;
+  // Полигоны по широтам: [lon, lat], кольцо замкнуто (первая = последняя точка)
   const zones = [
-    { coords: [[66.5, -180], [66.5, 180], [90, 180], [90, -180]], fill: "rgba(148,163,184,0.12)", stroke: "rgba(148,163,184,0.4)" },
-    { coords: [[23.5, -180], [23.5, 180], [66.5, 180], [66.5, -180]], fill: "rgba(79,70,229,0.06)", stroke: "rgba(79,70,229,0.35)" },
-    { coords: [[-23.5, -180], [-23.5, 180], [23.5, 180], [23.5, -180]], fill: "rgba(34,197,94,0.08)", stroke: "rgba(34,197,94,0.35)" },
-    { coords: [[-66.5, -180], [-66.5, 180], [-23.5, 180], [-23.5, -180]], fill: "rgba(79,70,229,0.06)", stroke: "rgba(79,70,229,0.35)" },
-    { coords: [[-90, -180], [-90, 180], [-66.5, 180], [-66.5, -180]], fill: "rgba(148,163,184,0.12)", stroke: "rgba(148,163,184,0.4)" },
+    { ring: [[-180, 66.5], [180, 66.5], [180, 90], [-180, 90], [-180, 66.5]], fill: "rgba(148,163,184,0.18)", stroke: "rgba(148,163,184,0.5)" },
+    { ring: [[-180, 23.5], [180, 23.5], [180, 66.5], [-180, 66.5], [-180, 23.5]], fill: "rgba(79,70,229,0.1)", stroke: "rgba(79,70,229,0.45)" },
+    { ring: [[-180, -23.5], [180, -23.5], [180, 23.5], [-180, 23.5], [-180, -23.5]], fill: "rgba(34,197,94,0.12)", stroke: "rgba(34,197,94,0.45)" },
+    { ring: [[-180, -66.5], [180, -66.5], [180, -23.5], [-180, -23.5], [-180, -66.5]], fill: "rgba(79,70,229,0.1)", stroke: "rgba(79,70,229,0.45)" },
+    { ring: [[-180, -90], [180, -90], [180, -66.5], [-180, -66.5], [-180, -90]], fill: "rgba(148,163,184,0.18)", stroke: "rgba(148,163,184,0.5)" },
   ];
-  state.climateZonesLayer = new ymaps.GeoObjectCollection(null, { pane: "overlays" });
-  zones.forEach((z) => {
-    const poly = new ymaps.Polygon([z.coords], {}, { fillColor: z.fill, strokeColor: z.stroke, strokeWidth: 1, interactivityModel: "default#transparent" });
-    state.climateZonesLayer.add(poly);
-  });
-  state.map.geoObjects.add(state.climateZonesLayer);
+  state.climateZonesLayer = new ymaps.GeoObjectCollection();
+  try {
+    zones.forEach((z) => {
+      const poly = new ymaps.Polygon([z.ring], {}, {
+        fillColor: z.fill,
+        strokeColor: z.stroke,
+        strokeWidth: 1,
+        interactivityModel: "default#transparent",
+      });
+      state.climateZonesLayer.add(poly);
+    });
+    state.map.geoObjects.add(state.climateZonesLayer);
+  } catch (e) {
+    console.error("Ошибка добавления климатических поясов:", e);
+  }
 }
 
 function removeClimateZonesLayer() {
