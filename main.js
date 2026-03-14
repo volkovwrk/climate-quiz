@@ -47,7 +47,7 @@ function updateScore() {
 
 function addClimateZonesLayer() {
   if (!state.map || state.climateZonesLayer) return;
-  const kmlUrl = "./2026.kml";
+  const kmlUrl = "./2027.kml";
   if (typeof ymaps.geoXml === "undefined") {
     console.error("Модуль geoXml не загружен. Добавьте load=package.full в URL API.");
     return;
