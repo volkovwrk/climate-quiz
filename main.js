@@ -381,18 +381,14 @@ function init() {
         },
         {
           suppressMapOpenBlock: true,
+          // Ограничиваем область просмотра картой мира (примерно от -85 до 85 по широте).
+          // Это штатный способ ограничения из документации Яндекс.Карт.
+          restrictMapArea: [
+            [-85, -180],
+            [85, 180],
+          ],
         }
       );
-
-      // Ограничиваем центр карты: широта [-90, 90], долгота [-180, 180]
-      state.map.action.setCorrection(function (tick) {
-        const projection = state.map.options.get("projection");
-        const center = projection.fromGlobalPixels(tick.globalPixelCenter, tick.zoom);
-        const lat = Math.max(-90, Math.min(90, center[0]));
-        const lon = Math.max(-180, Math.min(180, center[1]));
-        tick.globalPixelCenter = projection.toGlobalPixels([lat, lon], tick.zoom);
-        return tick;
-      });
 
       // Автоматически запускаем первый раунд, как только карта готова.
       startNewRound().catch((err) => {
