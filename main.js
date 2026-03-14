@@ -381,6 +381,7 @@ function init() {
         },
         {
           suppressMapOpenBlock: true,
+          restrictMapArea: [[-90, -180], [90, 180]],
         }
       );
 
