@@ -381,14 +381,23 @@ function init() {
         },
         {
           suppressMapOpenBlock: true,
-          // Ограничиваем область просмотра почти всей Землёй:
-          // этого хватает для Камчатки и обитаемой части Антарктиды.
-          restrictMapArea: [
-            [-75, -180],
-            [75, 180],
-          ],
         }
       );
+
+      // Мягко ограничиваем карту по широте, чтобы не уходить в «чёрные» зоны за краем проекции.
+      // По долготе карта по‑прежнему может циклически прокручиваться.
+      state.map.action.setCorrection(function (tick) {
+        const projection = state.map.options.get("projection");
+        const center = projection.fromGlobalPixels(tick.globalPixelCenter, tick.zoom);
+        const clampedLat = Math.max(-85, Math.min(85, center[0]));
+        if (clampedLat !== center[0]) {
+          tick.globalPixelCenter = projection.toGlobalPixels(
+            [clampedLat, center[1]],
+            tick.zoom
+          );
+        }
+        return tick;
+      });
 
       // Автоматически запускаем первый раунд, как только карта готова.
       startNewRound().catch((err) => {
