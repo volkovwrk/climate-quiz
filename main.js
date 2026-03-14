@@ -47,7 +47,7 @@ function updateScore() {
 
 function addClimateZonesLayer() {
   if (!state.map || state.climateZonesLayer) return;
-  const kmlUrl = "./Konec.kml";
+  const kmlUrl = "./1569.kml";
   if (typeof ymaps.geoXml === "undefined") {
     console.error("Модуль geoXml не загружен. Добавьте load=package.full в URL API.");
     return;
