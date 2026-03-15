@@ -80,7 +80,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 1.4rem;
 }
 
 .settings-button:hover {
@@ -95,7 +94,6 @@ body {
   border: none;
   background: transparent;
   color: #9ca3af;
-  font-size: 1.3rem;
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -105,6 +103,13 @@ body {
 .share-button:hover {
   color: #e5e7eb;
   background: transparent;
+}
+
+.icon-button-svg {
+  width: 24px;
+  height: 24px;
+  stroke: currentColor;
+  fill: none;
 }
 
 .settings-panel {
