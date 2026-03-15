@@ -406,6 +406,10 @@ function init() {
           updateClimateZonesButton();
         });
         updateClimateZonesButton();
+        // При первом заходе сразу включаем границы, если флаг установлен.
+        if (state.showClimateZones) {
+          addClimateZonesLayer();
+        }
       }
     });
   }
