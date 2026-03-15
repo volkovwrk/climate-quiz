@@ -420,6 +420,7 @@ function init() {
   const optionsRange = $("options-count-range");
   const distanceInput = $("min-distance-input");
   const distanceRange = $("min-distance-range");
+  const shareBtn = $("share-result-btn");
 
   function clampOptionsCount(n) {
     const num = Number.isNaN(Number(n)) ? 4 : Number(n);
@@ -525,6 +526,26 @@ function init() {
   if (settingsBtn && settingsPanel) {
     settingsBtn.addEventListener("click", () => {
       toggleSettingsPanel();
+    });
+  }
+
+  if (shareBtn) {
+    shareBtn.addEventListener("click", async () => {
+      const url = window.location.href;
+      const text = `${url}\nТест на определение пунктов по климатограммам. Мой результат — верно: ${state.scoreCorrect}, ошибок: ${state.scoreWrong}, пропуски: ${state.scoreSkipped}`;
+      try {
+        if (navigator.share && /Mobi|Android|iPhone/i.test(navigator.userAgent)) {
+          await navigator.share({ text, url: window.location.href });
+        } else if (navigator.clipboard && navigator.clipboard.writeText) {
+          await navigator.clipboard.writeText(text);
+          setStatus("Текст результата скопирован в буфер обмена.", "success");
+        } else {
+          window.prompt("Скопируйте текст результата:", text);
+        }
+      } catch (e) {
+        console.error(e);
+        setStatus("Не удалось поделиться результатом.", "error");
+      }
     });
   }
 
