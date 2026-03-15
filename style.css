@@ -104,10 +104,7 @@ body {
 
 .share-button:hover {
   color: #e5e7eb;
-}
-
-.share-button:hover {
-  background: #111827;
+  background: transparent;
 }
 
 .settings-panel {
