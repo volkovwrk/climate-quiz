@@ -18,7 +18,7 @@ const state = {
   map: null,
   numOptions: 4,
   minDistanceKm: 3000,
-  showClimateZones: false,
+  showClimateZones: true,
   climateZonesLayer: null,
 };
 
