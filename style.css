@@ -90,6 +90,13 @@ body {
   transform: scale(0.95);
 }
 
+.settings-button:focus,
+.settings-button:focus-visible,
+.share-button:focus,
+.share-button:focus-visible {
+  outline: none;
+}
+
 .share-button {
   border: none;
   background: transparent;
