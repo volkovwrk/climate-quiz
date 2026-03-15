@@ -558,9 +558,6 @@ function init() {
         shareUrl = `https://t.me/share/url?url=${url}&text=${text}`;
       } else if (app === "vk") {
         shareUrl = `https://vk.com/share.php?url=${url}&title=${text}`;
-      } else if (app === "max") {
-        // Переход на веб-версию MAX.
-        shareUrl = "https://web.max.ru/";
       }
 
       if (shareUrl) {
