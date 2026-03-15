@@ -416,6 +416,7 @@ function init() {
   const modalImage = $("climato-modal-image");
   const settingsBtn = $("settings-btn");
   const settingsPanel = $("settings-panel");
+  const sharePanel = $("share-panel");
   const optionsInput = $("options-count-input");
   const optionsRange = $("options-count-range");
   const distanceInput = $("min-distance-input");
@@ -454,6 +455,11 @@ function init() {
   function toggleSettingsPanel() {
     if (!settingsPanel) return;
     settingsPanel.classList.toggle("hidden");
+  }
+
+  function toggleSharePanel() {
+    if (!sharePanel) return;
+    sharePanel.classList.toggle("hidden");
   }
 
   function openClimatoModal(src) {
@@ -530,32 +536,56 @@ function init() {
   }
 
   if (shareBtn) {
-    shareBtn.addEventListener("click", async () => {
-      const url = window.location.href;
-      const text = `${url}\nТест на определение пунктов по климатограммам. Мой результат — верно: ${state.scoreCorrect}, ошибок: ${state.scoreWrong}, пропуски: ${state.scoreSkipped}`;
-      try {
-        if (navigator.share && /Mobi|Android|iPhone/i.test(navigator.userAgent)) {
-          await navigator.share({ text, url: window.location.href });
-        } else if (navigator.clipboard && navigator.clipboard.writeText) {
-          await navigator.clipboard.writeText(text);
-          setStatus("Текст результата скопирован в буфер обмена.", "success");
-        } else {
-          window.prompt("Скопируйте текст результата:", text);
-        }
-      } catch (e) {
-        console.error(e);
-        setStatus("Не удалось поделиться результатом.", "error");
+    shareBtn.addEventListener("click", () => {
+      toggleSharePanel();
+    });
+  }
+
+  if (sharePanel) {
+    sharePanel.addEventListener("click", (e) => {
+      const target = e.target;
+      if (!target || !target.dataset) return;
+      const app = target.dataset.share;
+      if (!app) return;
+
+      const url = encodeURIComponent(window.location.href);
+      const text = encodeURIComponent(
+        `Тест на определение пунктов по климатограммам. Мой результат — верно: ${state.scoreCorrect}, ошибок: ${state.scoreWrong}, пропуски: ${state.scoreSkipped}`
+      );
+
+      let shareUrl = "";
+      if (app === "tg") {
+        shareUrl = `https://t.me/share/url?url=${url}&text=${text}`;
+      } else if (app === "vk") {
+        shareUrl = `https://vk.com/share.php?url=${url}&title=${text}`;
+      } else if (app === "max") {
+        // Переход на веб-версию MAX.
+        shareUrl = "https://web.max.ru/";
+      }
+
+      if (shareUrl) {
+        window.open(shareUrl, "_blank", "noopener,noreferrer");
       }
     });
   }
 
   document.addEventListener("click", (e) => {
-    if (!settingsPanel || settingsPanel.classList.contains("hidden")) return;
     const target = e.target;
-    const clickedInsidePanel = settingsPanel.contains(target);
-    const clickedButton = settingsBtn && settingsBtn.contains(target);
-    if (!clickedInsidePanel && !clickedButton) {
-      closeSettingsPanel();
+
+    if (settingsPanel && !settingsPanel.classList.contains("hidden")) {
+      const clickedInsidePanel = settingsPanel.contains(target);
+      const clickedSettingsBtn = settingsBtn && settingsBtn.contains(target);
+      if (!clickedInsidePanel && !clickedSettingsBtn) {
+        closeSettingsPanel();
+      }
+    }
+
+    if (sharePanel && !sharePanel.classList.contains("hidden")) {
+      const clickedInsideShare = sharePanel.contains(target);
+      const clickedShareBtn = shareBtn && shareBtn.contains(target);
+      if (!clickedInsideShare && !clickedShareBtn) {
+        sharePanel.classList.add("hidden");
+      }
     }
   });
 

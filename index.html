@@ -16,11 +16,11 @@
     </header>
 
     <div class="top-controls">
-      <button id="share-result-btn" class="share-button" type="button">
-        Поделиться результатом
-      </button>
       <button id="settings-btn" class="settings-button" aria-label="Настройки количества пунктов">
         ⚙
+      </button>
+      <button id="share-result-btn" class="share-button" type="button" aria-label="Поделиться результатом">
+        ↗
       </button>
     </div>
 
@@ -76,6 +76,15 @@
           <span>Границы поясов:</span>
           <button id="climate-zones-toggle" class="btn btn--small" type="button">Включить</button>
         </div>
+    </div>
+
+    <div id="share-panel" class="share-panel hidden">
+      <div class="share-panel__header">Поделиться результатом</div>
+      <div class="share-panel__apps">
+        <button type="button" class="share-app share-app--tg" data-share="tg">Telegram</button>
+        <button type="button" class="share-app share-app--vk" data-share="vk">VK</button>
+        <button type="button" class="share-app share-app--max" data-share="max">MAX</button>
+      </div>
     </div>
 
     <main class="main">
