@@ -32,7 +32,7 @@
     "lon": 150.89385
   },
   {
-    "name": "Ipswich",
+    "name": "Ипсуич",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/queensland/ipswich-112/",
     "climateImageUrl": "https://images.climate-data.org/location/112/climate-graph-200.png",
@@ -80,7 +80,7 @@
     "lon": 142.1503146
   },
   {
-    "name": "Kerang",
+    "name": "Керанг",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/victoria/kerang-15798/",
     "climateImageUrl": "https://images.climate-data.org/location/15798/climate-graph-200.png",
@@ -88,7 +88,7 @@
     "lon": 143.9204152
   },
   {
-    "name": "Hay",
+    "name": "Хей",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/new-south-wales/hay-718375/",
     "climateImageUrl": "https://images.climate-data.org/location/718375/climate-graph-200.png",
@@ -96,7 +96,7 @@
     "lon": 144.890393
   },
   {
-    "name": "Kimba",
+    "name": "Кимба",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/south-australia/kimba-764896/",
     "climateImageUrl": "https://images.climate-data.org/location/764896/climate-graph-200.png",
@@ -136,7 +136,7 @@
     "lon": 138.6234743
   },
   {
-    "name": "Port Fairy",
+    "name": "Порт Фейри",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/victoria/port-fairy-764976/",
     "climateImageUrl": "https://images.climate-data.org/location/764976/climate-graph-200.png",
@@ -176,7 +176,7 @@
     "lon": 146.2709824
   },
   {
-    "name": "Carnarvon",
+    "name": "Карнарвон",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/western-australia/carnarvon-1194/",
     "climateImageUrl": "https://images.climate-data.org/location/1194/climate-graph-200.png",
@@ -208,7 +208,7 @@
     "lon": 115.7208782
   },
   {
-    "name": "Bunbury",
+    "name": "Банбери",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/western-australia/bunbury-761/",
     "climateImageUrl": "https://images.climate-data.org/location/761/climate-graph-200.png",
@@ -232,7 +232,7 @@
     "lon": 118.5801181
   },
   {
-    "name": "Roxby Downs",
+    "name": "Роксби Даунс",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/south-australia/roxby-downs-764904/",
     "climateImageUrl": "https://images.climate-data.org/location/764904/climate-graph-200.png",
@@ -248,7 +248,7 @@
     "lon": 114.1258094
   },
   {
-    "name": "Karratha Industrial Estate",
+    "name": "Каррата Индастриал Эстейт",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/western-australia/karratha-industrial-estate-1064964/",
     "climateImageUrl": "https://images.climate-data.org/location/1064964/climate-graph-200.png",
@@ -280,7 +280,7 @@
     "lon": 130.8410469
   },
   {
-    "name": "Jabiru",
+    "name": "Джаберу",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/northern-territory/jabiru-32210/",
     "climateImageUrl": "https://images.climate-data.org/location/32210/climate-graph-200.png",
@@ -288,7 +288,7 @@
     "lon": 132.8365938
   },
   {
-    "name": "Karumba",
+    "name": "Карамба",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/queensland/karumba-765361/",
     "climateImageUrl": "https://images.climate-data.org/location/765361/climate-graph-200.png",
@@ -296,7 +296,7 @@
     "lon": 140.8404027
   },
   {
-    "name": "Adelaide River",
+    "name": "Аделаида Ривер",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/northern-territory/adelaide-river-10002/",
     "climateImageUrl": "https://images.climate-data.org/location/10002/climate-graph-200.png",
@@ -312,7 +312,7 @@
     "lon": 145.7721854
   },
   {
-    "name": "Ingham",
+    "name": "Ингем",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/queensland/ingham-717083/",
     "climateImageUrl": "https://images.climate-data.org/location/717083/climate-graph-200.png",
@@ -320,7 +320,7 @@
     "lon": 146.1603448
   },
   {
-    "name": "Lucinda",
+    "name": "Лусинда",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/queensland/lucinda-986539/",
     "climateImageUrl": "https://images.climate-data.org/location/986539/climate-graph-200.png",
@@ -328,7 +328,7 @@
     "lon": 146.3372932
   },
   {
-    "name": "Gordonvale",
+    "name": "Гордонвейл",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/queensland/gordonvale-19348/",
     "climateImageUrl": "https://images.climate-data.org/location/19348/climate-graph-200.png",
@@ -336,7 +336,7 @@
     "lon": 145.7759747
   },
   {
-    "name": "Kuranda",
+    "name": "Куранда",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/queensland/kuranda-775014/",
     "climateImageUrl": "https://images.climate-data.org/location/775014/climate-graph-200.png",
@@ -344,7 +344,7 @@
     "lon": 145.6332751
   },
   {
-    "name": "West Island",
+    "name": "Остров Запад",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/west-island/west-island-763770/",
     "climateImageUrl": "https://images.climate-data.org/location/763770/climate-graph-200.png",
@@ -352,7 +352,7 @@
     "lon": 96.8304394
   },
   {
-    "name": "Mission Beach",
+    "name": "Мишен Бич",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/queensland/mission-beach-986543/",
     "climateImageUrl": "https://images.climate-data.org/location/986543/climate-graph-200.png",
@@ -360,7 +360,7 @@
     "lon": 146.1071778
   },
   {
-    "name": "Babinda",
+    "name": "Бабинда",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/queensland/babinda-661825/",
     "climateImageUrl": "https://images.climate-data.org/location/661825/climate-graph-200.png",
@@ -368,7 +368,7 @@
     "lon": 145.9234498
   },
   {
-    "name": "Wongaling Beach",
+    "name": "Вонгалинг Бич",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/queensland/wongaling-beach-986542/",
     "climateImageUrl": "https://images.climate-data.org/location/986542/climate-graph-200.png",
@@ -376,7 +376,7 @@
     "lon": 146.0916653
   },
   {
-    "name": "South Mission Beach",
+    "name": "Юг Мишен Бич",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/queensland/south-mission-beach-986541/",
     "climateImageUrl": "https://images.climate-data.org/location/986541/climate-graph-200.png",
@@ -384,7 +384,7 @@
     "lon": 146.0904103
   },
   {
-    "name": "Mt Buller Village",
+    "name": "Маунт Буллер Алпайн Виллидж",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/victoria/mt-buller-village-434720/",
     "climateImageUrl": "https://images.climate-data.org/location/434720/climate-graph-200.png",
@@ -392,7 +392,7 @@
     "lon": 146.4494688
   },
   {
-    "name": "Hotham Heights",
+    "name": "Хотам Хайтс",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/victoria/hotham-heights-182448/",
     "climateImageUrl": "https://images.climate-data.org/location/182448/climate-graph-200.png",
@@ -400,7 +400,7 @@
     "lon": 147.146226
   },
   {
-    "name": "Dinner Plain",
+    "name": "Диннер Плейн",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/victoria/dinner-plain-182453/",
     "climateImageUrl": "https://images.climate-data.org/location/182453/climate-graph-200.png",
@@ -408,7 +408,7 @@
     "lon": 147.2389786
   },
   {
-    "name": "Falls Creek",
+    "name": "Фолс Крик",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/victoria/falls-creek-169900/",
     "climateImageUrl": "https://images.climate-data.org/location/169900/climate-graph-200.png",
@@ -416,7 +416,7 @@
     "lon": 147.2441791
   },
   {
-    "name": "Rawlinna",
+    "name": "Ролинна",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/western-australia/rawlinna-190294/",
     "climateImageUrl": "https://images.climate-data.org/location/190294/climate-graph-200.png",
@@ -424,7 +424,7 @@
     "lon": 125.3314907
   },
   {
-    "name": "Forrest",
+    "name": "Форрест",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/western-australia/forrest-12751/",
     "climateImageUrl": "https://images.climate-data.org/location/12751/climate-graph-200.png",
@@ -432,7 +432,7 @@
     "lon": 128.1090137
   },
   {
-    "name": "Cook",
+    "name": "Кук",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/south-australia/cook-55144/",
     "climateImageUrl": "https://images.climate-data.org/location/55144/climate-graph-200.png",
@@ -440,7 +440,7 @@
     "lon": 142.9956572
   },
   {
-    "name": "Miena",
+    "name": "Миена",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/tasmania/miena-225773/",
     "climateImageUrl": "https://images.climate-data.org/location/225773/climate-graph-200.png",
@@ -448,7 +448,7 @@
     "lon": 146.7075939
   },
   {
-    "name": "Perisher Valley",
+    "name": "Перишер Вэлли",
     "country": "австралия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d1%8f/new-south-wales/perisher-valley-121807/",
     "climateImageUrl": "https://images.climate-data.org/location/121807/climate-graph-200.png",
@@ -457,7 +457,7 @@
   },
   {
     "name": "Маданг",
-    "country": "папуа новая гвинея",
+    "country": "Папуа — Новая Гвинея",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bf%d0%b0%d0%bf%d1%83%d0%b0-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b3%d0%b2%d0%b8%d0%bd%d0%b5%d1%8f/%d0%bc%d0%b0%d0%b4%d0%b0%d0%bd%d0%b3/%d0%bc%d0%b0%d0%b4%d0%b0%d0%bd%d0%b3-52106/",
     "climateImageUrl": "https://images.climate-data.org/location/52106/climate-graph-200.png",
     "lat": -5,
@@ -465,7 +465,7 @@
   },
   {
     "name": "Кокопо",
-    "country": "папуа новая гвинея",
+    "country": "Папуа — Новая Гвинея",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bf%d0%b0%d0%bf%d1%83%d0%b0-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b3%d0%b2%d0%b8%d0%bd%d0%b5%d1%8f/%d0%b2%d0%be%d1%81%d1%82%d0%be%d1%87%d0%bd%d0%b0%d1%8f-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b1%d1%80%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/%d0%ba%d0%be%d0%ba%d0%be%d0%bf%d0%be-29712/",
     "climateImageUrl": "https://images.climate-data.org/location/29712/climate-graph-200.png",
     "lat": -4.3432175,
@@ -473,7 +473,7 @@
   },
   {
     "name": "Алотау",
-    "country": "папуа новая гвинея",
+    "country": "Папуа — Новая Гвинея",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bf%d0%b0%d0%bf%d1%83%d0%b0-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b3%d0%b2%d0%b8%d0%bd%d0%b5%d1%8f/%d0%bc%d0%b8%d0%bb%d0%bd-%d0%b1%d0%b5%d0%b8/%d0%b0%d0%bb%d0%be%d1%82%d0%b0%d1%83-986638/",
     "climateImageUrl": "https://images.climate-data.org/location/986638/climate-graph-200.png",
     "lat": -10.3060931,
@@ -481,7 +481,7 @@
   },
   {
     "name": "Лаэ",
-    "country": "папуа новая гвинея",
+    "country": "Папуа — Новая Гвинея",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bf%d0%b0%d0%bf%d1%83%d0%b0-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b3%d0%b2%d0%b8%d0%bd%d0%b5%d1%8f/%d0%bc%d0%be%d1%80%d0%be%d0%b1%d0%b5/%d0%bb%d0%b0%d1%8d-1272/",
     "climateImageUrl": "https://images.climate-data.org/location/1272/climate-graph-200.png",
     "lat": -6.7301976,
@@ -489,7 +489,7 @@
   },
   {
     "name": "Кавиенг",
-    "country": "папуа новая гвинея",
+    "country": "Папуа — Новая Гвинея",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bf%d0%b0%d0%bf%d1%83%d0%b0-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b3%d0%b2%d0%b8%d0%bd%d0%b5%d1%8f/%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b8%d1%80%d0%bb%d0%b0%d0%bd%d0%b4%d0%b8%d1%8f/%d0%ba%d0%b0%d0%b2%d0%b8%d0%b5%d0%bd%d0%b3-766073/",
     "climateImageUrl": "https://images.climate-data.org/location/766073/climate-graph-200.png",
     "lat": -2.573474,
@@ -497,79 +497,79 @@
   },
   {
     "name": "Порт-Морсби",
-    "country": "папуа новая гвинея",
+    "country": "Папуа — Новая Гвинея",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bf%d0%b0%d0%bf%d1%83%d0%b0-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b3%d0%b2%d0%b8%d0%bd%d0%b5%d1%8f/%d0%bf%d0%be%d1%80%d1%82-%d0%bc%d0%be%d1%80%d1%81%d0%b1%d0%b8/%d0%bf%d0%be%d1%80%d1%82-%d0%bc%d0%be%d1%80%d1%81%d0%b1%d0%b8-2095/",
     "climateImageUrl": "https://images.climate-data.org/location/2095/climate-graph-200.png",
     "lat": -9.4743301,
     "lon": 147.1599504
   },
   {
-    "name": "Gabi",
-    "country": "папуа новая гвинея",
+    "name": "Габи",
+    "country": "Папуа — Новая Гвинея",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bf%d0%b0%d0%bf%d1%83%d0%b0-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b3%d0%b2%d0%b8%d0%bd%d0%b5%d1%8f/gabi/gabi-202891/",
     "climateImageUrl": "https://images.climate-data.org/location/202891/climate-graph-200.png",
     "lat": -9.4523042,
     "lon": 147.1497538
   },
   {
-    "name": "Mou",
-    "country": "папуа новая гвинея",
+    "name": "Моу",
+    "country": "Папуа — Новая Гвинея",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bf%d0%b0%d0%bf%d1%83%d0%b0-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b3%d0%b2%d0%b8%d0%bd%d0%b5%d1%8f/%d1%86%d0%b5%d0%bd%d1%82%d1%80%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d0%bf%d1%80%d0%be%d0%b2%d0%b8%d0%bd%d1%86%d0%b8%d1%8f/mou-56125/",
     "climateImageUrl": "https://images.climate-data.org/location/56125/climate-graph-200.png",
     "lat": -7.7609569,
     "lon": 147.5796259
   },
   {
-    "name": "Babiko",
-    "country": "папуа новая гвинея",
+    "name": "Бабико",
+    "country": "Папуа — Новая Гвинея",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bf%d0%b0%d0%bf%d1%83%d0%b0-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b3%d0%b2%d0%b8%d0%bd%d0%b5%d1%8f/%d1%86%d0%b5%d0%bd%d1%82%d1%80%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d0%bf%d1%80%d0%be%d0%b2%d0%b8%d0%bd%d1%86%d0%b8%d1%8f/babiko-56124/",
     "climateImageUrl": "https://images.climate-data.org/location/56124/climate-graph-200.png",
     "lat": -8.6839713,
     "lon": 146.538569
   },
   {
-    "name": "Biotou",
-    "country": "папуа новая гвинея",
+    "name": "Биоту",
+    "country": "Папуа — Новая Гвинея",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bf%d0%b0%d0%bf%d1%83%d0%b0-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b3%d0%b2%d0%b8%d0%bd%d0%b5%d1%8f/%d1%86%d0%b5%d0%bd%d1%82%d1%80%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d0%bf%d1%80%d0%be%d0%b2%d0%b8%d0%bd%d1%86%d0%b8%d1%8f/biotou-1017678/",
     "climateImageUrl": "https://images.climate-data.org/location/1017678/climate-graph-200.png",
     "lat": -8.73707,
     "lon": 146.6229161
   },
   {
-    "name": "Kelebo",
-    "country": "папуа новая гвинея",
+    "name": "Келебо",
+    "country": "Папуа — Новая Гвинея",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bf%d0%b0%d0%bf%d1%83%d0%b0-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b3%d0%b2%d0%b8%d0%bd%d0%b5%d1%8f/kelebo/kelebo-986397/",
     "climateImageUrl": "https://images.climate-data.org/location/986397/climate-graph-200.png",
     "lat": -5.5630909,
     "lon": 142.5648572
   },
   {
-    "name": "Kupari",
-    "country": "папуа новая гвинея",
+    "name": "Купари",
+    "country": "Папуа — Новая Гвинея",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bf%d0%b0%d0%bf%d1%83%d0%b0-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b3%d0%b2%d0%b8%d0%bd%d0%b5%d1%8f/kupari/kupari-1068237/",
     "climateImageUrl": "https://images.climate-data.org/location/1068237/climate-graph-200.png",
     "lat": -5.8587886,
     "lon": 142.958362
   },
   {
-    "name": "Margarima",
-    "country": "папуа новая гвинея",
+    "name": "Маргарима",
+    "country": "Папуа — Новая Гвинея",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bf%d0%b0%d0%bf%d1%83%d0%b0-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b3%d0%b2%d0%b8%d0%bd%d0%b5%d1%8f/margarima/margarima-1026831/",
     "climateImageUrl": "https://images.climate-data.org/location/1026831/climate-graph-200.png",
     "lat": -5.9805591,
     "lon": 143.3596999
   },
   {
-    "name": "Tengo",
-    "country": "папуа новая гвинея",
+    "name": "Тэнго",
+    "country": "Папуа — Новая Гвинея",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bf%d0%b0%d0%bf%d1%83%d0%b0-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b3%d0%b2%d0%b8%d0%bd%d0%b5%d1%8f/tengo/tengo-1068238/",
     "climateImageUrl": "https://images.climate-data.org/location/1068238/climate-graph-200.png",
     "lat": -5.9543934,
     "lon": 143.2706568
   },
   {
-    "name": "Fugwa",
-    "country": "папуа новая гвинея",
+    "name": "Фугва",
+    "country": "Папуа — Новая Гвинея",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bf%d0%b0%d0%bf%d1%83%d0%b0-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b3%d0%b2%d0%b8%d0%bd%d0%b5%d1%8f/fugwa/fugwa-986398/",
     "climateImageUrl": "https://images.climate-data.org/location/986398/climate-graph-200.png",
     "lat": -5.7152513,
@@ -577,39 +577,39 @@
   },
   {
     "name": "Горока",
-    "country": "папуа новая гвинея",
+    "country": "Папуа — Новая Гвинея",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bf%d0%b0%d0%bf%d1%83%d0%b0-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b3%d0%b2%d0%b8%d0%bd%d0%b5%d1%8f/%d0%b8%d1%81%d1%82%d0%b5%d1%80%d0%bd-%d1%85%d0%b0%d0%b8%d0%bb%d0%b5%d0%bd%d0%b4%d1%81/%d0%b3%d0%be%d1%80%d0%be%d0%ba%d0%b0-50976/",
     "climateImageUrl": "https://images.climate-data.org/location/50976/climate-graph-200.png",
     "lat": -6.0730028,
     "lon": 145.3932891
   },
   {
-    "name": "Lolorua Sawmill",
-    "country": "папуа новая гвинея",
+    "name": "Лолоруа",
+    "country": "Папуа — Новая Гвинея",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bf%d0%b0%d0%bf%d1%83%d0%b0-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b3%d0%b2%d0%b8%d0%bd%d0%b5%d1%8f/%d1%86%d0%b5%d0%bd%d1%82%d1%80%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d0%bf%d1%80%d0%be%d0%b2%d0%b8%d0%bd%d1%86%d0%b8%d1%8f/lolorua-sawmill-643186/",
     "climateImageUrl": "https://images.climate-data.org/location/643186/climate-graph-200.png",
     "lat": -8.9606834,
     "lon": 146.9494429
   },
   {
-    "name": "Mariboi",
-    "country": "папуа новая гвинея",
+    "name": "Марибой",
+    "country": "Папуа — Новая Гвинея",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bf%d0%b0%d0%bf%d1%83%d0%b0-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b3%d0%b2%d0%b8%d0%bd%d0%b5%d1%8f/%d1%86%d0%b5%d0%bd%d1%82%d1%80%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d0%bf%d1%80%d0%be%d0%b2%d0%b8%d0%bd%d1%86%d0%b8%d1%8f/mariboi-643211/",
     "climateImageUrl": "https://images.climate-data.org/location/643211/climate-graph-200.png",
     "lat": -9.0101634,
     "lon": 147.0140573
   },
   {
-    "name": "Doa Plantation",
-    "country": "папуа новая гвинея",
+    "name": "Плантация Доа",
+    "country": "Папуа — Новая Гвинея",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bf%d0%b0%d0%bf%d1%83%d0%b0-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b3%d0%b2%d0%b8%d0%bd%d0%b5%d1%8f/%d1%86%d0%b5%d0%bd%d1%82%d1%80%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d0%bf%d1%80%d0%be%d0%b2%d0%b8%d0%bd%d1%86%d0%b8%d1%8f/doa-plantation-643185/",
     "climateImageUrl": "https://images.climate-data.org/location/643185/climate-graph-200.png",
     "lat": -8.9780099,
     "lon": 146.9513764
   },
   {
-    "name": "Wama",
-    "country": "папуа новая гвинея",
+    "name": "Вама",
+    "country": "Папуа — Новая Гвинея",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bf%d0%b0%d0%bf%d1%83%d0%b0-%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b3%d0%b2%d0%b8%d0%bd%d0%b5%d1%8f/%d1%86%d0%b5%d0%bd%d1%82%d1%80%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d0%bf%d1%80%d0%be%d0%b2%d0%b8%d0%bd%d1%86%d0%b8%d1%8f/wama-643183/",
     "climateImageUrl": "https://images.climate-data.org/location/643183/climate-graph-200.png",
     "lat": -8.9944014,
@@ -656,7 +656,7 @@
     "lon": 176.167505
   },
   {
-    "name": "Iwikau",
+    "name": "Ивикау Виллидж",
     "country": "новая зеландия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d0%b7%d0%b5%d0%bb%d0%b0%d0%bd%d0%b4%d0%b8%d1%8f/manawatu-wanganui/iwikau-60511/",
     "climateImageUrl": "https://images.climate-data.org/location/60511/climate-graph-200.png",
@@ -728,7 +728,7 @@
     "lon": 177.6840732
   },
   {
-    "name": "Nacula",
+    "name": "Натула",
     "country": "фиджи",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d1%84%d0%b8%d0%b4%d0%b6%d0%b8/nacula/nacula-775059/",
     "climateImageUrl": "https://images.climate-data.org/location/775059/climate-graph-200.png",
@@ -736,7 +736,7 @@
     "lon": 177.3979474
   },
   {
-    "name": "Soso",
+    "name": "Сосо",
     "country": "фиджи",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d1%84%d0%b8%d0%b4%d0%b6%d0%b8/soso/soso-986853/",
     "climateImageUrl": "https://images.climate-data.org/location/986853/climate-graph-200.png",
@@ -752,7 +752,7 @@
     "lon": 159.9552552
   },
   {
-    "name": "Nemba",
+    "name": "Нэмба",
     "country": "соломоновы острова",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d1%81%d0%be%d0%bb%d0%be%d0%bc%d0%be%d0%bd%d0%be%d0%b2%d1%8b-%d0%be%d1%81%d1%82%d1%80%d0%be%d0%b2%d0%b0/temotu-province/nemba-775095/",
     "climateImageUrl": "https://images.climate-data.org/location/775095/climate-graph-200.png",
@@ -760,7 +760,7 @@
     "lon": 165.813968
   },
   {
-    "name": "Venga",
+    "name": "Венга",
     "country": "соломоновы острова",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d1%81%d0%be%d0%bb%d0%be%d0%bc%d0%be%d0%bd%d0%be%d0%b2%d1%8b-%d0%be%d1%81%d1%82%d1%80%d0%be%d0%b2%d0%b0/temotu-province/venga-775094/",
     "climateImageUrl": "https://images.climate-data.org/location/775094/climate-graph-200.png",
@@ -768,7 +768,7 @@
     "lon": 165.777468
   },
   {
-    "name": "Manoputi",
+    "name": "Манопути",
     "country": "соломоновы острова",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d1%81%d0%be%d0%bb%d0%be%d0%bc%d0%be%d0%bd%d0%be%d0%b2%d1%8b-%d0%be%d1%81%d1%82%d1%80%d0%be%d0%b2%d0%b0/temotu-province/manoputi-775096/",
     "climateImageUrl": "https://images.climate-data.org/location/775096/climate-graph-200.png",
@@ -776,7 +776,7 @@
     "lon": 165.7582776
   },
   {
-    "name": "Banwawa",
+    "name": "Банвава",
     "country": "соломоновы острова",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d1%81%d0%be%d0%bb%d0%be%d0%bc%d0%be%d0%bd%d0%be%d0%b2%d1%8b-%d0%be%d1%81%d1%82%d1%80%d0%be%d0%b2%d0%b0/temotu-province/banwawa-775122/",
     "climateImageUrl": "https://images.climate-data.org/location/775122/climate-graph-200.png",
@@ -800,7 +800,7 @@
     "lon": 167.1784414
   },
   {
-    "name": "Port Havannah",
+    "name": "Порт-Гаванна",
     "country": "вануату",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b2%d0%b0%d0%bd%d1%83%d0%b0%d1%82%d1%83/shefa-province/port-havannah-775136/",
     "climateImageUrl": "https://images.climate-data.org/location/775136/climate-graph-200.png",
@@ -808,7 +808,7 @@
     "lon": 168.2759132
   },
   {
-    "name": "Bellevue",
+    "name": "Бельвю",
     "country": "вануату",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b2%d0%b0%d0%bd%d1%83%d0%b0%d1%82%d1%83/shefa-province/bellevue-1068338/",
     "climateImageUrl": "https://images.climate-data.org/location/1068338/climate-graph-200.png",
@@ -816,7 +816,7 @@
     "lon": 168.3410523
   },
   {
-    "name": "Vao",
+    "name": "Вао",
     "country": "вануату",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b2%d0%b0%d0%bd%d1%83%d0%b0%d1%82%d1%83/malampa/vao-1026838/",
     "climateImageUrl": "https://images.climate-data.org/location/1026838/climate-graph-200.png",
@@ -824,7 +824,7 @@
     "lon": 167.3090989
   },
   {
-    "name": "Port Resolution",
+    "name": "Порт-резолюция",
     "country": "вануату",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b2%d0%b0%d0%bd%d1%83%d0%b0%d1%82%d1%83/tafea/port-resolution-775055/",
     "climateImageUrl": "https://images.climate-data.org/location/775055/climate-graph-200.png",
@@ -832,7 +832,7 @@
     "lon": 169.5035106
   },
   {
-    "name": "Lenafa",
+    "name": "Ленафа",
     "country": "вануату",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b2%d0%b0%d0%bd%d1%83%d0%b0%d1%82%d1%83/tafea/lenafa-1026904/",
     "climateImageUrl": "https://images.climate-data.org/location/1026904/climate-graph-200.png",
@@ -840,7 +840,7 @@
     "lon": 169.2507498
   },
   {
-    "name": "Lounatem",
+    "name": "Лоунатем",
     "country": "вануату",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b2%d0%b0%d0%bd%d1%83%d0%b0%d1%82%d1%83/tafea/lounatem-1026901/",
     "climateImageUrl": "https://images.climate-data.org/location/1026901/climate-graph-200.png",
@@ -848,7 +848,7 @@
     "lon": 169.334853
   },
   {
-    "name": "Imanaka",
+    "name": "Иманака",
     "country": "вануату",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b2%d0%b0%d0%bd%d1%83%d0%b0%d1%82%d1%83/tafea/imanaka-1026896/",
     "climateImageUrl": "https://images.climate-data.org/location/1026896/climate-graph-200.png",
@@ -856,7 +856,7 @@
     "lon": 169.2291784
   },
   {
-    "name": "Ipkangien",
+    "name": "Ипкангиен",
     "country": "вануату",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b2%d0%b0%d0%bd%d1%83%d0%b0%d1%82%d1%83/tafea/ipkangien-1026895/",
     "climateImageUrl": "https://images.climate-data.org/location/1026895/climate-graph-200.png",
@@ -872,7 +872,7 @@
     "lon": 169.0182535
   },
   {
-    "name": "Loukahmal",
+    "name": "Лукахмаль",
     "country": "вануату",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b2%d0%b0%d0%bd%d1%83%d0%b0%d1%82%d1%83/tafea/loukahmal-1026902/",
     "climateImageUrl": "https://images.climate-data.org/location/1026902/climate-graph-200.png",
@@ -880,7 +880,7 @@
     "lon": 169.30832
   },
   {
-    "name": "Levlik",
+    "name": "Левлик",
     "country": "вануату",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b2%d0%b0%d0%bd%d1%83%d0%b0%d1%82%d1%83/tafea/levlik-1026899/",
     "climateImageUrl": "https://images.climate-data.org/location/1026899/climate-graph-200.png",
@@ -888,7 +888,7 @@
     "lon": 169.3251577
   },
   {
-    "name": "Lamnatu",
+    "name": "Ламнату",
     "country": "вануату",
     "climatePageUrl": "https://ru.climate-data.org/%d0%be%d0%ba%d0%b5%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b2%d0%b0%d0%bd%d1%83%d0%b0%d1%82%d1%83/tafea/lamnatu-1026898/",
     "climateImageUrl": "https://images.climate-data.org/location/1026898/climate-graph-200.png",
@@ -4249,7 +4249,7 @@
   },
   {
     "name": "Кишинёв",
-    "country": "молдова",
+    "country": "Молдавия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0/%d0%bc%d0%be%d0%bb%d0%b4%d0%be%d0%b2%d0%b0/%d0%ba%d0%b8%d1%88%d0%b8%d0%bd%d0%b5%d0%b2/%d0%ba%d0%b8%d1%88%d0%b8%d0%bd%d0%b5%d0%b2-1340/",
     "climateImageUrl": "https://images.climate-data.org/location/1340/climate-graph-200.png",
     "lat": 47.0245117,
@@ -4257,7 +4257,7 @@
   },
   {
     "name": "Тирасполь",
-    "country": "молдова",
+    "country": "Молдавия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0/%d0%bc%d0%be%d0%bb%d0%b4%d0%be%d0%b2%d0%b0/%d0%bf%d1%80%d0%b8%d0%b4%d0%bd%d0%b5%d1%81%d1%82%d1%80%d0%be%d0%b2%d1%8c%d0%b5/%d1%82%d0%b8%d1%80%d0%b0%d1%81%d0%bf%d0%be%d0%bb%d1%8c-768400/",
     "climateImageUrl": "https://images.climate-data.org/location/768400/climate-graph-200.png",
     "lat": 46.8371103,
@@ -4265,7 +4265,7 @@
   },
   {
     "name": "Комрат",
-    "country": "молдова",
+    "country": "Молдавия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0/%d0%bc%d0%be%d0%bb%d0%b4%d0%be%d0%b2%d0%b0/%d0%b3%d0%b0%d0%b3%d0%b0%d1%83%d0%b7%d0%b8%d1%8f/%d0%ba%d0%be%d0%bc%d1%80%d0%b0%d1%82-27599/",
     "climateImageUrl": "https://images.climate-data.org/location/27599/climate-graph-200.png",
     "lat": 46.301119,
@@ -4273,7 +4273,7 @@
   },
   {
     "name": "Дурлешты",
-    "country": "молдова",
+    "country": "Молдавия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0/%d0%bc%d0%be%d0%bb%d0%b4%d0%be%d0%b2%d0%b0/%d0%b4%d1%83%d1%80%d0%bb%d0%b5%d1%88%d1%82%d1%8b/%d0%b4%d1%83%d1%80%d0%bb%d0%b5%d1%88%d1%82%d1%8b-27647/",
     "climateImageUrl": "https://images.climate-data.org/location/27647/climate-graph-200.png",
     "lat": 47.0228298,
@@ -4281,7 +4281,7 @@
   },
   {
     "name": "Бельцы",
-    "country": "молдова",
+    "country": "Молдавия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0/%d0%bc%d0%be%d0%bb%d0%b4%d0%be%d0%b2%d0%b0/%d0%b1%d0%b5%d0%bb%d1%8c%d1%86%d1%8b/%d0%b1%d0%b5%d0%bb%d1%8c%d1%86%d1%8b-3309/",
     "climateImageUrl": "https://images.climate-data.org/location/3309/climate-graph-200.png",
     "lat": 47.7623952,
@@ -4289,7 +4289,7 @@
   },
   {
     "name": "Вулканешты",
-    "country": "молдова",
+    "country": "Молдавия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0/%d0%bc%d0%be%d0%bb%d0%b4%d0%be%d0%b2%d0%b0/%d0%b3%d0%b0%d0%b3%d0%b0%d1%83%d0%b7%d0%b8%d1%8f/%d0%b2%d1%83%d0%bb%d0%ba%d0%b0%d0%bd%d0%b5%d1%88%d1%82%d1%8b-28139/",
     "climateImageUrl": "https://images.climate-data.org/location/28139/climate-graph-200.png",
     "lat": 45.6824005,
@@ -4297,7 +4297,7 @@
   },
   {
     "name": "Тараклия",
-    "country": "молдова",
+    "country": "Молдавия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0/%d0%bc%d0%be%d0%bb%d0%b4%d0%be%d0%b2%d0%b0/%d1%82%d0%b0%d1%80%d0%b0%d0%ba%d0%bb%d0%b8%d1%8f/%d1%82%d0%b0%d1%80%d0%b0%d0%ba%d0%bb%d0%b8%d1%8f-27602/",
     "climateImageUrl": "https://images.climate-data.org/location/27602/climate-graph-200.png",
     "lat": 45.8979764,
@@ -4305,7 +4305,7 @@
   },
   {
     "name": "Джюрджюлешть",
-    "country": "молдова",
+    "country": "Молдавия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0/%d0%bc%d0%be%d0%bb%d0%b4%d0%be%d0%b2%d0%b0/%d0%b4%d0%b6%d1%8e%d1%80%d0%b4%d0%b6%d1%8e%d0%bb%d0%b5%d1%88%d1%82%d1%8c/%d0%b4%d0%b6%d1%8e%d1%80%d0%b4%d0%b6%d1%8e%d0%bb%d0%b5%d1%88%d1%82%d1%8c-194606/",
     "climateImageUrl": "https://images.climate-data.org/location/194606/climate-graph-200.png",
     "lat": 45.4807132,
@@ -4313,7 +4313,7 @@
   },
   {
     "name": "Пашканы",
-    "country": "молдова",
+    "country": "Молдавия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0/%d0%bc%d0%be%d0%bb%d0%b4%d0%be%d0%b2%d0%b0/%d0%bf%d0%b0%d1%88%d0%ba%d0%b0%d0%bd%d1%8b/%d0%bf%d0%b0%d1%88%d0%ba%d0%b0%d0%bd%d1%8b-194618/",
     "climateImageUrl": "https://images.climate-data.org/location/194618/climate-graph-200.png",
     "lat": 46.9721719,
@@ -4321,7 +4321,7 @@
   },
   {
     "name": "Манта",
-    "country": "молдова",
+    "country": "Молдавия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0/%d0%bc%d0%be%d0%bb%d0%b4%d0%be%d0%b2%d0%b0/%d0%bc%d0%b0%d0%bd%d1%82%d0%b0/%d0%bc%d0%b0%d0%bd%d1%82%d0%b0-194617/",
     "climateImageUrl": "https://images.climate-data.org/location/194617/climate-graph-200.png",
     "lat": 45.8024229,
@@ -5169,7 +5169,7 @@
   },
   {
     "name": "Serravalle",
-    "country": "сан марино",
+    "country": "Сан-Марино",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0/%d1%81%d0%b0%d0%bd-%d0%bc%d0%b0%d1%80%d0%b8%d0%bd%d0%be/serravalle/serravalle-203854/",
     "climateImageUrl": "https://images.climate-data.org/location/203854/climate-graph-200.png",
     "lat": 43.9699026,
@@ -5177,7 +5177,7 @@
   },
   {
     "name": "Borgo Maggiore",
-    "country": "сан марино",
+    "country": "Сан-Марино",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0/%d1%81%d0%b0%d0%bd-%d0%bc%d0%b0%d1%80%d0%b8%d0%bd%d0%be/borgo-maggiore/borgo-maggiore-203857/",
     "climateImageUrl": "https://images.climate-data.org/location/203857/climate-graph-200.png",
     "lat": 43.9411865,
@@ -5185,7 +5185,7 @@
   },
   {
     "name": "Domagnano",
-    "country": "сан марино",
+    "country": "Сан-Марино",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0/%d1%81%d0%b0%d0%bd-%d0%bc%d0%b0%d1%80%d0%b8%d0%bd%d0%be/domagnano/domagnano-203855/",
     "climateImageUrl": "https://images.climate-data.org/location/203855/climate-graph-200.png",
     "lat": 43.9475027,
@@ -5193,7 +5193,7 @@
   },
   {
     "name": "Acquaviva",
-    "country": "сан марино",
+    "country": "Сан-Марино",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0/%d1%81%d0%b0%d0%bd-%d0%bc%d0%b0%d1%80%d0%b8%d0%bd%d0%be/acquaviva/acquaviva-203856/",
     "climateImageUrl": "https://images.climate-data.org/location/203856/climate-graph-200.png",
     "lat": 43.9464246,
@@ -5201,7 +5201,7 @@
   },
   {
     "name": "Faetano",
-    "country": "сан марино",
+    "country": "Сан-Марино",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0/%d1%81%d0%b0%d0%bd-%d0%bc%d0%b0%d1%80%d0%b8%d0%bd%d0%be/faetano/faetano-203853/",
     "climateImageUrl": "https://images.climate-data.org/location/203853/climate-graph-200.png",
     "lat": 43.9269122,
@@ -5209,7 +5209,7 @@
   },
   {
     "name": "City of San Marino",
-    "country": "сан марино",
+    "country": "Сан-Марино",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0/%d1%81%d0%b0%d0%bd-%d0%bc%d0%b0%d1%80%d0%b8%d0%bd%d0%be/city-of-san-marino/city-of-san-marino-203860/",
     "climateImageUrl": "https://images.climate-data.org/location/203860/climate-graph-200.png",
     "lat": 43.9363996,
@@ -5217,7 +5217,7 @@
   },
   {
     "name": "Fiorentino",
-    "country": "сан марино",
+    "country": "Сан-Марино",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0/%d1%81%d0%b0%d0%bd-%d0%bc%d0%b0%d1%80%d0%b8%d0%bd%d0%be/fiorentino/fiorentino-203859/",
     "climateImageUrl": "https://images.climate-data.org/location/203859/climate-graph-200.png",
     "lat": 43.9103157,
@@ -5225,7 +5225,7 @@
   },
   {
     "name": "Chiesanuova",
-    "country": "сан марино",
+    "country": "Сан-Марино",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0/%d1%81%d0%b0%d0%bd-%d0%bc%d0%b0%d1%80%d0%b8%d0%bd%d0%be/chiesanuova/chiesanuova-203858/",
     "climateImageUrl": "https://images.climate-data.org/location/203858/climate-graph-200.png",
     "lat": 43.9053382,
@@ -5233,7 +5233,7 @@
   },
   {
     "name": "Murata",
-    "country": "сан марино",
+    "country": "Сан-Марино",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0/%d1%81%d0%b0%d0%bd-%d0%bc%d0%b0%d1%80%d0%b8%d0%bd%d0%be/murata/murata-1047490/",
     "climateImageUrl": "https://images.climate-data.org/location/1047490/climate-graph-200.png",
     "lat": 43.9183541,
@@ -8305,7 +8305,7 @@
   },
   {
     "name": "Баку",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d0%b1%d0%b0%d0%ba%d0%b8%d0%bd%d1%81%d0%ba%d0%b0%d1%8f-%d0%b0%d0%b4%d0%bc%d0%b8%d0%bd%d0%b8%d1%81%d1%82%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%b1%d0%b0%d0%ba%d1%83-764549/",
     "climateImageUrl": "https://images.climate-data.org/location/764549/climate-graph-200.png",
     "lat": 40.3755885,
@@ -8313,7 +8313,7 @@
   },
   {
     "name": "Сумгаит",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d1%81%d1%83%d0%bc%d0%b3%d0%b0%d0%b8%d1%82%d1%81%d0%ba%d0%b0%d1%8f-%d0%b0%d0%b4%d0%bc%d0%b8%d0%bd%d0%b8%d1%81%d1%82%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d1%81%d1%83%d0%bc%d0%b3%d0%b0%d0%b8%d1%82-5781/",
     "climateImageUrl": "https://images.climate-data.org/location/5781/climate-graph-200.png",
     "lat": 40.5961585,
@@ -8321,7 +8321,7 @@
   },
   {
     "name": "Гянджа",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d0%b3%d0%b5%d0%b8%d0%b3%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%b8%d0%b8-%d1%80%d0%b0%d0%b8%d0%be%d0%bd/g%c9%99nc%c9%99-1789/",
     "climateImageUrl": "https://images.climate-data.org/location/1789/climate-graph-200.png",
     "lat": 40.6798083,
@@ -8329,7 +8329,7 @@
   },
   {
     "name": "Мингечевир",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d0%bc%d0%b8%d0%bd%d0%b3%d0%b5%d1%87%d0%b0%d1%83%d1%80%d1%81%d0%ba%d0%b0%d1%8f-%d0%b0%d0%b4%d0%bc%d0%b8%d0%bd%d0%b8%d1%81%d1%82%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%bc%d0%b8%d0%bd%d0%b3%d0%b5%d1%87%d0%b5%d0%b2%d0%b8%d1%80-2091/",
     "climateImageUrl": "https://images.climate-data.org/location/2091/climate-graph-200.png",
     "lat": 40.7646918,
@@ -8337,7 +8337,7 @@
   },
   {
     "name": "Ширван",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d1%88%d0%b8%d1%80%d0%b2%d0%b0%d0%bd%d1%81%d0%ba%d0%b0%d1%8f-%d0%b0%d0%b4%d0%bc%d0%b8%d0%bd%d0%b8%d1%81%d1%82%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d1%88%d0%b8%d1%80%d0%b2%d0%b0%d0%bd-2090/",
     "climateImageUrl": "https://images.climate-data.org/location/2090/climate-graph-200.png",
     "lat": 39.9296573,
@@ -8345,7 +8345,7 @@
   },
   {
     "name": "Toğanalı",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d0%b3%d0%b5%d0%b8%d0%b3%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%b8%d0%b8-%d1%80%d0%b0%d0%b8%d0%be%d0%bd/toganal%c4%b1-1054567/",
     "climateImageUrl": "https://images.climate-data.org/location/1054567/climate-graph-200.png",
     "lat": 40.4252278,
@@ -8353,7 +8353,7 @@
   },
   {
     "name": "Kiş",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d1%88%d0%b5%d0%ba%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d0%b8-%d1%80%d0%b0%d0%b8%d0%be%d0%bd/kis-955088/",
     "climateImageUrl": "https://images.climate-data.org/location/955088/climate-graph-200.png",
     "lat": 39.7809198,
@@ -8361,7 +8361,7 @@
   },
   {
     "name": "Кедабек",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d0%ba%d0%b5%d0%b4%d0%b0%d0%b1%d0%b5%d0%ba%d1%81%d0%ba%d0%b8%d0%b8-%d1%80%d0%b0%d0%b8%d0%be%d0%bd/%d0%ba%d0%b5%d0%b4%d0%b0%d0%b1%d0%b5%d0%ba-21865/",
     "climateImageUrl": "https://images.climate-data.org/location/21865/climate-graph-200.png",
     "lat": 40.5747098,
@@ -8369,7 +8369,7 @@
   },
   {
     "name": "Шуши",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d1%88%d1%83%d1%88%d0%b8/%d1%88%d1%83%d1%88%d0%b8-21621/",
     "climateImageUrl": "https://images.climate-data.org/location/21621/climate-graph-200.png",
     "lat": 39.7632567,
@@ -8377,7 +8377,7 @@
   },
   {
     "name": "Шеки",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d0%b3%d0%b0%d0%b1%d0%b0%d0%bb%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d0%b8-%d1%80%d0%b0%d0%b8%d0%be%d0%bd/%d1%88%d0%b5%d0%ba%d0%b8-2092/",
     "climateImageUrl": "https://images.climate-data.org/location/2092/climate-graph-200.png",
     "lat": 41.2032217,
@@ -8385,7 +8385,7 @@
   },
   {
     "name": "Исмаиллы",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d0%b8%d1%81%d0%bc%d0%b0%d0%b8%d0%bb%d0%bb%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d0%b8-%d1%80%d0%b0%d0%b8%d0%be%d0%bd/%d0%b8%d1%81%d0%bc%d0%b0%d0%b8%d0%bb%d0%bb%d1%8b-28489/",
     "climateImageUrl": "https://images.climate-data.org/location/28489/climate-graph-200.png",
     "lat": 40.788056,
@@ -8393,7 +8393,7 @@
   },
   {
     "name": "Огуз",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d0%be%d0%b3%d1%83%d0%b7%d1%81%d0%ba%d0%b8%d0%b8-%d1%80%d0%b0%d0%b8%d0%be%d0%bd/%d0%be%d0%b3%d1%83%d0%b7-715036/",
     "climateImageUrl": "https://images.climate-data.org/location/715036/climate-graph-200.png",
     "lat": 41.0677148,
@@ -8401,7 +8401,7 @@
   },
   {
     "name": "Степанакерт",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d1%81%d1%82%d0%b5%d0%bf%d0%b0%d0%bd%d0%b0%d0%ba%d0%b5%d1%80%d1%82/%d1%81%d1%82%d0%b5%d0%bf%d0%b0%d0%bd%d0%b0%d0%ba%d0%b5%d1%80%d1%82-1054894/",
     "climateImageUrl": "https://images.climate-data.org/location/1054894/climate-graph-200.png",
     "lat": 39.8182184,
@@ -8409,7 +8409,7 @@
   },
   {
     "name": "Ленкорань",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d0%bb%d0%b5%d0%bd%d0%ba%d0%be%d1%80%d0%b0%d0%bd%d1%81%d0%ba%d0%b0%d1%8f-%d0%b0%d0%b4%d0%bc%d0%b8%d0%bd%d0%b8%d1%81%d1%82%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%bb%d0%b5%d0%bd%d0%ba%d0%be%d1%80%d0%b0%d0%bd%d1%8c-21891/",
     "climateImageUrl": "https://images.climate-data.org/location/21891/climate-graph-200.png",
     "lat": 38.7537311,
@@ -8417,7 +8417,7 @@
   },
   {
     "name": "Джалилабад",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d0%b4%d0%b6%d0%b0%d0%bb%d0%b8%d0%bb%d0%b0%d0%b1%d0%b0%d0%b4%d1%81%d0%ba%d0%b8%d0%b8-%d1%80%d0%b0%d0%b8%d0%be%d0%bd/%d0%b4%d0%b6%d0%b0%d0%bb%d0%b8%d0%bb%d0%b0%d0%b1%d0%b0%d0%b4-21887/",
     "climateImageUrl": "https://images.climate-data.org/location/21887/climate-graph-200.png",
     "lat": 39.2103933,
@@ -8425,7 +8425,7 @@
   },
   {
     "name": "Шемаха",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d1%88%d0%b5%d0%bc%d0%b0%d1%85%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d0%b8-%d1%80%d0%b0%d0%b8%d0%be%d0%bd/%d1%88%d0%b5%d0%bc%d0%b0%d1%85%d0%b0-2082/",
     "climateImageUrl": "https://images.climate-data.org/location/2082/climate-graph-200.png",
     "lat": 40.6338603,
@@ -8433,7 +8433,7 @@
   },
   {
     "name": "Ахсу",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d0%b0%d1%85%d1%81%d1%83%d0%b8%d1%81%d0%ba%d0%b8%d0%b8-%d1%80%d0%b0%d0%b8%d0%be%d0%bd/%d0%b0%d1%85%d1%81%d1%83-21851/",
     "climateImageUrl": "https://images.climate-data.org/location/21851/climate-graph-200.png",
     "lat": 40.5680452,
@@ -8441,7 +8441,7 @@
   },
   {
     "name": "Масаллы",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d0%bc%d0%b0%d1%81%d0%b0%d0%bb%d0%bb%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d0%b8-%d1%80%d0%b0%d0%b8%d0%be%d0%bd/%d0%bc%d0%b0%d1%81%d0%b0%d0%bb%d0%bb%d1%8b-21888/",
     "climateImageUrl": "https://images.climate-data.org/location/21888/climate-graph-200.png",
     "lat": 39.0322111,
@@ -8449,7 +8449,7 @@
   },
   {
     "name": "Куба",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d0%ba%d1%83%d0%b1%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d0%b8-%d1%80%d0%b0%d0%b8%d0%be%d0%bd/%d0%ba%d1%83%d0%b1%d0%b0-23897/",
     "climateImageUrl": "https://images.climate-data.org/location/23897/climate-graph-200.png",
     "lat": 41.3615456,
@@ -8457,7 +8457,7 @@
   },
   {
     "name": "Габала",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d0%b3%d0%b0%d0%b1%d0%b0%d0%bb%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d0%b8-%d1%80%d0%b0%d0%b8%d0%be%d0%bd/%d0%b3%d0%b0%d0%b1%d0%b0%d0%bb%d0%b0-23898/",
     "climateImageUrl": "https://images.climate-data.org/location/23898/climate-graph-200.png",
     "lat": 40.9753138,
@@ -8465,7 +8465,7 @@
   },
   {
     "name": "Вандам",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d0%b3%d0%b0%d0%b1%d0%b0%d0%bb%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d0%b8-%d1%80%d0%b0%d0%b8%d0%be%d0%bd/%d0%b2%d0%b0%d0%bd%d0%b4%d0%b0%d0%bc-955092/",
     "climateImageUrl": "https://images.climate-data.org/location/955092/climate-graph-200.png",
     "lat": 40.9471208,
@@ -8473,7 +8473,7 @@
   },
   {
     "name": "Кусары",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d0%ba%d1%83%d1%81%d0%b0%d1%80%d1%81%d0%ba%d0%b8%d0%b8-%d1%80%d0%b0%d0%b8%d0%be%d0%bd/%d0%ba%d1%83%d1%81%d0%b0%d1%80%d1%8b-23902/",
     "climateImageUrl": "https://images.climate-data.org/location/23902/climate-graph-200.png",
     "lat": 41.4303387,
@@ -8481,7 +8481,7 @@
   },
   {
     "name": "Ивановка",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d0%b8%d1%81%d0%bc%d0%b0%d0%b8%d0%bb%d0%bb%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d0%b8-%d1%80%d0%b0%d0%b8%d0%be%d0%bd/%d0%b8%d0%b2%d0%b0%d0%bd%d0%be%d0%b2%d0%ba%d0%b0-753101/",
     "climateImageUrl": "https://images.climate-data.org/location/753101/climate-graph-200.png",
     "lat": 40.7461911,
@@ -8489,7 +8489,7 @@
   },
   {
     "name": "Vov",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d0%bb%d0%b5%d1%80%d0%b8%d0%ba%d1%81%d0%ba%d0%b8%d0%b8-%d1%80%d0%b0%d0%b8%d0%be%d0%bd/vov-1058043/",
     "climateImageUrl": "https://images.climate-data.org/location/1058043/climate-graph-200.png",
     "lat": 38.6342463,
@@ -8497,7 +8497,7 @@
   },
   {
     "name": "Siyov",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d0%bb%d0%b5%d1%80%d0%b8%d0%ba%d1%81%d0%ba%d0%b8%d0%b8-%d1%80%d0%b0%d0%b8%d0%be%d0%bd/siyov-1058044/",
     "climateImageUrl": "https://images.climate-data.org/location/1058044/climate-graph-200.png",
     "lat": 38.6703158,
@@ -8505,7 +8505,7 @@
   },
   {
     "name": "Лерик",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d0%bb%d0%b5%d1%80%d0%b8%d0%ba%d1%81%d0%ba%d0%b8%d0%b8-%d1%80%d0%b0%d0%b8%d0%be%d0%bd/%d0%bb%d0%b5%d1%80%d0%b8%d0%ba-21890/",
     "climateImageUrl": "https://images.climate-data.org/location/21890/climate-graph-200.png",
     "lat": 38.7752945,
@@ -8513,7 +8513,7 @@
   },
   {
     "name": "Şəfəqli",
-    "country": "азербаиджан",
+    "country": "Азербайджан",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0%d0%b8%d0%b4%d0%b6%d0%b0%d0%bd/%d1%8f%d1%80%d0%b4%d1%8b%d0%bc%d0%bb%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d0%b8-%d1%80%d0%b0%d0%b8%d0%be%d0%bd/s%c9%99f%c9%99qli-1058042/",
     "climateImageUrl": "https://images.climate-data.org/location/1058042/climate-graph-200.png",
     "lat": 38.8992551,
@@ -8937,7 +8937,7 @@
   },
   {
     "name": "Al-Hidd",
-    "country": "бахреин",
+    "country": "Бахрейн",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b1%d0%b0%d1%85%d1%80%d0%b5%d0%b8%d0%bd/muharraq-governorate/al-hidd-767014/",
     "climateImageUrl": "https://images.climate-data.org/location/767014/climate-graph-200.png",
     "lat": 26.2440537,
@@ -8945,7 +8945,7 @@
   },
   {
     "name": "Mina Salman",
-    "country": "бахреин",
+    "country": "Бахрейн",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b1%d0%b0%d1%85%d1%80%d0%b5%d0%b8%d0%bd/capital-governorate/mina-salman-31566/",
     "climateImageUrl": "https://images.climate-data.org/location/31566/climate-graph-200.png",
     "lat": 26.2018153,
@@ -8953,7 +8953,7 @@
   },
   {
     "name": "Манама",
-    "country": "бахреин",
+    "country": "Бахрейн",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b1%d0%b0%d1%85%d1%80%d0%b5%d0%b8%d0%bd/capital-governorate/%d0%bc%d0%b0%d0%bd%d0%b0%d0%bc%d0%b0-887/",
     "climateImageUrl": "https://images.climate-data.org/location/887/climate-graph-200.png",
     "lat": 26.2235041,
@@ -8961,7 +8961,7 @@
   },
   {
     "name": "Hamad Town",
-    "country": "бахреин",
+    "country": "Бахрейн",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b1%d0%b0%d1%85%d1%80%d0%b5%d0%b8%d0%bd/hamad-town/hamad-town-48783/",
     "climateImageUrl": "https://images.climate-data.org/location/48783/climate-graph-200.png",
     "lat": 26.1267463,
@@ -8969,7 +8969,7 @@
   },
   {
     "name": "A'ali",
-    "country": "бахреин",
+    "country": "Бахрейн",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b1%d0%b0%d1%85%d1%80%d0%b5%d0%b8%d0%bd/central-governorate/a-ali-764401/",
     "climateImageUrl": "https://images.climate-data.org/location/764401/climate-graph-200.png",
     "lat": 26.1544539,
@@ -8977,7 +8977,7 @@
   },
   {
     "name": "Kuala Belait",
-    "country": "брунеи",
+    "country": "Бруней",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b1%d1%80%d1%83%d0%bd%d0%b5%d0%b8/kuala-belait/kuala-belait-5740/",
     "climateImageUrl": "https://images.climate-data.org/location/5740/climate-graph-200.png",
     "lat": 4.5845101,
@@ -8985,7 +8985,7 @@
   },
   {
     "name": "Бандар-Сери-Бегаван",
-    "country": "брунеи",
+    "country": "Бруней",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b1%d1%80%d1%83%d0%bd%d0%b5%d0%b8/%d0%b1%d0%b0%d0%bd%d0%b4%d0%b0%d1%80-%d1%81%d0%b5%d1%80%d0%b8-%d0%b1%d0%b5%d0%b3%d0%b0%d0%b2%d0%b0%d0%bd/%d0%b1%d0%b0%d0%bd%d0%b4%d0%b0%d1%80-%d1%81%d0%b5%d1%80%d0%b8-%d0%b1%d0%b5%d0%b3%d0%b0%d0%b2%d0%b0%d0%bd-6419/",
     "climateImageUrl": "https://images.climate-data.org/location/6419/climate-graph-200.png",
     "lat": 4.8895453,
@@ -8993,7 +8993,7 @@
   },
   {
     "name": "Mata-Mata",
-    "country": "брунеи",
+    "country": "Бруней",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b1%d1%80%d1%83%d0%bd%d0%b5%d0%b8/mata-mata/mata-mata-994192/",
     "climateImageUrl": "https://images.climate-data.org/location/994192/climate-graph-200.png",
     "lat": 4.8999682,
@@ -9001,7 +9001,7 @@
   },
   {
     "name": "Jerudong",
-    "country": "брунеи",
+    "country": "Бруней",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b1%d1%80%d1%83%d0%bd%d0%b5%d0%b8/jerudong/jerudong-994191/",
     "climateImageUrl": "https://images.climate-data.org/location/994191/climate-graph-200.png",
     "lat": 4.9378332,
@@ -9009,7 +9009,7 @@
   },
   {
     "name": "Seria",
-    "country": "брунеи",
+    "country": "Бруней",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b1%d1%80%d1%83%d0%bd%d0%b5%d0%b8/seria/seria-717883/",
     "climateImageUrl": "https://images.climate-data.org/location/717883/climate-graph-200.png",
     "lat": 4.6141594,
@@ -10577,7 +10577,7 @@
   },
   {
     "name": "Аден",
-    "country": "иемен",
+    "country": "Йемен",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b8%d0%b5%d0%bc%d0%b5%d0%bd/%d0%b0%d0%b4%d0%b5%d0%bd/%d0%b0%d0%b4%d0%b5%d0%bd-3238/",
     "climateImageUrl": "https://images.climate-data.org/location/3238/climate-graph-200.png",
     "lat": 12.789585,
@@ -10585,7 +10585,7 @@
   },
   {
     "name": "Hadiboh",
-    "country": "иемен",
+    "country": "Йемен",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b8%d0%b5%d0%bc%d0%b5%d0%bd/%d1%85%d0%b0%d0%b4%d1%80%d0%b0%d0%bc%d0%b0%d1%83%d1%82/hadiboh-31635/",
     "climateImageUrl": "https://images.climate-data.org/location/31635/climate-graph-200.png",
     "lat": 12.651236,
@@ -10593,7 +10593,7 @@
   },
   {
     "name": "Bani Sari",
-    "country": "иемен",
+    "country": "Йемен",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b8%d0%b5%d0%bc%d0%b5%d0%bd/%d1%82%d0%b0%d0%b8%d0%b7/bani-sari-533893/",
     "climateImageUrl": "https://images.climate-data.org/location/533893/climate-graph-200.png",
     "lat": 14.3281034,
@@ -10601,7 +10601,7 @@
   },
   {
     "name": "Shibam",
-    "country": "иемен",
+    "country": "Йемен",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b8%d0%b5%d0%bc%d0%b5%d0%bd/%d1%85%d0%b0%d0%b4%d1%80%d0%b0%d0%bc%d0%b0%d1%83%d1%82/shibam-30013/",
     "climateImageUrl": "https://images.climate-data.org/location/30013/climate-graph-200.png",
     "lat": 15.9266974,
@@ -10609,7 +10609,7 @@
   },
   {
     "name": "Al-Atefy Village",
-    "country": "иемен",
+    "country": "Йемен",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b8%d0%b5%d0%bc%d0%b5%d0%bd/%d0%bc%d0%b0%d1%80%d0%b8%d0%b1/al-atefy-village-935899/",
     "climateImageUrl": "https://images.climate-data.org/location/935899/climate-graph-200.png",
     "lat": 14.9253601,
@@ -10617,7 +10617,7 @@
   },
   {
     "name": "Yarim",
-    "country": "иемен",
+    "country": "Йемен",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b8%d0%b5%d0%bc%d0%b5%d0%bd/%d0%b8%d0%b1%d0%b1/yarim-54933/",
     "climateImageUrl": "https://images.climate-data.org/location/54933/climate-graph-200.png",
     "lat": 14.2990691,
@@ -10625,7 +10625,7 @@
   },
   {
     "name": "Al Majrab",
-    "country": "иемен",
+    "country": "Йемен",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b8%d0%b5%d0%bc%d0%b5%d0%bd/%d1%81%d0%b0%d0%b0%d0%b4%d0%b0/al-majrab-526197/",
     "climateImageUrl": "https://images.climate-data.org/location/526197/climate-graph-200.png",
     "lat": 15.076075,
@@ -10633,7 +10633,7 @@
   },
   {
     "name": "Al Yamani",
-    "country": "иемен",
+    "country": "Йемен",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b8%d0%b5%d0%bc%d0%b5%d0%bd/%d1%81%d0%b0%d0%b0%d0%b4%d0%b0/al-yamani-526080/",
     "climateImageUrl": "https://images.climate-data.org/location/526080/climate-graph-200.png",
     "lat": 16.212371,
@@ -10641,7 +10641,7 @@
   },
   {
     "name": "Таиз",
-    "country": "иемен",
+    "country": "Йемен",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b8%d0%b5%d0%bc%d0%b5%d0%bd/%d1%82%d0%b0%d0%b8%d0%b7/%d1%82%d0%b0%d0%b8%d0%b7-3237/",
     "climateImageUrl": "https://images.climate-data.org/location/3237/climate-graph-200.png",
     "lat": 13.5752242,
@@ -10649,7 +10649,7 @@
   },
   {
     "name": "Ибб",
-    "country": "иемен",
+    "country": "Йемен",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b8%d0%b5%d0%bc%d0%b5%d0%bd/%d0%b8%d0%b1%d0%b1/%d0%b8%d0%b1%d0%b1-3328/",
     "climateImageUrl": "https://images.climate-data.org/location/3328/climate-graph-200.png",
     "lat": 14.1419291,
@@ -10657,7 +10657,7 @@
   },
   {
     "name": "Bayt al Wafi",
-    "country": "иемен",
+    "country": "Йемен",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b8%d0%b5%d0%bc%d0%b5%d0%bd/%d1%82%d0%b0%d0%b8%d0%b7/bayt-al-wafi-528293/",
     "climateImageUrl": "https://images.climate-data.org/location/528293/climate-graph-200.png",
     "lat": 13.52254,
@@ -10665,7 +10665,7 @@
   },
   {
     "name": "Al Qushayb",
-    "country": "иемен",
+    "country": "Йемен",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b8%d0%b5%d0%bc%d0%b5%d0%bd/%d1%82%d0%b0%d0%b8%d0%b7/al-qushayb-541758/",
     "climateImageUrl": "https://images.climate-data.org/location/541758/climate-graph-200.png",
     "lat": 13.1606994,
@@ -10673,7 +10673,7 @@
   },
   {
     "name": "Dhahib",
-    "country": "иемен",
+    "country": "Йемен",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b8%d0%b5%d0%bc%d0%b5%d0%bd/%d0%b4%d0%b0%d0%bc%d0%b0%d1%80/dhahib-534658/",
     "climateImageUrl": "https://images.climate-data.org/location/534658/climate-graph-200.png",
     "lat": 14.594888,
@@ -10681,7 +10681,7 @@
   },
   {
     "name": "Сана",
-    "country": "иемен",
+    "country": "Йемен",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b8%d0%b5%d0%bc%d0%b5%d0%bd/%d1%81%d0%b0%d0%bd%d0%b0/%d1%81%d0%b0%d0%bd%d0%b0-3171/",
     "climateImageUrl": "https://images.climate-data.org/location/3171/climate-graph-200.png",
     "lat": 15.35,
@@ -10689,7 +10689,7 @@
   },
   {
     "name": "Bayt Zahir",
-    "country": "иемен",
+    "country": "Йемен",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b8%d0%b5%d0%bc%d0%b5%d0%bd/%d0%b0%d0%bc%d1%80%d0%b0%d0%bd/bayt-zahir-544538/",
     "climateImageUrl": "https://images.climate-data.org/location/544538/climate-graph-200.png",
     "lat": 16.156616,
@@ -10697,7 +10697,7 @@
   },
   {
     "name": "Al Kharbah",
-    "country": "иемен",
+    "country": "Йемен",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b8%d0%b5%d0%bc%d0%b5%d0%bd/%d1%81%d0%b0%d0%bd%d0%b0/al-kharbah-531575/",
     "climateImageUrl": "https://images.climate-data.org/location/531575/climate-graph-200.png",
     "lat": 14.021508,
@@ -10705,7 +10705,7 @@
   },
   {
     "name": "Al Haqibi",
-    "country": "иемен",
+    "country": "Йемен",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b8%d0%b5%d0%bc%d0%b5%d0%bd/%d0%b8%d0%b1%d0%b1/al-haqibi-537362/",
     "climateImageUrl": "https://images.climate-data.org/location/537362/climate-graph-200.png",
     "lat": 14.033078,
@@ -10713,7 +10713,7 @@
   },
   {
     "name": "Al Mahdami",
-    "country": "иемен",
+    "country": "Йемен",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%b8%d0%b5%d0%bc%d0%b5%d0%bd/%d0%b8%d0%b1%d0%b1/al-mahdami-537350/",
     "climateImageUrl": "https://images.climate-data.org/location/537350/climate-graph-200.png",
     "lat": 14.052429,
@@ -11433,7 +11433,7 @@
   },
   {
     "name": "Rumaithiya",
-    "country": "кувеит",
+    "country": "Кувейт",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%ba%d1%83%d0%b2%d0%b5%d0%b8%d1%82/rumaithiya/rumaithiya-1069278/",
     "climateImageUrl": "https://images.climate-data.org/location/1069278/climate-graph-200.png",
     "lat": 29.3151348,
@@ -11441,7 +11441,7 @@
   },
   {
     "name": "Эль-Ахмади",
-    "country": "кувеит",
+    "country": "Кувейт",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%ba%d1%83%d0%b2%d0%b5%d0%b8%d1%82/%d1%8d%d0%bb%d1%8c-%d0%b0%d1%85%d0%bc%d0%b0%d0%b4%d0%b8/%d1%8d%d0%bb%d1%8c-%d0%b0%d1%85%d0%bc%d0%b0%d0%b4%d0%b8-749764/",
     "climateImageUrl": "https://images.climate-data.org/location/749764/climate-graph-200.png",
     "lat": 29.0890687,
@@ -11449,7 +11449,7 @@
   },
   {
     "name": "Hawally",
-    "country": "кувеит",
+    "country": "Кувейт",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%ba%d1%83%d0%b2%d0%b5%d0%b8%d1%82/hawally/hawally-1069273/",
     "climateImageUrl": "https://images.climate-data.org/location/1069273/climate-graph-200.png",
     "lat": 29.3378678,
@@ -11457,7 +11457,7 @@
   },
   {
     "name": "Al Khiran",
-    "country": "кувеит",
+    "country": "Кувейт",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%ba%d1%83%d0%b2%d0%b5%d0%b8%d1%82/al-khiran/al-khiran-659570/",
     "climateImageUrl": "https://images.climate-data.org/location/659570/climate-graph-200.png",
     "lat": 28.6614324,
@@ -11465,7 +11465,7 @@
   },
   {
     "name": "Кувейт",
-    "country": "кувеит",
+    "country": "Кувейт",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%ba%d1%83%d0%b2%d0%b5%d0%b8%d1%82/%d0%ba%d1%83%d0%b2%d0%b5%d0%b8%d1%82/%d0%ba%d1%83%d0%b2%d0%b5%d0%b8%d1%82-4807/",
     "climateImageUrl": "https://images.climate-data.org/location/4807/climate-graph-200.png",
     "lat": 29.2733964,
@@ -11753,7 +11753,7 @@
   },
   {
     "name": "Куала-Лумпур",
-    "country": "малаизия",
+    "country": "Малайзия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%bc%d0%b0%d0%bb%d0%b0%d0%b8%d0%b7%d0%b8%d1%8f/kuala-lumpur/%d0%ba%d1%83%d0%b0%d0%bb%d0%b0-%d0%bb%d1%83%d0%bc%d0%bf%d1%83%d1%80-715107/",
     "climateImageUrl": "https://images.climate-data.org/location/715107/climate-graph-200.png",
     "lat": 3.1516964,
@@ -11761,7 +11761,7 @@
   },
   {
     "name": "Petaling Jaya",
-    "country": "малаизия",
+    "country": "Малайзия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%bc%d0%b0%d0%bb%d0%b0%d0%b8%d0%b7%d0%b8%d1%8f/selangor/petaling-jaya-3086/",
     "climateImageUrl": "https://images.climate-data.org/location/3086/climate-graph-200.png",
     "lat": 3.0988792,
@@ -11769,7 +11769,7 @@
   },
   {
     "name": "Кота-Кинабалу",
-    "country": "малаизия",
+    "country": "Малайзия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%bc%d0%b0%d0%bb%d0%b0%d0%b8%d0%b7%d0%b8%d1%8f/sabah/%d0%ba%d0%be%d1%82%d0%b0-%d0%ba%d0%b8%d0%bd%d0%b0%d0%b1%d0%b0%d0%bb%d1%83-3752/",
     "climateImageUrl": "https://images.climate-data.org/location/3752/climate-graph-200.png",
     "lat": 5.9780066,
@@ -11777,7 +11777,7 @@
   },
   {
     "name": "Сандакан",
-    "country": "малаизия",
+    "country": "Малайзия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%bc%d0%b0%d0%bb%d0%b0%d0%b8%d0%b7%d0%b8%d1%8f/sabah/%d1%81%d0%b0%d0%bd%d0%b4%d0%b0%d0%ba%d0%b0%d0%bd-5722/",
     "climateImageUrl": "https://images.climate-data.org/location/5722/climate-graph-200.png",
     "lat": 5.8391274,
@@ -11785,7 +11785,7 @@
   },
   {
     "name": "Малакка",
-    "country": "малаизия",
+    "country": "Малайзия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%bc%d0%b0%d0%bb%d0%b0%d0%b8%d0%b7%d0%b8%d1%8f/malacca/%d0%bc%d0%b0%d0%bb%d0%b0%d0%ba%d0%ba%d0%b0-3939/",
     "climateImageUrl": "https://images.climate-data.org/location/3939/climate-graph-200.png",
     "lat": 2.3293744,
@@ -11793,7 +11793,7 @@
   },
   {
     "name": "Pantai Tengah",
-    "country": "малаизия",
+    "country": "Малайзия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%bc%d0%b0%d0%bb%d0%b0%d0%b8%d0%b7%d0%b8%d1%8f/kedah/pantai-tengah-564718/",
     "climateImageUrl": "https://images.climate-data.org/location/564718/climate-graph-200.png",
     "lat": 6.2814791,
@@ -11801,7 +11801,7 @@
   },
   {
     "name": "Pantai Cenang",
-    "country": "малаизия",
+    "country": "Малайзия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%bc%d0%b0%d0%bb%d0%b0%d0%b8%d0%b7%d0%b8%d1%8f/kedah/pantai-cenang-431147/",
     "climateImageUrl": "https://images.climate-data.org/location/431147/climate-graph-200.png",
     "lat": 6.2913362,
@@ -11809,7 +11809,7 @@
   },
   {
     "name": "Padang Besar",
-    "country": "малаизия",
+    "country": "Малайзия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%bc%d0%b0%d0%bb%d0%b0%d0%b8%d0%b7%d0%b8%d1%8f/perlis/padang-besar-53384/",
     "climateImageUrl": "https://images.climate-data.org/location/53384/climate-graph-200.png",
     "lat": 6.6626841,
@@ -11817,7 +11817,7 @@
   },
   {
     "name": "Chinatown",
-    "country": "малаизия",
+    "country": "Малайзия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%bc%d0%b0%d0%bb%d0%b0%d0%b8%d0%b7%d0%b8%d1%8f/kedah/chinatown-971691/",
     "climateImageUrl": "https://images.climate-data.org/location/971691/climate-graph-200.png",
     "lat": 5.333338,
@@ -11825,7 +11825,7 @@
   },
   {
     "name": "Alor Setar",
-    "country": "малаизия",
+    "country": "Малайзия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%bc%d0%b0%d0%bb%d0%b0%d0%b8%d0%b7%d0%b8%d1%8f/kedah/alor-setar-3629/",
     "climateImageUrl": "https://images.climate-data.org/location/3629/climate-graph-200.png",
     "lat": 6.1231908,
@@ -11833,7 +11833,7 @@
   },
   {
     "name": "Genting Highlands",
-    "country": "малаизия",
+    "country": "Малайзия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%bc%d0%b0%d0%bb%d0%b0%d0%b8%d0%b7%d0%b8%d1%8f/pahang/genting-highlands-25955/",
     "climateImageUrl": "https://images.climate-data.org/location/25955/climate-graph-200.png",
     "lat": 3.4236788,
@@ -11841,7 +11841,7 @@
   },
   {
     "name": "Tanah Rata",
-    "country": "малаизия",
+    "country": "Малайзия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%bc%d0%b0%d0%bb%d0%b0%d0%b8%d0%b7%d0%b8%d1%8f/pahang/tanah-rata-184474/",
     "climateImageUrl": "https://images.climate-data.org/location/184474/climate-graph-200.png",
     "lat": 4.4706932,
@@ -11849,7 +11849,7 @@
   },
   {
     "name": "Brinchang",
-    "country": "малаизия",
+    "country": "Малайзия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%bc%d0%b0%d0%bb%d0%b0%d0%b8%d0%b7%d0%b8%d1%8f/pahang/brinchang-184380/",
     "climateImageUrl": "https://images.climate-data.org/location/184380/climate-graph-200.png",
     "lat": 4.4916658,
@@ -11857,7 +11857,7 @@
   },
   {
     "name": "Mesilau",
-    "country": "малаизия",
+    "country": "Малайзия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%bc%d0%b0%d0%bb%d0%b0%d0%b8%d0%b7%d0%b8%d1%8f/sabah/mesilau-479835/",
     "climateImageUrl": "https://images.climate-data.org/location/479835/climate-graph-200.png",
     "lat": 6.0305141,
@@ -11865,7 +11865,7 @@
   },
   {
     "name": "Kampung Raja",
-    "country": "малаизия",
+    "country": "Малайзия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%bc%d0%b0%d0%bb%d0%b0%d0%b8%d0%b7%d0%b8%d1%8f/pahang/kampung-raja-971678/",
     "climateImageUrl": "https://images.climate-data.org/location/971678/climate-graph-200.png",
     "lat": 5.6332658,
@@ -12761,7 +12761,7 @@
   },
   {
     "name": "Дубай",
-    "country": "объединенные арабские эмираты",
+    "country": "ОАЭ",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%be%d0%b1%d1%8a%d0%b5%d0%b4%d0%b8%d0%bd%d0%b5%d0%bd%d0%bd%d1%8b%d0%b5-%d0%b0%d1%80%d0%b0%d0%b1%d1%81%d0%ba%d0%b8%d0%b5-%d1%8d%d0%bc%d0%b8%d1%80%d0%b0%d1%82%d1%8b/%d0%b4%d1%83%d0%b1%d0%b0%d0%b8/%d0%b4%d1%83%d0%b1%d0%b0%d0%b8-705/",
     "climateImageUrl": "https://images.climate-data.org/location/705/climate-graph-200.png",
     "lat": 25.2296341,
@@ -12769,7 +12769,7 @@
   },
   {
     "name": "Абу-Даби",
-    "country": "объединенные арабские эмираты",
+    "country": "ОАЭ",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%be%d0%b1%d1%8a%d0%b5%d0%b4%d0%b8%d0%bd%d0%b5%d0%bd%d0%bd%d1%8b%d0%b5-%d0%b0%d1%80%d0%b0%d0%b1%d1%81%d0%ba%d0%b8%d0%b5-%d1%8d%d0%bc%d0%b8%d1%80%d0%b0%d1%82%d1%8b/%d0%b0%d0%b1%d1%83-%d0%b4%d0%b0%d0%b1%d0%b8/%d0%b0%d0%b1%d1%83-%d0%b4%d0%b0%d0%b1%d0%b8-3217/",
     "climateImageUrl": "https://images.climate-data.org/location/3217/climate-graph-200.png",
     "lat": 24.4538352,
@@ -12777,7 +12777,7 @@
   },
   {
     "name": "Al Ain",
-    "country": "объединенные арабские эмираты",
+    "country": "ОАЭ",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%be%d0%b1%d1%8a%d0%b5%d0%b4%d0%b8%d0%bd%d0%b5%d0%bd%d0%bd%d1%8b%d0%b5-%d0%b0%d1%80%d0%b0%d0%b1%d1%81%d0%ba%d0%b8%d0%b5-%d1%8d%d0%bc%d0%b8%d1%80%d0%b0%d1%82%d1%8b/%d0%b0%d0%b1%d1%83-%d0%b4%d0%b0%d0%b1%d0%b8/al-ain-1210/",
     "climateImageUrl": "https://images.climate-data.org/location/1210/climate-graph-200.png",
     "lat": 24.2248697,
@@ -12785,7 +12785,7 @@
   },
   {
     "name": "Эль-Фуджайра",
-    "country": "объединенные арабские эмираты",
+    "country": "ОАЭ",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%be%d0%b1%d1%8a%d0%b5%d0%b4%d0%b8%d0%bd%d0%b5%d0%bd%d0%bd%d1%8b%d0%b5-%d0%b0%d1%80%d0%b0%d0%b1%d1%81%d0%ba%d0%b8%d0%b5-%d1%8d%d0%bc%d0%b8%d1%80%d0%b0%d1%82%d1%8b/fujairah/%d1%8d%d0%bb%d1%8c-%d1%84%d1%83%d0%b4%d0%b6%d0%b0%d0%b8%d1%80%d0%b0-3228/",
     "climateImageUrl": "https://images.climate-data.org/location/3228/climate-graph-200.png",
     "lat": 25.4147357,
@@ -12793,7 +12793,7 @@
   },
   {
     "name": "Jebel Hafeet",
-    "country": "объединенные арабские эмираты",
+    "country": "ОАЭ",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d0%be%d0%b1%d1%8a%d0%b5%d0%b4%d0%b8%d0%bd%d0%b5%d0%bd%d0%bd%d1%8b%d0%b5-%d0%b0%d1%80%d0%b0%d0%b1%d1%81%d0%ba%d0%b8%d0%b5-%d1%8d%d0%bc%d0%b8%d1%80%d0%b0%d1%82%d1%8b/%d0%b0%d0%b1%d1%83-%d0%b4%d0%b0%d0%b1%d0%b8/jebel-hafeet-795529/",
     "climateImageUrl": "https://images.climate-data.org/location/795529/climate-graph-200.png",
     "lat": 24.0579582,
@@ -13001,7 +13001,7 @@
   },
   {
     "name": "Москва",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%bc%d0%be%d1%81%d0%ba%d0%b2%d0%b0/%d0%bc%d0%be%d1%81%d0%ba%d0%b2%d0%b0-6390/",
     "climateImageUrl": "https://images.climate-data.org/location/6390/climate-graph-200.png",
     "lat": 55.625578,
@@ -13009,7 +13009,7 @@
   },
   {
     "name": "Санкт-Петербург",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d1%81%d0%b0%d0%bd%d0%ba%d1%82-%d0%bf%d0%b5%d1%82%d0%b5%d1%80%d0%b1%d1%83%d1%80%d0%b3/%d1%81%d0%b0%d0%bd%d0%ba%d1%82-%d0%bf%d0%b5%d1%82%d0%b5%d1%80%d0%b1%d1%83%d1%80%d0%b3-456/",
     "climateImageUrl": "https://images.climate-data.org/location/456/climate-graph-200.png",
     "lat": 59.9606739,
@@ -13017,7 +13017,7 @@
   },
   {
     "name": "Новосибирск",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%bd%d0%be%d0%b2%d0%be%d1%81%d0%b8%d0%b1%d0%b8%d1%80%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d0%b1%d0%bb%d0%b0%d1%81%d1%82%d1%8c/%d0%bd%d0%be%d0%b2%d0%be%d1%81%d0%b8%d0%b1%d0%b8%d1%80%d1%81%d0%ba-459/",
     "climateImageUrl": "https://images.climate-data.org/location/459/climate-graph-200.png",
     "lat": 55.0288307,
@@ -13025,7 +13025,7 @@
   },
   {
     "name": "Екатеринбург",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d1%81%d0%b2%d0%b5%d1%80%d0%b4%d0%bb%d0%be%d0%b2%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d0%b1%d0%bb%d0%b0%d1%81%d1%82%d1%8c/%d0%b5%d0%ba%d0%b0%d1%82%d0%b5%d1%80%d0%b8%d0%bd%d0%b1%d1%83%d1%80%d0%b3-458/",
     "climateImageUrl": "https://images.climate-data.org/location/458/climate-graph-200.png",
     "lat": 56.8382071,
@@ -13033,7 +13033,7 @@
   },
   {
     "name": "Нижний Новгород",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%bd%d0%b8%d0%b6%d0%b5%d0%b3%d0%be%d1%80%d0%be%d0%b4%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d0%b1%d0%bb%d0%b0%d1%81%d1%82%d1%8c/%d0%bd%d0%b8%d0%b6%d0%bd%d0%b8%d0%b8-%d0%bd%d0%be%d0%b2%d0%b3%d0%be%d1%80%d0%be%d0%b4-479/",
     "climateImageUrl": "https://images.climate-data.org/location/479/climate-graph-200.png",
     "lat": 56.3264816,
@@ -13041,7 +13041,7 @@
   },
   {
     "name": "Красноярск",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%ba%d1%80%d0%b0%d1%81%d0%bd%d0%be%d1%8f%d1%80%d1%81%d0%ba%d0%b8%d0%b8-%d0%ba%d1%80%d0%b0%d0%b8/%d0%ba%d1%80%d0%b0%d1%81%d0%bd%d0%be%d1%8f%d1%80%d1%81%d0%ba-1781/",
     "climateImageUrl": "https://images.climate-data.org/location/1781/climate-graph-200.png",
     "lat": 56.0091173,
@@ -13049,7 +13049,7 @@
   },
   {
     "name": "Иркутск",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%b8%d1%80%d0%ba%d1%83%d1%82%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d0%b1%d0%bb%d0%b0%d1%81%d1%82%d1%8c/%d0%b8%d1%80%d0%ba%d1%83%d1%82%d1%81%d0%ba-473/",
     "climateImageUrl": "https://images.climate-data.org/location/473/climate-graph-200.png",
     "lat": 52.2891225,
@@ -13057,7 +13057,7 @@
   },
   {
     "name": "Улан-Удэ",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%b1%d1%83%d1%80%d1%8f%d1%82%d0%b8%d1%8f/%d1%83%d0%bb%d0%b0%d0%bd-%d1%83%d0%b4%d1%8d-6108/",
     "climateImageUrl": "https://images.climate-data.org/location/6108/climate-graph-200.png",
     "lat": 51.8357841,
@@ -13065,7 +13065,7 @@
   },
   {
     "name": "Архангельск",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%b0%d1%80%d1%85%d0%b0%d0%bd%d0%b3%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d0%b1%d0%bb%d0%b0%d1%81%d1%82%d1%8c/%d0%b0%d1%80%d1%85%d0%b0%d0%bd%d0%b3%d0%b5%d0%bb%d1%8c%d1%81%d0%ba-3447/",
     "climateImageUrl": "https://images.climate-data.org/location/3447/climate-graph-200.png",
     "lat": 64.543022,
@@ -13073,7 +13073,7 @@
   },
   {
     "name": "Чита",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%b7%d0%b0%d0%b1%d0%b0%d0%b8%d0%ba%d0%b0%d0%bb%d1%8c%d1%81%d0%ba%d0%b8%d0%b8-%d0%ba%d1%80%d0%b0%d0%b8/%d1%87%d0%b8%d1%82%d0%b0-3025/",
     "climateImageUrl": "https://images.climate-data.org/location/3025/climate-graph-200.png",
     "lat": 52.033409,
@@ -13081,7 +13081,7 @@
   },
   {
     "name": "Ростов-на-Дону",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%82%d0%be%d0%b2%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d0%b1%d0%bb%d0%b0%d1%81%d1%82%d1%8c/%d1%80%d0%be%d1%81%d1%82%d0%be%d0%b2-%d0%bd%d0%b0-%d0%b4%d0%be%d0%bd%d1%83-1761/",
     "climateImageUrl": "https://images.climate-data.org/location/1761/climate-graph-200.png",
     "lat": 47.2222596,
@@ -13089,7 +13089,7 @@
   },
   {
     "name": "Волгоград",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%b2%d0%be%d0%bb%d0%b3%d0%be%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d0%b1%d0%bb%d0%b0%d1%81%d1%82%d1%8c/%d0%b2%d0%be%d0%bb%d0%b3%d0%be%d0%b3%d1%80%d0%b0%d0%b4-465/",
     "climateImageUrl": "https://images.climate-data.org/location/465/climate-graph-200.png",
     "lat": 48.7081906,
@@ -13097,7 +13097,7 @@
   },
   {
     "name": "Саратов",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d1%81%d0%b0%d1%80%d0%b0%d1%82%d0%be%d0%b2%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d0%b1%d0%bb%d0%b0%d1%81%d1%82%d1%8c/%d1%81%d0%b0%d1%80%d0%b0%d1%82%d0%be%d0%b2-467/",
     "climateImageUrl": "https://images.climate-data.org/location/467/climate-graph-200.png",
     "lat": 51.530018,
@@ -13105,7 +13105,7 @@
   },
   {
     "name": "Краснодар",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%ba%d1%80%d0%b0%d1%81%d0%bd%d0%be%d0%b4%d0%b0%d1%80%d1%81%d0%ba%d0%b8%d0%b8-%d0%ba%d1%80%d0%b0%d0%b8/%d0%ba%d1%80%d0%b0%d1%81%d0%bd%d0%be%d0%b4%d0%b0%d1%80-470/",
     "climateImageUrl": "https://images.climate-data.org/location/470/climate-graph-200.png",
     "lat": 45.0351532,
@@ -13113,7 +13113,7 @@
   },
   {
     "name": "Оренбург",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%be%d1%80%d0%b5%d0%bd%d0%b1%d1%83%d1%80%d0%b3%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d0%b1%d0%bb%d0%b0%d1%81%d1%82%d1%8c/%d0%be%d1%80%d0%b5%d0%bd%d0%b1%d1%83%d1%80%d0%b3-475/",
     "climateImageUrl": "https://images.climate-data.org/location/475/climate-graph-200.png",
     "lat": 51.7671248,
@@ -13121,7 +13121,7 @@
   },
   {
     "name": "Сочи",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%ba%d1%80%d0%b0%d1%81%d0%bd%d0%be%d0%b4%d0%b0%d1%80%d1%81%d0%ba%d0%b8%d0%b8-%d0%ba%d1%80%d0%b0%d0%b8/%d1%81%d0%be%d1%87%d0%b8-843/",
     "climateImageUrl": "https://images.climate-data.org/location/843/climate-graph-200.png",
     "lat": 43.5854823,
@@ -13129,7 +13129,7 @@
   },
   {
     "name": "Новороссийск",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%ba%d1%80%d0%b0%d1%81%d0%bd%d0%be%d0%b4%d0%b0%d1%80%d1%81%d0%ba%d0%b8%d0%b8-%d0%ba%d1%80%d0%b0%d0%b8/%d0%bd%d0%be%d0%b2%d0%be%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba-1220/",
     "climateImageUrl": "https://images.climate-data.org/location/1220/climate-graph-200.png",
     "lat": 44.7239578,
@@ -13137,7 +13137,7 @@
   },
   {
     "name": "Майкоп",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%b0%d0%b4%d1%8b%d0%b3%d0%b5%d1%8f/%d0%bc%d0%b0%d0%b8%d0%ba%d0%be%d0%bf-1801/",
     "climateImageUrl": "https://images.climate-data.org/location/1801/climate-graph-200.png",
     "lat": 44.6062079,
@@ -13145,7 +13145,7 @@
   },
   {
     "name": "Анапа",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%ba%d1%80%d0%b0%d1%81%d0%bd%d0%be%d0%b4%d0%b0%d1%80%d1%81%d0%ba%d0%b8%d0%b8-%d0%ba%d1%80%d0%b0%d0%b8/%d0%b0%d0%bd%d0%b0%d0%bf%d0%b0-9357/",
     "climateImageUrl": "https://images.climate-data.org/location/9357/climate-graph-200.png",
     "lat": 44.894272,
@@ -13153,7 +13153,7 @@
   },
   {
     "name": "Махачкала",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%b4%d0%b0%d0%b3%d0%b5%d1%81%d1%82%d0%b0%d0%bd/%d0%bc%d0%b0%d1%85%d0%b0%d1%87%d0%ba%d0%b0%d0%bb%d0%b0-1802/",
     "climateImageUrl": "https://images.climate-data.org/location/1802/climate-graph-200.png",
     "lat": 42.9830241,
@@ -13161,7 +13161,7 @@
   },
   {
     "name": "Астрахань",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%b0%d1%81%d1%82%d1%80%d0%b0%d1%85%d0%b0%d0%bd%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d0%b1%d0%bb%d0%b0%d1%81%d1%82%d1%8c/%d0%b0%d1%81%d1%82%d1%80%d0%b0%d1%85%d0%b0%d0%bd%d1%8c-1811/",
     "climateImageUrl": "https://images.climate-data.org/location/1811/climate-graph-200.png",
     "lat": 46.3498308,
@@ -13169,7 +13169,7 @@
   },
   {
     "name": "Дербент",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%b4%d0%b0%d0%b3%d0%b5%d1%81%d1%82%d0%b0%d0%bd/%d0%b4%d0%b5%d1%80%d0%b1%d0%b5%d0%bd%d1%82-1870/",
     "climateImageUrl": "https://images.climate-data.org/location/1870/climate-graph-200.png",
     "lat": 42.057858,
@@ -13177,7 +13177,7 @@
   },
   {
     "name": "Каспийск",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%b4%d0%b0%d0%b3%d0%b5%d1%81%d1%82%d0%b0%d0%bd/%d0%ba%d0%b0%d1%81%d0%bf%d0%b8%d0%b8%d1%81%d0%ba-29394/",
     "climateImageUrl": "https://images.climate-data.org/location/29394/climate-graph-200.png",
     "lat": 42.8921817,
@@ -13185,7 +13185,7 @@
   },
   {
     "name": "Ахтубинск",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%b0%d1%81%d1%82%d1%80%d0%b0%d1%85%d0%b0%d0%bd%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d0%b1%d0%bb%d0%b0%d1%81%d1%82%d1%8c/%d0%b0%d1%85%d1%82%d1%83%d0%b1%d0%b8%d0%bd%d1%81%d0%ba-25898/",
     "climateImageUrl": "https://images.climate-data.org/location/25898/climate-graph-200.png",
     "lat": 48.2848132,
@@ -13193,7 +13193,7 @@
   },
   {
     "name": "Якутск",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d1%80%d0%b5%d1%81%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b0-%d1%81%d0%b0%d1%85%d0%b0-%d1%8f%d0%ba%d1%83%d1%82%d0%b8%d1%8f/%d1%8f%d0%ba%d1%83%d1%82%d1%81%d0%ba-1806/",
     "climateImageUrl": "https://images.climate-data.org/location/1806/climate-graph-200.png",
     "lat": 62.0274078,
@@ -13201,7 +13201,7 @@
   },
   {
     "name": "Айхал",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d1%80%d0%b5%d1%81%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b0-%d1%81%d0%b0%d1%85%d0%b0-%d1%8f%d0%ba%d1%83%d1%82%d0%b8%d1%8f/%d0%b0%d0%b8%d1%85%d0%b0%d0%bb-30315/",
     "climateImageUrl": "https://images.climate-data.org/location/30315/climate-graph-200.png",
     "lat": 65.9516363,
@@ -13209,7 +13209,7 @@
   },
   {
     "name": "Удачный",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d1%80%d0%b5%d1%81%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b0-%d1%81%d0%b0%d1%85%d0%b0-%d1%8f%d0%ba%d1%83%d1%82%d0%b8%d1%8f/%d1%83%d0%b4%d0%b0%d1%87%d0%bd%d1%8b%d0%b8-30312/",
     "climateImageUrl": "https://images.climate-data.org/location/30312/climate-graph-200.png",
     "lat": 66.411768,
@@ -13217,7 +13217,7 @@
   },
   {
     "name": "Чурапча",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d1%80%d0%b5%d1%81%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b0-%d1%81%d0%b0%d1%85%d0%b0-%d1%8f%d0%ba%d1%83%d1%82%d0%b8%d1%8f/%d1%87%d1%83%d1%80%d0%b0%d0%bf%d1%87%d0%b0-53667/",
     "climateImageUrl": "https://images.climate-data.org/location/53667/climate-graph-200.png",
     "lat": 61.999668,
@@ -13225,7 +13225,7 @@
   },
   {
     "name": "Zhatay",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d1%80%d0%b5%d1%81%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b0-%d1%81%d0%b0%d1%85%d0%b0-%d1%8f%d0%ba%d1%83%d1%82%d0%b8%d1%8f/zhatay-48460/",
     "climateImageUrl": "https://images.climate-data.org/location/48460/climate-graph-200.png",
     "lat": 62.1611533,
@@ -13233,7 +13233,7 @@
   },
   {
     "name": "Каменномостский",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%b0%d0%b4%d1%8b%d0%b3%d0%b5%d1%8f/%d0%ba%d0%b0%d0%bc%d0%b5%d0%bd%d0%bd%d0%be%d0%bc%d0%be%d1%81%d1%82%d1%81%d0%ba%d0%b8%d0%b8-718545/",
     "climateImageUrl": "https://images.climate-data.org/location/718545/climate-graph-200.png",
     "lat": 44.2930144,
@@ -13241,7 +13241,7 @@
   },
   {
     "name": "Красная Поляна",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%ba%d1%80%d0%b0%d1%81%d0%bd%d0%be%d0%b4%d0%b0%d1%80%d1%81%d0%ba%d0%b8%d0%b8-%d0%ba%d1%80%d0%b0%d0%b8/%d0%ba%d1%80%d0%b0%d1%81%d0%bd%d0%b0%d1%8f-%d0%bf%d0%be%d0%bb%d1%8f%d0%bd%d0%b0-10775/",
     "climateImageUrl": "https://images.climate-data.org/location/10775/climate-graph-200.png",
     "lat": 43.6779574,
@@ -13249,7 +13249,7 @@
   },
   {
     "name": "Даховская",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%b0%d0%b4%d1%8b%d0%b3%d0%b5%d1%8f/%d0%b4%d0%b0%d1%85%d0%be%d0%b2%d1%81%d0%ba%d0%b0%d1%8f-229164/",
     "climateImageUrl": "https://images.climate-data.org/location/229164/climate-graph-200.png",
     "lat": 44.2310538,
@@ -13257,7 +13257,7 @@
   },
   {
     "name": "Эстосадок",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%ba%d1%80%d0%b0%d1%81%d0%bd%d0%be%d0%b4%d0%b0%d1%80%d1%81%d0%ba%d0%b8%d0%b8-%d0%ba%d1%80%d0%b0%d0%b8/%d1%8d%d1%81%d1%82%d0%be%d1%81%d0%b0%d0%b4%d0%be%d0%ba-361555/",
     "climateImageUrl": "https://images.climate-data.org/location/361555/climate-graph-200.png",
     "lat": 43.6856443,
@@ -13265,7 +13265,7 @@
   },
   {
     "name": "Хамышки",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%b0%d0%b4%d1%8b%d0%b3%d0%b5%d1%8f/%d1%85%d0%b0%d0%bc%d1%8b%d1%88%d0%ba%d0%b8-850008/",
     "climateImageUrl": "https://images.climate-data.org/location/850008/climate-graph-200.png",
     "lat": 44.0934684,
@@ -13273,7 +13273,7 @@
   },
   {
     "name": "Анадырь",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d1%87%d1%83%d0%ba%d0%be%d1%82%d1%81%d0%ba%d0%b8%d0%b8-%d0%b0%d0%b2%d1%82%d0%be%d0%bd%d0%be%d0%bc%d0%bd%d1%8b%d0%b8-%d0%be%d0%ba%d1%80%d1%83%d0%b3/%d0%b0%d0%bd%d0%b0%d0%b4%d1%8b%d1%80%d1%8c-19551/",
     "climateImageUrl": "https://images.climate-data.org/location/19551/climate-graph-200.png",
     "lat": 64.7316875,
@@ -13281,7 +13281,7 @@
   },
   {
     "name": "Сусуман",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%bc%d0%b0%d0%b3%d0%b0%d0%b4%d0%b0%d0%bd%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d0%b1%d0%bb%d0%b0%d1%81%d1%82%d1%8c/%d1%81%d1%83%d1%81%d1%83%d0%bc%d0%b0%d0%bd-28841/",
     "climateImageUrl": "https://images.climate-data.org/location/28841/climate-graph-200.png",
     "lat": 62.779732,
@@ -13289,7 +13289,7 @@
   },
   {
     "name": "Ягодное",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%bc%d0%b0%d0%b3%d0%b0%d0%b4%d0%b0%d0%bd%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d0%b1%d0%bb%d0%b0%d1%81%d1%82%d1%8c/%d1%8f%d0%b3%d0%be%d0%b4%d0%bd%d0%be%d0%b5-52371/",
     "climateImageUrl": "https://images.climate-data.org/location/52371/climate-graph-200.png",
     "lat": 56.714691,
@@ -13297,7 +13297,7 @@
   },
   {
     "name": "Омсукчан",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%bc%d0%b0%d0%b3%d0%b0%d0%b4%d0%b0%d0%bd%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d0%b1%d0%bb%d0%b0%d1%81%d1%82%d1%8c/%d0%be%d0%bc%d1%81%d1%83%d0%ba%d1%87%d0%b0%d0%bd-333977/",
     "climateImageUrl": "https://images.climate-data.org/location/333977/climate-graph-200.png",
     "lat": 62.5127643,
@@ -13305,7 +13305,7 @@
   },
   {
     "name": "Угольные Копи",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d1%87%d1%83%d0%ba%d0%be%d1%82%d1%81%d0%ba%d0%b8%d0%b8-%d0%b0%d0%b2%d1%82%d0%be%d0%bd%d0%be%d0%bc%d0%bd%d1%8b%d0%b8-%d0%be%d0%ba%d1%80%d1%83%d0%b3/%d1%83%d0%b3%d0%be%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-%d0%ba%d0%be%d0%bf%d0%b8-986855/",
     "climateImageUrl": "https://images.climate-data.org/location/986855/climate-graph-200.png",
     "lat": 64.7421025,
@@ -13313,7 +13313,7 @@
   },
   {
     "name": "Билибино",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d1%87%d1%83%d0%ba%d0%be%d1%82%d1%81%d0%ba%d0%b8%d0%b8-%d0%b0%d0%b2%d1%82%d0%be%d0%bd%d0%be%d0%bc%d0%bd%d1%8b%d0%b8-%d0%be%d0%ba%d1%80%d1%83%d0%b3/%d0%b1%d0%b8%d0%bb%d0%b8%d0%b1%d0%b8%d0%bd%d0%be-45444/",
     "climateImageUrl": "https://images.climate-data.org/location/45444/climate-graph-200.png",
     "lat": 68.0550305,
@@ -13321,7 +13321,7 @@
   },
   {
     "name": "Гыда",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d1%8f%d0%bc%d0%b0%d0%bb%d0%be-%d0%bd%d0%b5%d0%bd%d0%b5%d1%86%d0%ba%d0%b8%d0%b8-%d0%b0%d0%b2%d1%82%d0%be%d0%bd%d0%be%d0%bc%d0%bd%d1%8b%d0%b8-%d0%be%d0%ba%d1%80%d1%83%d0%b3/%d0%b3%d1%8b%d0%b4%d0%b0-756596/",
     "climateImageUrl": "https://images.climate-data.org/location/756596/climate-graph-200.png",
     "lat": 70.8926,
@@ -13329,7 +13329,7 @@
   },
   {
     "name": "Эгвекинот",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d1%87%d1%83%d0%ba%d0%be%d1%82%d1%81%d0%ba%d0%b8%d0%b8-%d0%b0%d0%b2%d1%82%d0%be%d0%bd%d0%be%d0%bc%d0%bd%d1%8b%d0%b8-%d0%be%d0%ba%d1%80%d1%83%d0%b3/%d1%8d%d0%b3%d0%b2%d0%b5%d0%ba%d0%b8%d0%bd%d0%be%d1%82-871418/",
     "climateImageUrl": "https://images.climate-data.org/location/871418/climate-graph-200.png",
     "lat": 66.3227382,
@@ -13337,7 +13337,7 @@
   },
   {
     "name": "Депутатский",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d1%80%d0%b5%d1%81%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b0-%d1%81%d0%b0%d1%85%d0%b0-%d1%8f%d0%ba%d1%83%d1%82%d0%b8%d1%8f/%d0%b4%d0%b5%d0%bf%d1%83%d1%82%d0%b0%d1%82%d1%81%d0%ba%d0%b8%d0%b8-770836/",
     "climateImageUrl": "https://images.climate-data.org/location/770836/climate-graph-200.png",
     "lat": 69.3396494,
@@ -13345,7 +13345,7 @@
   },
   {
     "name": "Сёяха",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d1%8f%d0%bc%d0%b0%d0%bb%d0%be-%d0%bd%d0%b5%d0%bd%d0%b5%d1%86%d0%ba%d0%b8%d0%b8-%d0%b0%d0%b2%d1%82%d0%be%d0%bd%d0%be%d0%bc%d0%bd%d1%8b%d0%b8-%d0%be%d0%ba%d1%80%d1%83%d0%b3/%d1%81%d0%b5%d1%8f%d1%85%d0%b0-635654/",
     "climateImageUrl": "https://images.climate-data.org/location/635654/climate-graph-200.png",
     "lat": 70.166482,
@@ -13353,7 +13353,7 @@
   },
   {
     "name": "Цуканово",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%bf%d1%80%d0%b8%d0%bc%d0%be%d1%80%d1%81%d0%ba%d0%b8%d0%b8-%d0%ba%d1%80%d0%b0%d0%b8/%d1%86%d1%83%d0%ba%d0%b0%d0%bd%d0%be%d0%b2%d0%be-654419/",
     "climateImageUrl": "https://images.climate-data.org/location/654419/climate-graph-200.png",
     "lat": 42.757382,
@@ -13361,7 +13361,7 @@
   },
   {
     "name": "Камышовое",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%bf%d1%80%d0%b8%d0%bc%d0%be%d1%80%d1%81%d0%ba%d0%b8%d0%b8-%d0%ba%d1%80%d0%b0%d0%b8/%d0%ba%d0%b0%d0%bc%d1%8b%d1%88%d0%be%d0%b2%d0%be%d0%b5-654417/",
     "climateImageUrl": "https://images.climate-data.org/location/654417/climate-graph-200.png",
     "lat": 42.7504704,
@@ -13369,7 +13369,7 @@
   },
   {
     "name": "Шахтёрское",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d0%bf%d1%80%d0%b8%d0%bc%d0%be%d1%80%d1%81%d0%ba%d0%b8%d0%b8-%d0%ba%d1%80%d0%b0%d0%b8/%d1%88%d0%b0%d1%85%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%be%d0%b5-654420/",
     "climateImageUrl": "https://images.climate-data.org/location/654420/climate-graph-200.png",
     "lat": 53.9117708,
@@ -13377,7 +13377,7 @@
   },
   {
     "name": "Александровск-Сахалинский",
-    "country": "россииская федерация",
+    "country": "Россия",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f/%d1%81%d0%b0%d1%85%d0%b0%d0%bb%d0%b8%d0%bd%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d0%b1%d0%bb%d0%b0%d1%81%d1%82%d1%8c/%d0%b0%d0%bb%d0%b5%d0%ba%d1%81%d0%b0%d0%bd%d0%b4%d1%80%d0%be%d0%b2%d1%81%d0%ba-%d1%81%d0%b0%d1%85%d0%b0%d0%bb%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d0%b8-53370/",
     "climateImageUrl": "https://images.climate-data.org/location/53370/climate-graph-200.png",
     "lat": 50.8974983,
@@ -14969,7 +14969,7 @@
   },
   {
     "name": "Коломбо",
-    "country": "шри ланка",
+    "country": "Шри-Ланка",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%88%d1%80%d0%b8-%d0%bb%d0%b0%d0%bd%d0%ba%d0%b0/western-province/%d0%ba%d0%be%d0%bb%d0%be%d0%bc%d0%b1%d0%be-944/",
     "climateImageUrl": "https://images.climate-data.org/location/944/climate-graph-200.png",
     "lat": 6.9388614,
@@ -14977,7 +14977,7 @@
   },
   {
     "name": "Kandy",
-    "country": "шри ланка",
+    "country": "Шри-Ланка",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%88%d1%80%d0%b8-%d0%bb%d0%b0%d0%bd%d0%ba%d0%b0/central-province/kandy-5671/",
     "climateImageUrl": "https://images.climate-data.org/location/5671/climate-graph-200.png",
     "lat": 7.2931208,
@@ -14985,7 +14985,7 @@
   },
   {
     "name": "Бентота",
-    "country": "шри ланка",
+    "country": "Шри-Ланка",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%88%d1%80%d0%b8-%d0%bb%d0%b0%d0%bd%d0%ba%d0%b0/western-province/%d0%b1%d0%b5%d0%bd%d1%82%d0%be%d1%82%d0%b0-59060/",
     "climateImageUrl": "https://images.climate-data.org/location/59060/climate-graph-200.png",
     "lat": 6.4215276,
@@ -14993,7 +14993,7 @@
   },
   {
     "name": "Sri Jayawardenapura Kotte",
-    "country": "шри ланка",
+    "country": "Шри-Ланка",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%88%d1%80%d0%b8-%d0%bb%d0%b0%d0%bd%d0%ba%d0%b0/western-province/sri-jayawardenapura-kotte-1012451/",
     "climateImageUrl": "https://images.climate-data.org/location/1012451/climate-graph-200.png",
     "lat": 6.8918212,
@@ -15001,7 +15001,7 @@
   },
   {
     "name": "Elpitiya",
-    "country": "шри ланка",
+    "country": "Шри-Ланка",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%88%d1%80%d0%b8-%d0%bb%d0%b0%d0%bd%d0%ba%d0%b0/southern-province/elpitiya-1003192/",
     "climateImageUrl": "https://images.climate-data.org/location/1003192/climate-graph-200.png",
     "lat": 6.2918848,
@@ -15009,7 +15009,7 @@
   },
   {
     "name": "Batticaloa",
-    "country": "шри ланка",
+    "country": "Шри-Ланка",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%88%d1%80%d0%b8-%d0%bb%d0%b0%d0%bd%d0%ba%d0%b0/eastern/batticaloa-1061571/",
     "climateImageUrl": "https://images.climate-data.org/location/1061571/climate-graph-200.png",
     "lat": 7.8381021,
@@ -15017,7 +15017,7 @@
   },
   {
     "name": "Hambantota",
-    "country": "шри ланка",
+    "country": "Шри-Ланка",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%88%d1%80%d0%b8-%d0%bb%d0%b0%d0%bd%d0%ba%d0%b0/southern-province/hambantota-2902/",
     "climateImageUrl": "https://images.climate-data.org/location/2902/climate-graph-200.png",
     "lat": 6.1249126,
@@ -15025,7 +15025,7 @@
   },
   {
     "name": "Джафна",
-    "country": "шри ланка",
+    "country": "Шри-Ланка",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%88%d1%80%d0%b8-%d0%bb%d0%b0%d0%bd%d0%ba%d0%b0/northern-province/%d0%b4%d0%b6%d0%b0%d1%84%d0%bd%d0%b0-764258/",
     "climateImageUrl": "https://images.climate-data.org/location/764258/climate-graph-200.png",
     "lat": 9.665093,
@@ -15033,7 +15033,7 @@
   },
   {
     "name": "Анурадхапура",
-    "country": "шри ланка",
+    "country": "Шри-Ланка",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%88%d1%80%d0%b8-%d0%bb%d0%b0%d0%bd%d0%ba%d0%b0/north-central/%d0%b0%d0%bd%d1%83%d1%80%d0%b0%d0%b4%d1%85%d0%b0%d0%bf%d1%83%d1%80%d0%b0-4862/",
     "climateImageUrl": "https://images.climate-data.org/location/4862/climate-graph-200.png",
     "lat": 8.334985,
@@ -15041,7 +15041,7 @@
   },
   {
     "name": "Katharagama",
-    "country": "шри ланка",
+    "country": "Шри-Ланка",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%88%d1%80%d0%b8-%d0%bb%d0%b0%d0%bd%d0%ba%d0%b0/uva/katharagama-714775/",
     "climateImageUrl": "https://images.climate-data.org/location/714775/climate-graph-200.png",
     "lat": 6.4228329,
@@ -15049,7 +15049,7 @@
   },
   {
     "name": "Negombo",
-    "country": "шри ланка",
+    "country": "Шри-Ланка",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%88%d1%80%d0%b8-%d0%bb%d0%b0%d0%bd%d0%ba%d0%b0/western-province/negombo-764251/",
     "climateImageUrl": "https://images.climate-data.org/location/764251/climate-graph-200.png",
     "lat": 7.2094282,
@@ -15057,7 +15057,7 @@
   },
   {
     "name": "Seeduwa",
-    "country": "шри ланка",
+    "country": "Шри-Ланка",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%88%d1%80%d0%b8-%d0%bb%d0%b0%d0%bd%d0%ba%d0%b0/western-province/seeduwa-29757/",
     "climateImageUrl": "https://images.climate-data.org/location/29757/climate-graph-200.png",
     "lat": 7.1311776,
@@ -15065,7 +15065,7 @@
   },
   {
     "name": "Katana",
-    "country": "шри ланка",
+    "country": "Шри-Ланка",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%88%d1%80%d0%b8-%d0%bb%d0%b0%d0%bd%d0%ba%d0%b0/western-province/katana-48624/",
     "climateImageUrl": "https://images.climate-data.org/location/48624/climate-graph-200.png",
     "lat": 7.2505527,
@@ -15073,7 +15073,7 @@
   },
   {
     "name": "Katunayake",
-    "country": "шри ланка",
+    "country": "Шри-Ланка",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%88%d1%80%d0%b8-%d0%bb%d0%b0%d0%bd%d0%ba%d0%b0/western-province/katunayake-48622/",
     "climateImageUrl": "https://images.climate-data.org/location/48622/climate-graph-200.png",
     "lat": 7.156773,
@@ -15081,7 +15081,7 @@
   },
   {
     "name": "Kotugoda",
-    "country": "шри ланка",
+    "country": "Шри-Ланка",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%88%d1%80%d0%b8-%d0%bb%d0%b0%d0%bd%d0%ba%d0%b0/western-province/kotugoda-48323/",
     "climateImageUrl": "https://images.climate-data.org/location/48323/climate-graph-200.png",
     "lat": 7.1234948,
@@ -15089,7 +15089,7 @@
   },
   {
     "name": "Nuwara Eliya",
-    "country": "шри ланка",
+    "country": "Шри-Ланка",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%88%d1%80%d0%b8-%d0%bb%d0%b0%d0%bd%d0%ba%d0%b0/central-province/nuwara-eliya-909/",
     "climateImageUrl": "https://images.climate-data.org/location/909/climate-graph-200.png",
     "lat": 7.012402,
@@ -15097,7 +15097,7 @@
   },
   {
     "name": "Nallathanniya",
-    "country": "шри ланка",
+    "country": "Шри-Ланка",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%88%d1%80%d0%b8-%d0%bb%d0%b0%d0%bd%d0%ba%d0%b0/central-province/nallathanniya-1061376/",
     "climateImageUrl": "https://images.climate-data.org/location/1061376/climate-graph-200.png",
     "lat": 6.8255129,
@@ -15105,7 +15105,7 @@
   },
   {
     "name": "Idalgashinna",
-    "country": "шри ланка",
+    "country": "Шри-Ланка",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%88%d1%80%d0%b8-%d0%bb%d0%b0%d0%bd%d0%ba%d0%b0/uva/idalgashinna-968350/",
     "climateImageUrl": "https://images.climate-data.org/location/968350/climate-graph-200.png",
     "lat": 6.7819,
@@ -15113,7 +15113,7 @@
   },
   {
     "name": "Nanu Oya",
-    "country": "шри ланка",
+    "country": "Шри-Ланка",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%88%d1%80%d0%b8-%d0%bb%d0%b0%d0%bd%d0%ba%d0%b0/central-province/nanu-oya-968353/",
     "climateImageUrl": "https://images.climate-data.org/location/968353/climate-graph-200.png",
     "lat": 6.9409797,
@@ -15121,7 +15121,7 @@
   },
   {
     "name": "Kandapola CP",
-    "country": "шри ланка",
+    "country": "Шри-Ланка",
     "climatePageUrl": "https://ru.climate-data.org/%d0%b0%d0%b7%d0%b8%d1%8f/%d1%88%d1%80%d0%b8-%d0%bb%d0%b0%d0%bd%d0%ba%d0%b0/central-province/kandapola-cp-787530/",
     "climateImageUrl": "https://images.climate-data.org/location/787530/climate-graph-200.png",
     "lat": 6.997133,
