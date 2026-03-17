@@ -1,0 +1,1158 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   
+	
+        <link rel="dns-prefetch" href="https://www.climate-data.org">
+        <link rel="dns-prefetch" href="https://images.climate-data.org">
+        <link rel="dns-prefetch" href="https://compare-static.climate-data.org">
+
+	
+
+	
+        <link rel="preconnect" href="https://www.climate-data.org" crossorigin>
+        <link rel="preconnect" href="https://images.climate-data.org" crossorigin>
+        <link rel="preconnect" href="https://compare-static.climate-data.org" crossorigin>
+
+	
+	
+	
+
+
+
+    <title>Page not found</title>
+    
+    
+    <meta charset="utf-8" />
+    <meta http-equiv="content-language" content="en" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	
+
+	  <link rel="icon" href="/favicon.ico">
+
+  
+	<link rel="canonical" href="https://images.climate-data.org/location/4/climate-graph-200.png">
+  
+
+    
+
+	
+    
+
+	
+    <script async type="text/javascript" src="//www.climate-data.org/js/js.js"></script>
+    <script defer type="text/javascript" src="//www.climate-data.org/js/jquery.js"></script>
+	
+
+    <script type="application/ld+json">
+     {
+       "@context": "http://schema.org",
+       "@type": "WebSite",
+       "url": "http://climate-data.org/",
+       "potentialAction": {
+         "@type": "SearchAction",
+         "target": "http://climate-data.org/search/?q={search_term_string}",
+         "query-input": "required name=search_term_string"
+       }
+     }
+    </script>
+
+            
+
+
+<script type="text/javascript">
+
+</script>
+
+
+
+
+	
+
+            
+
+<script>
+        document.addEventListener("DOMContentLoaded", function() {
+  var lazyloadImages = document.querySelectorAll("img.lazy");
+  var lazyloadThrottleTimeout;
+
+  function lazyload () {
+    if(lazyloadThrottleTimeout) {
+      clearTimeout(lazyloadThrottleTimeout);
+    }
+
+    lazyloadThrottleTimeout = setTimeout(function() {
+        var scrollTop = window.pageYOffset;
+        lazyloadImages.forEach(function(img) {
+            if(img.offsetTop < (window.innerHeight + scrollTop)) {
+              img.src = img.dataset.src;
+              img.classList.remove('lazy');
+            }
+        });
+        if(lazyloadImages.length == 0) {
+          document.removeEventListener("scroll", lazyload);
+          window.removeEventListener("resize", lazyload);
+          window.removeEventListener("orientationChange", lazyload);
+        }
+    }, 20);
+  }
+
+  document.addEventListener("scroll", lazyload);
+  window.addEventListener("resize", lazyload);
+  window.addEventListener("orientationChange", lazyload);
+});
+</script>
+
+
+
+	
+
+
+
+	
+
+	  
+
+
+
+
+
+	
+
+	
+
+            
+
+
+<style>
+    div#humix-vid-ezAutoMatch{height:450px}div#adhesive_banner_bottom{min-height:90px!important}.widget.widget-info a{display:block}div#climate_graph{min-height:555px}div#stay{min-height:120px}.bg-weather-month{background-image:url(https://www.climate-data.org/images/weather_month.png);background-repeat:no-repeat;display:block}#stay button{margin:0 0 20px;width:99%;text-transform:none}.weather-tab-more{border-top:1px solid #ddd;border-right:1px solid #ddd;position:absolute;right:0;top:8px;width:44px;height:44px;padding:0;text-align:center}center.rectangle_ad_video{min-height:0}ul.menu{line-height:1.2em!important;max-height:85px!important}ul#regions{-webkit-column-count:3!important;-moz-column-count:3!important;list-style:none!important}.weather-tab-more:hover ul{display:block!important;position:absolute;width:150px;right:-4px;z-index:100;background:#fff;top:32px;border:1px solid #ddd}.more-submenu li{cursor:pointer;list-style:none;border:none!important;float:none!important;padding-top:10px;padding-bottom:10px}ul#location{list-style:none;column-count:3}.temp-block{margin-bottom:0}.sidebar_ad1{min-height:0;width:100%}.sidebar_ad2{min-height:0;width:100%}.rectangle_ad{min-height:0;width:100%}center#pub_video_ad{min-height:0}.pub_ATF{min-height:0}.bs-sks.bs-sks-pafter-header.bs-sks-s1{height:0}.bs-sksin2{width:1060px;top:0;bottom:auto;left:50%;right:auto;position:fixed}.bs-sksin1,.bs-sksin3{display:inline-table;height:100%;width:100%}.bs-sks .bs-sksitemr{padding-left:5px}.bs-sks .bs-sksitem{position:relative;width:50%;display:inline;float:left}.bs-sks.bs-sks-pafter-header.bs-sks-s1{height:0}.bs-sksin2{width:1060px;top:0;bottom:auto;left:50%;right:auto;position:fixed}.bs-sksin1,.bs-sksin3{display:inline-table;height:100%;width:100%}.bs-sks .bs-sksitemr{padding-left:5px}.bs-sks .bs-sksitem{position:relative;width:50%;display:inline;float:right}a,body,div,form,h1,h2,h5,html,iframe,img,li,ol,span,table,tbody,td,th,thead,tr,ul{margin:0;padding:0;border:0;outline:0;font-weight:inherit;font-style:inherit;font-size:100%;font-family:inherit;vertical-align:baseline}:focus{outline:0}ol,ul{list-style:none}table{border-collapse:separate;border-spacing:0}td,th{text-align:left;font-weight:400}html{height:100%;font-size:100.01%}body{height:auto;min-height:100%;color:#56646f;background:#fff}body,div,td{font-family:Arial,Tahoma,Verdana,sans-serif;font-size:14px;font-style:normal;font-variant:normal;font-weight:400;line-height:1.785em!important;vertical-align:top;margin:0;padding:0;word-wrap:break-word;hyphens:auto}h1,h2,h5{color:#494158;line-height:1.3em;padding:.5em 0;margin:0 0 0 -.05em;font-style:normal;font-weight:700;font-family:inherit;text-transform:uppercase}h1{font-size:2.6em;font-weight:300;letter-spacing:-.04em}#sidebar h5{color:#fff}h2{font-size:2em;letter-spacing:-.02em}h5{font-size:1.15em}h2 a{color:#494158;text-decoration:none}a{color:#7b6;text-decoration:underline}ol{list-style-type:decimal;line-height:inherit;margin:0 0 0 1.5em}ul{list-style-type:disc;line-height:inherit;margin:0 0 0 1.5em}img{display:inline-block;max-width:100%;height:auto;font:10px/1em sans-serif;border:0}table{text-align:left;width:100%;max-width:100%;margin:0 0 1em;border:0;border-collapse:collapse}thead tr{background:0 0}th{line-height:1.3em;color:#fff!important;padding:5px 10px;background:#494158 url(https://www.climate-data.org/images/bg-white-40.png);border-bottom:5px solid #ddd}tr{background:#fff;border-bottom:1px solid #eaeaea}td{line-height:inherit;vertical-align:top;color:#56646f;padding:10px;border-left:1px solid #ddd}td:first-child{border-left:none}#layout{max-width:100%;overflow:hidden}#header{position:relative;z-index:3}#header-holder{position:relative;display:block;width:1060px;color:#ccc;margin:0 auto}#logo{float:left;width:562px;height:90px;margin:5px 25px}#logo h2,#logo h2 a{position:relative;display:block;font-size:50px;line-height:.9em;font-weight:700;color:#494158;letter-spacing:-.06em;text-decoration:none;max-width:100%;margin:0;padding:0;opacity:1}#logo h2{max-width:462px}#logo-mobile h2,#logo-mobile h2 a{display:none}#hcustom{float:right;display:table;width:138px;text-align:right;height:100%;margin:5px 25px}#search-form-header{position:absolute;display:none;float:right;top:0;right:0;background:#7b6;overflow:hidden;z-index:2}#search-form-header span{display:inline-block;float:left;width:54px;line-height:32px;background:#7b6 url(https://www.climate-data.orghttps://www.climate-data.org/images/icons/32/glyphs/white/search.png)50% no-repeat;background-size:32px 32px;opacity:.6}#search-form-header input{position:absolute;display:inline-block;color:#fff;font-size:18px;text-indent:1px;width:240px;padding:0;background:0 0;border:none}#search-form-header input::-webkit-input-placeholder{color:#fff}#content{z-index:1;position:relative}#content-layout{display:block;width:1060px;margin:0 auto;padding:0;z-index:1}#content-box{min-height:600px}div.post-single{width:100%}.sidebar-position-right #content-box{float:left;width:740px}.sidebar-position-right #content-box>div{padding:25px 5px 50px 0;background:url(https://www.climate-data.org/images/line.png)100% 0 repeat-y}.div-as-table{position:relative;display:table}.div-as-table>div{display:table-cell;vertical-align:middle}.div-as-table>div>div:after{display:block;clear:both;content:".";height:0;font-size:0}iframe{max-width:100%}.clear{font-size:0!important;line-height:0!important;width:0!important;height:0!important;float:none!important;margin:0!important;padding:0!important;clear:both!important}#menu{position:relative;display:block;clear:both;width:1060px;background:#494158;border-bottom:6px solid #7b6;z-index:5}#menu-box{position:relative;z-index:1}ul.menu{display:table;float:left;list-style-type:none;margin:0;padding:0;line-height:1.2em!important;position:relative;z-index:1}ul.menu li{position:relative}ul.menu a{position:relative;display:block;text-decoration:underline}ul.menu ul{list-style-type:none;margin:0;padding:0}ul.menu>li{float:left}ul.menu>li>a{font-size:15px;font-weight:700;text-transform:uppercase;color:#fff;padding:23px 26px 23px 25px;background:url(https://www.climate-data.org/images/line-light.png)100% no-repeat;background-size:1px 50%;z-index:9}ul.menu>li>a>span.subline{display:block;font-size:12px;font-weight:400;text-transform:none;margin-top:5px;opacity:.6}ul.menu ul{position:absolute;width:190px;line-height:1.2em!important;top:-9999px;left:0;padding:6px 0 0;border-bottom:5px solid #f5f5f5;z-index:10}ul.menu ul li{padding:0 5px;background:#f5f5f5}ul.menu ul li:first-child{border-top:5px solid #f5f5f5}ul.menu>li>ul>li:first-child>a:before{position:absolute;content:"";width:0;height:0;border-style:solid;top:-10px;left:20px;border-width:0 5px 5px;border-color:transparent transparent #f5f5f5}ul.menu ul li:first-child>a{background-image:none}ul.menu ul li a{display:block;color:#56646f;font-weight:700;text-transform:uppercase;padding:15px 20px 13px;background:url(https://www.climate-data.org/images/line-light.png)repeat-x}#menu-select{position:relative;display:none;width:47px;height:47px;background:url(https://www.climate-data.org/images/icons/32/glyphs/white/menu.png)50% no-repeat;background-size:32px 32px;opacity:.6;z-index:2}form{margin:0;padding:0}input{width:auto;height:auto;font-family:inherit;font-size:inherit;line-height:1.4em!important;color:#888;margin:0;padding:10px;background:#fff;border:1px solid #ddd;border-radius:0}input[type=text]{-webkit-appearance:caret;-moz-appearance:caret}:invalid{box-shadow:none}input[type=text]{width:auto}h1.post-title{padding-top:0}.single-author-info{margin-bottom:1.5em;padding-bottom:0;background:url(https://www.climate-data.org/images/line.png)100% 100% repeat-x}.single-author-upic{margin:0 0 1em -5px;padding:5px;overflow:hidden;border-radius:20px}.single-author-upic img{display:block;border-radius:20px;max-height:400px}#breadcrumbs{color:#494158;padding-left:20px}#breadcrumbs ol{margin:0;padding:0;list-style-type:none}#breadcrumbs ol li{display:inline}#sidebar-ad-c>div{text-align:center}.bdi{unicode-bidi:embed}.preview-graphs img{width:50%;float:left}.preview-graphs>div{clear:both;overflow:auto}#kttnav li a{color:#000!important;font-size:120%;font-weight:400;height:100%!important;line-height:120%;display:block;background:#ff1934;padding:5px 0 5px 10px;text-decoration:none}#kttnav li+li a{background:#ff2232;margin:0;width:95%}#kttnav li+li+li a{background:#ff2b30;margin:0;width:92%}#kttnav li+li+li+li a{background:#ff342e;margin:0;width:89%}#kttnav li+li+li+li+li a{background:#ff3c2c;margin:0;width:86%}#kttnav li+li+li+li+li+li a{background:#ff452a;margin:0;width:83%}#kttnav li+li+li+li+li+li+li a{background:#ff4e28;margin:0;width:80%}#kttnav li+li+li+li+li+li+li+li a{background:#ff5726;margin:0;width:77%}#kttnav li+li+li+li+li+li+li+li+li a{background:#ff6024;margin:0;width:74%}#kttnav li+li+li+li+li+li+li+li+li+li a{background:#ff6922;margin:0;width:71%}#kttnav li+li+li+li+li+li+li+li+li+li+li a{background:#ff7122;margin:0;width:68%}#kttnav li+li+li+li+li+li+li+li+li+li+li+li a{background:#ff7a20;margin:0;width:65%}#kttnav li+li+li+li+li+li+li+li+li+li+li+li+li a{background:#ff831e;margin:0;width:62%}#kttnav li+li+li+li+li+li+li+li+li+li+li+li+li+li a{background:#ff8c1c;margin:0;width:59%}#kttnav li+li+li+li+li+li+li+li+li+li+li+li+li+li+li a{background:#ff951a;margin:0;width:56%}#kttnav li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li a{background:#ff9e18;margin:0;width:53%}#kttnav li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li a{background:#ffa716;margin:0;width:50%}#kttnav li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li a{background:#ffaf14;margin:0;width:50%}#kttnav li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li a{background:#ffb812;margin:0;width:50%}#kttnav li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li a{background:#ffc110;margin:0;width:50%}#kttnav li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li a{background:#ffca0e;margin:0;width:50%}#kttnav li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li a{background:#ffd30c;margin:0;width:50%}#kttnav li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li a{background:#ffdc0a;margin:0;width:50%}#kttnav li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li a{background:#ffe408;margin:0;width:50%}#kttnav li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li a{background:#ffed06;margin:0;width:50%}#kttnav li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li a{background:#fff602;margin:0;width:50%}#kttnav li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li+li a{background:#ff0;margin:0;width:50%}#kttnav{margin:0;height:fit-content}#kttnav li{list-style:none;border-bottom:1px solid #ddd;word-wrap:break-word}#sidebar a:hover,#sidebar h1,#sidebar h2,#sidebar h3,#sidebar h4,#sidebar h5,#sidebar h6{color:#fff}.sidebar-position-right #content-box>div{padding:25px 5px 50px 0;background:url(https://www.climate-data.org/images/line.png)100% 0 repeat-y}#footer{position:relative;color:#777;background:#494158;z-index:2}#footer-holder{position:relative;width:1060px;margin:0 auto;z-index:2}#copyrights-holder{width:1060px;color:#fff;margin:0 auto;padding:10px 25px;background:#7b6}#copyrights-company{font-size:12px;width:65%;float:left}.sidebar-ad-c .adsbygoogle{margin:0 auto}#sidebar .widget>h5,#sidebar .widget>h5 a{color:#fff}#sidebar .widget_calendar>h5{display:none}#sidebar .widget-posts>h5{margin-bottom:15px;background:url(https://www.climate-data.org/images/line-white.png)0 100% repeat-x}.sidebar-position-right #sidebar{float:right}#sidebar{width:312px;background:0 0;z-index:2}.sidebar-position-right .sidebar{margin-left:5px}.sidebar{display:block;max-width:100%}.sidebar #stickyDiv{width:207px}.widget{position:relative;margin:0 auto 25px}#sidebar .widget{padding:25px;color:#aaadae;background:#494158}div.sidebar-post{background:url(https://www.climate-data.org/images/line-light.png)100% 0 no-repeat}.sidebar-position-none div.sidebar-post,.sidebar-position-right div.sidebar-post{width:256px}.sidebar-position-right div.sidebar-post.without-width{width:100%}.sidebar-post,.sidebar-post div{font-size:12px}#sidebar-ad-c .sidebar-ad-c{text-align:center;padding:25px 0;margin:0 auto;background:url(https://www.climate-data.org/images/bg-white-90.png)}.sidebar-ad-c .widget{display:inline-block;max-width:1060px;margin:0 auto;padding:0;background:0 0}.sidebar-footer{float:left}.sidebar-footer>div{margin:40px 50px 50px 0}.sidebar-footer>div .widget{color:#aaadae}.sidebar-footer h5{color:#fff;background:url(https://www.climate-data.org/images/line.png)0 100% repeat-x;margin-left:0;margin-bottom:1em}.sidebar-footer a{color:#fff}.sidebar-footer>div .widget:not(.widget_nav_menu) a:hover{color:inherit}.footer-box-v5 .sidebar-footer{width:312px}.footer-box-v5 .sidebar-footer.last{width:264px}.footer-box-v5 .sidebar-footer.last>div{margin-right:0}.widget_custom_menu{list-style-type:none;text-transform:uppercase;margin:0;padding:0}.widget_custom_menu>li{position:relative;margin-top:-1px;background:url(https://www.climate-data.org/images/line-light.png)0 100% repeat-x}.widget_custom_menu>li>a{display:block;font-size:15px;font-weight:700;padding:15px 35px 16px 20px;color:#fff}.widget_custom_menu>li.wHover,.widget_custom_menu>li>a:hover{background:#7b6}.widget_custom_menu span.subline{display:block;font-size:13px;font-weight:400;line-height:1.535em;text-transform:none;opacity:.6}.widget_custom_menu>li>ul{list-style-type:none;display:none;text-transform:none;margin:0;padding:0;background:#f5f5f5}.widget_custom_menu>li.stCurrent>ul{display:block}.widget_custom_menu>li>ul>li{background:url(https://www.climate-data.org/images/line-light.png)repeat-x}.widget_custom_menu>li>ul>li>a{display:block;color:#56646f;font-size:16px;line-height:1.44em;padding:15px 15px 15px 40px;background:url(https://www.climate-data.org/images/icons/16/glyphs/gray/arrow-right.png)17px 1.15em no-repeat}.hidpi .widget_custom_menu>li>ul>li>a{background-image:url(https://www.climate-data.org/images/icons/32/glyphs/gray/arrow-right.png);background-size:16px 16px}.widget_custom_menu>li>ul>li>a:hover{color:#56646f!important;box-shadow:262px 0 rgba(0,0,0,5%)inset}.widget_custom_menu ul ul{list-style-type:none;margin:0 0 0 40px}.widget_custom_menu ul ul li{margin-top:-1px}.widget_custom_menu ul ul li a{display:block;color:#56646f;padding:10px 15px;background:url(https://www.climate-data.org/images/line-light.png)repeat-x}.widget_custom_menu ul ul li a:hover{color:#56646f!important;box-shadow:-250px 0 rgba(0,0,0,5%)inset}.widget-posts{background:url(https://www.climate-data.org/images/line-light.png)100% 100% repeat-x}#sidebar .widget-posts{background:#7b6}.widget-posts>div{padding:15px 0 14px;background:url(https://www.climate-data.org/images/line-light.png)100% 0 repeat-x}#sidebar .widget-posts>div{background:url(https://www.climate-data.org/images/line-white-light.png)100% 0 repeat-x}#sidebar .widget-posts>h5+div,.widget-posts>h5+div{padding-top:0;background-image:none}.sidebar-footer .widget-posts h5+div{padding-top:0;background:0 0}.widget-posts-title{display:table;padding-bottom:2px}#sidebar .widget-posts-title{color:#fff;transition:opacity 250ms linear}#sidebar .widget-posts-title:hover{opacity:.6;transition:opacity 125ms linear}@media only screen and (max-width:1441px){.pub_ATF{min-height:0}.monthly-data-items{width:100%;margin:auto;display:inline-block;padding:10px;box-sizing:border-box}section.graph_img{min-height:715px}div#parallax_ad{height:0}section.preview-graphs{min-height:275px}#header-holder{margin:0 0 0 40px}#content-layout{margin:0 0 0 40px}.bs-sksin2{width:935px;left:632px}}@media only screen and (min-width:1320px){.pub_ATF{min-height:0}.monthly-data-items{width:100%;margin:auto;display:inline-block;padding:10px;box-sizing:border-box}#sidebar-ad-c{display:none}div#parallax_ad{height:0}.st-tabs-holder{min-height:620px}}@media only screen and (min-width:960px) and (max-width:1319px){.pub_ATF{min-height:0}.monthly-data-items{width:100%;margin:auto;display:inline-block;padding:10px;box-sizing:border-box}section.graph_img{min-height:715px}div#parallax_ad{height:0}#sidebar-ad-c{display:none}#header-holder{width:935px}#logo{width:100%;margin:10px;height:100%}#logo h2{max-width:390px}#logo h2 a{font-size:32px}#logo-mobile h2,#logo-mobile h2 a{display:none}#hcustom{width:168px}#header-holder{margin:0 0 0 40px}#content-layout{margin:0 0 0 40px}.bs-sksin2{width:935px;left:548px}#content-layout{width:975px}div.post-single{width:100%}#menu{width:975px}.sidebar-position-right #content-box{width:730px}.sidebar-position-right #content-box>div{padding-right:26px}#footer-holder{width:975px}#copyrights-holder{width:885px}#sidebar{width:240px}.sidebar-position-right .sidebar{margin-left:5px}.sidebar-ad-c .widget{max-width:975px}.sidebar-footer>div{margin-right:25px}.footer-box-v5 .sidebar-footer{width:240px}.footer-box-v5 .sidebar-footer.last{width:215px}.st-tabs-holder{min-height:620px}}@media only screen and (min-width:640px) and (max-width:959px){.pub_ATF{min-height:0}section.graph_img{min-height:715px}section.preview-graphs{min-height:130px}#logo{display:none}#logo h2,#logo h2 a{display:none}#logo h2{display:none}#logo-mobile{float:none;width:auto;height:auto;margin:0 auto;padding:5px 0}#logo-mobile h2,#logo-mobile h2 a{display:block!important;position:relative;display:block;font-size:30px;line-height:.58em;font-weight:700;color:#fff;letter-spacing:-.06em;text-decoration:none;max-width:100%;margin:0;padding:5px 0;opacity:1}body,div,td{font-size:1em}#header-holder{width:auto;margin:0 auto;padding-top:5px}#hcustom{display:none}#search-form-header span{background-size:24px 24px}#search-form-header input{font-size:15px}#content-layout{width:100%;margin:0 20px 20px}#content-holder #content-box{float:none;width:auto}#content-box{min-height:auto}#content-holder #content-box>div{padding:50px 0;background:0 0}#content-holder div.post-single{float:none;width:100%;margin:0}#menu-select{display:block;position:absolute;top:0}#menu{float:none;width:100%;min-height:48px;height:auto;margin:0 auto;padding:0}#menu>div{display:block}ul.menu{display:none;float:none;width:0;height:47px;overflow:hidden}#content-holder #sidebar{float:none;width:auto;padding:0}#content-holder .sidebar{margin:0}#content-holder div.sidebar-post{width:540px;margin:10px 0 25px;padding:0 25px}.sidebar-post,.sidebar-post div{font-size:inherit}.sidebar-ad-c .widget{max-width:590px}.single-author-info{min-height:130px}.single-author-upic{margin:0 0 10px 25px}#footer-holder{width:590px;padding-top:40px}#footer-box{margin-right:-50px}#copyrights-holder{width:auto}#copyrights-box>div{width:100%;text-align:center}#footer-box .sidebar-footer,#footer-box .sidebar-footer.last{width:307px}#footer-box .sidebar-footer.last>div,#footer-box .sidebar-footer>div{margin-right:25px;margin-top:0}.st-tabs-holder{min-height:590px}}@media only screen and (min-width:480px) and (max-width:639px){div#humix-vid-ezAutoMatch{height:250px}.st-ul li{padding:10px 15px}.st-tabs-holder{min-height:475px}div#climate_graph{min-height:300px}section.graph_img{min-height:300px}.pub_ATF{min-height:0}body,div,td{font-size:1em}section.preview-graphs{min-height:130px}#header-holder{width:auto;margin:0 auto}#logo-mobile{float:none;width:auto;height:auto;margin:0 auto;padding:5px 0}#logo-mobile h2,#logo-mobile h2 a{position:relative;display:block;font-size:30px;line-height:.58em;font-weight:700;color:#fff;letter-spacing:-.06em;text-decoration:none;max-width:100%;margin:0;padding:5px 0;opacity:1}#logo{display:none}#logo h2{display:none}#logo h2 a{display:none}#hcustom{display:none}#search-form-header input{font-size:15px}#content-layout{width:100%;margin:0 10px}#content-holder #content-box{float:none;width:auto}#content-box{min-height:auto}#content-holder #content-box>div{padding:50px 0;background:0 0}#content-holder div.post-single{float:none;width:100%;margin:0}#menu-select{display:block;position:absolute;top:0}#menu{float:none;width:100%;min-height:48px;height:auto;margin:0 auto;padding:0}#menu>div{display:block}ul.menu{display:none;float:none;width:0;height:47px;overflow:hidden}#content-holder #sidebar{float:none;width:auto;padding:0}#content-holder .sidebar{margin:0}#content-holder div.sidebar-post{width:380px;margin:10px 0 15px;padding:.1em 10px}.single-author-info{min-height:130px}.single-author-upic{margin:0 0 10px 25px}h1{font-size:2em}h2{font-size:1.6em}.sidebar-ad{height:0;width:100%}.pub_ATF{min-height:0}#footer-holder{width:430px;padding-top:40px}#copyrights-holder{width:auto}#copyrights-box>div{width:100%;text-align:center}#footer-box .sidebar-footer,#footer-box .sidebar-footer.last{width:430px}#footer-box .sidebar-footer.last>div,#footer-box .sidebar-footer>div{margin-right:0;margin-top:0}.sidebar-ad-c .widget{max-width:430px}.sidebar-post,.sidebar-post div{font-size:inherit}}@media only screen and (max-width:479px){div#humix-vid-ezAutoMatch{height:250px}.pub_ATF{min-height:0}div#climate_graph{min-height:300px}.st-tabs-holder.monthly-avg-weather-table{min-height:520px}.st-tabs-holder{min-height:450px}section.graph_img{min-height:300px}section.preview-graphs{min-height:130px}#logo-mobile{float:none;width:auto;height:auto;margin:0 auto;padding:5px 0}#logo-mobile h2,#logo-mobile h2 a{position:relative;display:block;font-size:30px;line-height:.58em;font-weight:700;color:#fff;letter-spacing:-.06em;text-decoration:none;max-width:100%;margin:0;padding:5px 0;opacity:1}body,div,td{font-size:1em}#header-holder{width:auto;margin:0 auto;padding-top:5px}#logo{display:none}#logo h2{display:none}#logo h2 a{display:none}#hcustom{display:none}#search-form-header input{font-size:15px}#content-layout{width:99%;margin:0 auto}#content-holder #content-box{float:none;width:auto}#content-box{min-height:auto}#content-holder #content-box>div{padding:10px 0;background:0 0}#content-holder div.post-single{float:none;width:100%;margin:0}#menu-select{display:block;position:absolute;top:0}#menu{float:none;width:100%;height:auto;min-height:48px;margin:0 auto;padding:0}#menu>div{display:block}ul.menu{display:none;float:none;width:0;height:47px;overflow:hidden}#content-holder #sidebar{float:none;width:auto;padding:0}#content-holder .sidebar{margin:0}#content-holder div.sidebar-post{width:90%;margin:10px 0 0;padding:.5em 10px}.single-author-info{min-height:130px}.single-author-upic{margin:0 0 10px 25px}h1{font-size:1.6em}h2{font-size:1.45em}.rectangle_ad{width:100%;min-height:0}.rectangle_ad_mobile{min-height:0;width:100%}.atf_ad{height:0;width:100%}.sidebar-ad{height:0;width:100%}center#pub_video_ad{min-height:320px}.pub_ATF{min-height:0}#footer-holder{width:300px;padding-top:40px}#copyrights-holder{width:auto}#copyrights-box>div{width:100%;text-align:center}.sidebar-ad-c .widget{max-width:300px}#footer-box .sidebar-footer,#footer-box .sidebar-footer.last{width:300px}#footer-box .sidebar-footer.last>div,#footer-box .sidebar-footer>div{margin-right:0;margin-top:0}.sidebar-post,.sidebar-post div{font-size:inherit}}@media only screen and (max-width:320px){div#humix-vid-ezAutoMatch{height:250px}.st-ul li{padding:10px 15px}.st-tabs-holder{min-height:450px}section.graph_img{min-height:300px}#logo-mobile h2,#logo-mobile h2 a{font-size:20px;line-height:.9em}.atf_ad{height:0;width:100%}.sidebar-ad{height:0;width:100%}center#pub_video_ad{min-height:320px}.pub_ATF{min-height:0}}ul.f16{vertical-align:top;column-count:2;list-style:none;line-height:35px}.f16 .flag,.f32 .flag{width:auto;clear:right}.f16 a{margin-left:20px;margin-right:20px;display:inline-block;width:auto}.f16 .flag{display:inline-block;height:16px;width:auto;vertical-align:text-top;line-height:16px;background:url(../flags/flags16.png)no-repeat}.f16 .c11{background-position:0 -496px}.f16 .c113{background-position:0 -784px}.f16 .c114{background-position:0 -800px}.f16 .c75{background-position:0 -1008px}.f16 .c133{background-position:0 -1056px}.f16 .c63{background-position:0 -1248px}.f16 .c81{background-position:0 -1696px}.f16 .c230{background-position:0 -3024px}.f16 .c27{background-position:0 -2864px}.f16 .c189{background-position:0 -3328px}.f16 .c191{background-position:0 -3680px}.f16 .c99{background-position:0 -3744px}.f16 .c164{background-position:0 -1232px}.f16 .c72{background-position:0 -464px}.f16 .c42{background-position:0 -736px}.f16 .c115{background-position:0 -848px}.f16 .c14{background-position:0 -672px}.f16 .c73{background-position:0 -720px}.f16 .c142{background-position:0 -1024px}.f16 .c76{background-position:0 -1104px}.f16 .c168{background-position:0 -928px}.f16 .c59{background-position:0 -3424px}.f16 .c21{background-position:0 -2064px}.f16 .c184{background-position:0 -912px}.f16 .c201{background-position:0 -944px}.f16 .c134{background-position:0 -976px}.f16 .c255{background-position:0 -1168px}.f16 .c143{background-position:0 -1280px}.f16 .c122{background-position:0 -1616px}.f16 .c144{background-position:0 -1312px}.f16 .c249{background-position:0 -1344px}.f16 .c80{background-position:0 -1440px}.f16 .c121{background-position:0 -1520px}.f16 .c46{background-position:0 -1584px}.f16 .c47{background-position:0 -1680px}.f16 .c124{background-position:0 -2e3px}.f16 .c137{background-position:0 -2272px}.f16 .c85{background-position:0 -2256px}.f16 .c176{background-position:0 -2336px}.f16 .c177{background-position:0 -2400px}.f16 .c87{background-position:0 -2608px}.f16 .c53{background-position:0 -2448px}.f16 .c152{background-position:0 -2528px}.f16 .c238{background-position:0 -2576px}.f16 .c181{background-position:0 -2352px}.f16 .c88{background-position:0 -2656px}.f16 .c89{background-position:0 -2672px}.f16 .c90{background-position:0 -2704px}.f16 .c153{background-position:0 -2720px}.f16 .c92{background-position:0 -3120px}.f16 .c251{background-position:0 -1296px}.f16 .c252{background-position:0 -1456px}.f16 .c30{background-position:0 -3344px}.f16 .c187{background-position:0 -3296px}.f16 .c65{background-position:0 -3168px}.f16 .c128{background-position:0 -3264px}.f16 .c157{background-position:0 -3312px}.f16 .c61{background-position:0 -3856px}.f16 .c215{background-position:0 -3936px}.f16 .c57{background-position:0 -3184px}.f16 .c69{background-position:0 -3392px}.f16 .c132{background-position:0 -3616px}.f16 .c45{background-position:0 -1568px}.f16 .c96{background-position:0 -3440px}.f16 .c158{background-position:0 -3520px}.f16 .c160{background-position:0 -3648px}.f16 .c192{background-position:0 -3872px}.f16 .c228{background-position:0 -3888px}.f16 .c3{background-position:0 -384px}.f16 .c39{background-position:0 -704px}.f16 .c166{background-position:0 -640px}.f16 .c74{background-position:0 -832px}.f16 .c234{background-position:0 -768px}.f16 .c167{background-position:0 -2032px}.f16 .c110{background-position:0 -1040px}.f16 .c170{background-position:0 -3488px}.f16 .c129{background-position:0 -1856px}.f16 .c101{background-position:0 -1792px}.f16 .c66{background-position:0 -1888px}.f16 .c146{background-position:0 -1872px}.f16 .c49{background-position:0 -1824px}.f16 .c108{background-position:0 -1984px}.f16 .c147{background-position:0 -1968px}.f16 .c125{background-position:0 -2128px}.f16 .c237{background-position:0 -2016px}.f16 .c148{background-position:0 -2176px}.f16 .c50{background-position:0 -2192px}.f16 .c25{background-position:0 -2640px}.f16 .c86{background-position:0 -2592px}.f16 .c180{background-position:0 -2480px}.f16 .c151{background-position:0 -2464px}.f16 .c26{background-position:0 -2784px}.f16 .c22{background-position:0 -2096px}.f16 .c138{background-position:0 -2832px}.f16 .c127{background-position:0 -2928px}.f16 .c1{background-position:0 -2912px}.f16 .c183{background-position:0 -3040px}.f16 .c190{background-position:0 -1040px}.f16 .c29{background-position:0 -3136px}.f16 .c107{background-position:0 -3216px}.f16 .c23{background-position:0 -2112px}.f16 .c256{background-position:0 -2240px}.f16 .c94{background-position:0 -3376px}.f16 .c131{background-position:0 -3472px}.f16 .c202{background-position:0 -3456px}.f16 .c31{background-position:0 -3504px}.f16 .c70{background-position:0 -368px}.f16 .c161{background-position:0 -3696px}.f16 .c60{background-position:0 -3792px}.f16 .c33{background-position:0 -3840px}.f16 .c140{background-position:0 -544px}.f16 .c17{background-position:0 -992px}.f16 .c79{background-position:0 -1392px}.f16 .c119{background-position:0 -1376px}.f16 .c174{background-position:0 -2048px}.f16 .c102{background-position:0 -2416px}.f16 .c54{background-position:0 -2800px}.f16 .c9{background-position:0 -2816px}.f16 .c199{background-position:0 -3952px}.f16 .c222{background-position:0 -3008px}.f16 .c55{background-position:0 -2896px}.f16 .c223{background-position:0 -3824px}.f16 .c212{background-position:0 -3152px}.f16 .c97{background-position:0 -3536px}.f16 .c159{background-position:0 -3584px}.f16 .c109{background-position:0 -3808px}.f16 .c193{background-position:0 -416px}.f16 .c165{background-position:0 -400px}.f16 .c13{background-position:0 -624px}.f16 .c36{background-position:0 -880px}.f16 .c195{background-position:0 -752px}.f16 .c100{background-position:0 -3760px}.f16 .c116{background-position:0 -896px}.f16 .c24{background-position:0 -2144px}.f16 .c43{background-position:0 -1072px}.f16 .c18{background-position:0 -1088px}.f16 .c44{background-position:0 -1200px}.f16 .c8{background-position:0 -1216px}.f16 .c93{background-position:0 -3360px}.f16 .c103{background-position:0 -1552px}.f16 .c145{background-position:0 -1472px}.f16 .c229{background-position:0 -1648px}.f16 .c41{background-position:0 -1760px}.f16 .c48{background-position:0 -1728px}.f16 .c111{background-position:0 -1952px}.f16 .c179{background-position:0 -2624px}.f16 .c126{background-position:0 -2544px}.f16 .c154{background-position:0 -2736px}.f16 .c155{background-position:0 -2848px}.f16 .c71{background-position:0 -2080px}.f16 .c149{background-position:0 -2208px}.f16 .c186{background-position:0 -3728px}.f16 .c15{background-position:0 -816px}.f16 .c32{background-position:0 -3568px}.f16 .c95{background-position:0 -3408px}.f16 .c163{background-position:0 -3664px}.f16 .c68{background-position:0 -432px}.f16 .c6{background-position:0 -352px}.f16 .c10{background-position:0 -448px}.f16 .c4{background-position:0 -528px}.f16 .c112{background-position:0 -592px}.f16 .c16{background-position:0 -864px}.f16 .c233{background-position:0 -656px}.f16 .c244{background-position:0 -608px}.f16 .c141{background-position:0 -688px}.f16 .c82{background-position:0 -1744px}.f16 .c106{background-position:0 -1120px}.f16 .c118{background-position:0 -1136px}.f16 .c169{background-position:0 -1184px}.f16 .c120{background-position:0 -1264px}.f16 .c104{background-position:0 -1408px}.f16 .c171{background-position:0 -1360px}.f16 .c216{background-position:0 -1424px}.f16 .c172{background-position:0 -1488px}.f16 .c232{background-position:0 -1152px}.f16 .c139{background-position:0 -1536px}.f16 .c173{background-position:0 -1632px}.f16 .c227{background-position:0 -1504px}.f16 .c20{background-position:0 -1776px}.f16 .c135{background-position:0 -1904px}.f16 .c219{background-position:0 -1808px}.f16 .c224{background-position:0 -1840px}.f16 .c2{background-position:0 -1920px}.f16 .c242{background-position:0 -1936px}.f16 .c83{background-position:0 -2160px}.f16 .c175{background-position:0 -2320px}.f16 .c253{background-position:0 -2224px}.f16 .c51{background-position:0 -2288px}.f16 .c58{background-position:0 -2304px}.f16 .c52{background-position:0 -2432px}.f16 .c178{background-position:0 -2560px}.f16 .c150{background-position:0 -2368px}.f16 .c240{background-position:0 -1792px}.f16 .c203{background-position:0 -2384px}.f16 .c38{background-position:0 -2768px}.f16 .c182{background-position:0 -2944px}.f16 .c250{background-position:0 -2992px}.f16 .c257{background-position:0 -160px}.f16 .c185{background-position:0 -3072px}.f16 .c136{background-position:0 -3104px}.f16 .c156{background-position:0 -3280px}.f16 .c37{background-position:0 -3088px}.f16 .c188{background-position:0 -3248px}.f16 .c7{background-position:0 -3232px}.f16 .c5{background-position:0 -1328px}.f16 .c105{background-position:0 -3200px}.f16 .c221{background-position:0 -960px}.f16 .c40{background-position:0 -2752px}.f16 .c67{background-position:0 -3552px}.f16 .c231{background-position:0 -3632px}.f16 .c213{background-position:0 -1456px}.text{height:100%;min-height:60px;font-size:80%}#Tag{width:12%;text-align:center;min-height:260px;height:100%;float:left;margin:5px 2px 15px}.date{min-height:40px}.clear{width:100%;clear:both}.chanceofrain{min-height:20px;height:100%;vertical-align:middle;font-size:90%}.wetter{width:100%;height:100%}.Temperature{vertical-align:bottom;font-size:90%;min-height:40px;height:100%}@media only screen and (max-width:800px){#Tag{width:18%;text-align:center;float:left;min-height:260px;margin:5px 3px}.chanceofrain,.text{font-size:85%}}@media only screen and (max-width:600px){div#humix-vid-ezAutoMatch{height:250px}.st-ul li{padding:10px 15px}#Tag{width:23%;text-align:center;float:left;min-height:260px;margin:5px 3px}.text{height:100%;min-height:60px;font-size:90%}.chanceofrain{font-size:90%}}@media only screen and (max-width:480px){div#humix-vid-ezAutoMatch{height:250px}.st-ul li{padding:10px 15px}#Tag{width:29%;text-align:center;padding-top:10px;margin-left:2px;margin-right:2px;padding-bottom:5px;float:left;min-height:250px}ul#location{list-style:none;-webkit-column-count:1;-moz-column-count:1;column-count:1}.text{height:100%;min-height:60px;font-size:85%}.chanceofrain{font-size:85%}}@media only screen and (max-width:380px){div#humix-vid-ezAutoMatch{height:250px}.st-ul li{padding:10px 15px}#Tag{width:29%;text-align:center;padding-top:10px;margin-left:2px;margin-right:2px;padding-bottom:5px;float:left;min-height:240px}ul#location{list-style:none;-webkit-column-count:1;-moz-column-count:1;column-count:1}.chanceofrain,.text{font-size:80%}}table#weather_table{border:1px dotted #000}table#weather_table,table#weather_table td,table#weather_table th,table#weather_table tr{color:#333!important;background:#eee;border-spacing:2px;border-color:#eee;font-size:10px;padding:1px}table#weather_table tbody tr td,table#weather_table thead tr th{width:7%!important;text-align:center}table#weather_table tbody tr td:first-child,table#weather_table thead tr th:first-child{width:16%!important}table#weather_table th{font-weight:700;font-size:10px}table#weather_table tbody tr td{color:#000!important}table#small_weather_table tbody tr td{text-align:center;color:#000!important}table#small_weather_table thead tr th{width:25%;text-align:center;font-size:10px}#small_weather_table,.small_weather_table_arrows{display:none}@media only screen and (min-height:844px) and (orientation:portrait){}@media screen and (max-width:500px){div#humix-vid-ezAutoMatch{height:250px}.bg-weather-month-precip{width:65px;height:60px;background-position:-10px -10px}.bg-weather-month-sun{width:62px;height:65px;background-position:-95px -10px}.bg-weather-month-temp_avg{width:35px;height:65px;margin-left:15px;background-position:-10px -95px}.bg-weather-month-temp_max{width:35px;height:65px;margin-left:15px;background-position:-65px -95px}.bg-weather-month-temp_min{width:35px;height:65px;margin-left:15px;background-position:-120px -95px}.bg-weather-month-temp_water{width:65px;height:49px;background-position:-177px -10px}.st-ul li{padding:10px 15px}#small_weather_table,.small_weather_table_arrows{display:block;font-size:12px}ul#location{list-style:none;-webkit-column-count:1;-moz-column-count:1;column-count:1}#weather_table{display:none}}.st-tabs-holder{display:block;margin:0 0 1em;min-height:365px}.st-ul{list-style:none;display:table;width:100%;max-width:100%;margin:0 0 -1px;padding:0;border-left:1px solid #ddd}.st-ul li{float:left;margin:0;padding:10px 25px;border-top:1px solid #ddd;border-right:1px solid #ddd;cursor:pointer;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.st-ul li:hover{background-image:url(https://www.climate-data.org/images/bg-black-05.png)}.st-ul li.st-current,.st-ul li.st-current:hover{color:#7b6;border-top:1px solid #7b6;background:#fff}.st-tabs{clear:both;text-align:left;padding:25px;background:#fff;border:1px solid #ddd}.st-tabs>div{position:absolute;visibility:hidden;top:-9999px}.st-tabs .block{position:relative;visibility:visible;top:0}.sprite{background-image:url(https://www.climate-data.org/images/css_sprites_vertical.png);background-repeat:no-repeat;display:block;margin-left:20%}.bg-c01d{width:65px;height:65px;background-position:-10px -1030px}.bg-c02d{width:65px;height:65px;background-position:-10px -1200px}.bg-c03d{width:65px;height:65px;background-position:-10px -1370px}.bg-c04d{width:65px;height:65px;background-position:-10px -1540px}.bg-r01d{width:65px;height:65px;background-position:-10px -2540px}.bg-r02d{width:65px;height:65px;background-position:-10px -2710px}.bg-r03d{width:65px;height:65px;background-position:-10px -2880px}.bg-r04d{width:65px;height:65px;background-position:-10px -3050px}.bg-s01d{width:65px;height:65px;background-position:-10px -3560px}.bg-s02d{width:65px;height:65px;background-position:-10px -3730px}.bg-s03d{width:65px;height:65px;background-position:-10px -3900px}.bg-s04d{width:65px;height:65px;background-position:-10px -4070px}.bg-t02d{width:65px;height:65px;background-position:-10px -4800px}.bg-t03d{width:65px;height:65px;background-position:-10px -4970px}#wetter td{vertical-align:middle;text-align:center}@media only screen and (max-width:800px){.mobile-hide{display:none!important}}@media only screen and (max-width:600px){div#humix-vid-ezAutoMatch{height:250px}.mobile-hide{display:none!important}}@media only screen and (max-width:480px){div#humix-vid-ezAutoMatch{height:250px}.st-ul li{padding:10px 15px}.mobile-hide{display:none!important}}@media only screen and (max-width:380px){div#humix-vid-ezAutoMatch{height:250px}.st-ul li{padding:10px 15px}.mobile-hide{display:none!important}.st-tabs-holder{min-height:450px}}.monthly-data-items{margin:auto;padding-bottom:10px;box-sizing:border-box}ul#monthly{list-style:none;-webkit-column-count:2;-moz-column-count:2;column-count:2}@media only screen and (max-width:375px){div#humix-vid-ezAutoMatch{height:250px}.st-ul li{padding:10px 15px}ul#monthly{list-style:none;-webkit-column-count:1;-moz-column-count:1;column-count:1}}@media only screen and (min-width:850px){.ordinary-hide{display:none!important}}.monthly-data-list{list-style:none;margin:0}.monthly-weather-table{width:auto}.monthly-weather-table td.align-center{vertical-align:middle;text-align:left}.monthly-weather-table tr,.monthly-weather-table td{border:none}div.sidebar-post-monthly{text-align:left}.bg-weather-month-precip{width:70px;height:65px;background-position:-85px 0}.bg-weather-month-sun{width:62px;height:65px;background-position:-95px -10px}.bg-weather-month-temp_avg{width:35px;height:65px;margin-left:15px;background-position:-195px -10px}.bg-weather-month-temp_max{width:35px;height:65px;margin-left:15px;background-position:-195px -95px}.bg-weather-month-temp_min{width:35px;height:65px;margin-left:15px;background-position:-10px -180px}.bg-weather-month-temp_water{width:65px;height:49px;background-position:-60px -180px}.tab-headers{padding-right:46px;position:relative}.st-ul{flex-wrap:wrap;height:42px;overflow:hidden;display:flex}.st-ul>li{flex-grow:1}@media only screen and (min-width:1024px) and (max-height:1366px) and (orientation:landscape) and (-webkit-min-device-pixel-ratio:1.5){.pub_ATF{min-height:0}section.graph_img{min-height:715px}.sidebar_ad1{min-height:0}.sidebar_ad2{min-height:0}div#parallax_ad{height:0}}@media only screen and (min-width:1024px) and (max-height:1366px) and (orientation:portrait) and (-webkit-min-device-pixel-ratio:1.5){.pub_ATF{min-height:0}section.graph_img{min-height:715px}div#parallax_ad{height:0}.sidebar_ad1{min-height:0}.sidebar_ad2{min-height:0}}
+</style> 
+
+
+	
+
+	  
+<script>
+(function (s, t, a, y, twenty, two) {
+s.Stay22 = s.Stay22 || {};
+
+s.Stay22.params = {
+  aid: "amonlineprojects",
+};
+  
+  twenty = t.createElement(a);
+  two = t.getElementsByTagName(a)[0];
+  twenty.async = 1;
+  twenty.src = y;
+  two.parentNode.insertBefore(twenty, two);
+})(window, document, "script", "https://climate-data.org/stay.js");
+</script>
+
+             
+	
+    	<meta name="audisto-confirm" content="608d9f25ad49221b822bf0258d9ddecff5fdc977" />
+	<meta name="verification" content="535a9f9813cb394a1364e986d54fce6b" />
+    	<meta name="msvalidate.01" content="8BD6FEF88E40F042DC1D87F5DCA2CCC1" />
+	
+
+	
+
+
+<script src="https://cmp.uniconsent.com/v2/stub.min.js"></script>
+<script src="https://cmp.uniconsent.com/v2/stubgcm.min.js"></script>
+<script async src='https://cmp.uniconsent.com/v2/7d365ab638/cmp.js'></script>
+<script type="text/javascript">
+window.googletag = window.googletag || {};
+window.googletag.cmd = window.googletag.cmd || [];
+window.googletag.cmd.push(function () {
+    window.googletag.pubads().enableAsyncRendering();
+    window.googletag.pubads().disableInitialLoad();
+});
+(adsbygoogle = window.adsbygoogle || []).pauseAdRequests = 1;
+</script>
+<script>
+__tcfapi("addEventListener", 2, function(tcData, success) {
+    if (success && tcData.unicLoad  === true) {
+        if(!window._initAds) {
+            window._initAds = true;
+            
+	    var script = document.createElement('script');
+            script.async = true;
+            script.src = 'https://fms.360yield.com/ow/bundles/live/pubgalaxy/publishers/climate-dataorg.new.min.js';
+            document.head.appendChild(script);
+			
+	    var script = document.createElement('script');
+	    script.async = true;
+	    script.src = '//btloader.com/tag?o=5184339635601408&upapi=true';
+	    document.head.appendChild(script);
+        }
+    }
+});
+</script>
+
+<script>
+  window.googletag = window.googletag || {};
+  window.googletag.cmd = window.googletag.cmd || [];
+  window.googletag.cmd.push(() => {
+    window.googletag.pubads().enableAsyncRendering();
+    window.googletag.pubads().disableInitialLoad();
+  }
+  );
+  const injectPgScript = (src, isAsync, onLoadCallback) => {
+    if (!src)
+      return;
+    const script = document.createElement("script");
+    script.src = src;
+    if (isAsync)
+      script.async = isAsync;
+    if (onLoadCallback)
+      script.onload = onLoadCallback;
+    document.head.appendChild(script);
+  };
+  const initiatePgAds = () => {
+    !!window.__tcfapi && window.__tcfapi("addEventListener", 2, (tcData, success) => {
+      if (success && (tcData.eventStatus === "useractioncomplete" || tcData.eventStatus === "tcloaded" || tcData.gdprApplies === false)) {
+        if (!window._initAds) {
+          window._initAds = true;
+          injectPgScript("https://fms.360yield.com/ow/bundles/live/pubgalaxy/publishers/climate-dataorg.new.min.js", true); 
+          injectPgScript("https://btloader.com/tag?o=5184339635601408&upapi=true", true);
+        }
+      }
+    }
+    );
+  };
+  injectPgScript("https://securepubads.g.doubleclick.net/tag/js/gpt.js?network-code=8095840", true, () => { 
+    window.googlefc = window.googlefc || {
+      callbackQueue: []
+    };
+    window.googlefc.callbackQueue.push({
+      "CONSENT_API_READY": () => initiatePgAds()
+    });
+  }
+  );
+</script>
+
+
+
+<script async charset="UTF-8" data-publisher="b89923f9594146c1a6d587bd521a4ed8" src="https://compare-static.climate-data.org/tag.js"></script>
+
+
+
+
+
+  </head>
+  <body class="single single-post postid-777 single-format-standard chrome js" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+    <div id="layout">
+      <div id="header">
+        <div>
+            
+          <div id="header-holder">
+	            
+
+
+
+
+            <div id="logo" class="div-as-table">
+              <div>
+                <div>
+                  <h2>
+                    <a href="/"></a>
+                  </h2>
+                </div>
+              </div>
+            </div>
+            
+<div id="menu" class="div-as-table ">
+  <div>
+    <div>
+		<div id="logo-mobile" class="div-as-table">
+			<h2>
+                    <a href="/"></a>
+			</h2>
+		</div>
+      <span id="menu-select"></span>
+      <div id="menu-box">
+        <nav>
+
+
+<ul class="menu">
+             <li>
+              <a href="https://en.climate-data.org/north-america/" target="_blank">North America<span class="subline"> and Oceania</span></a>
+                <ul>
+                    <li><a href="https://en.climate-data.org/oceania/australia-140/">Australia</a></li>
+                    <li><a href="https://en.climate-data.org/north-america/dominican-republic-8/">Dominican Republic</a></li>
+                    <li><a href="https://en.climate-data.org/north-america/canada-116/">Canada</a></li>
+                    <li><a href="https://en.climate-data.org/north-america/cuba-18/">Cuba</a></li>
+                    <li><a href="https://en.climate-data.org/north-america/el-salvador-93/">El Salvador</a></li>
+                    <li><a href="https://en.climate-data.org/north-america/guatemala-229/">Guatemala</a></li>
+                    <li><a href="https://en.climate-data.org/north-america/haiti-41/">Haiti</a></li>
+                    <li><a href="https://en.climate-data.org/north-america/jamaica-111/">Jamaica</a></li>
+                    <li><a href="https://en.climate-data.org/north-america/mexico-179/">Mexico</a></li>
+                    <li><a href="https://en.climate-data.org/oceania/new-zealand-9/">New Zealand</a></li>
+                    <li><a href="https://en.climate-data.org/north-america/united-states-of-america-163/">USA</a></li>
+                </ul>
+            </li>
+            
+             <li>
+              <a href="https://en.climate-data.org/south-america/" target="_blank">South America<span class="subline"> Select country</span></a>
+                <ul>
+                    <li><a href="https://en.climate-data.org/south-america/argentina-11/">Argentinia</a></li>
+                    <li><a href="https://en.climate-data.org/south-america/bolivia-113/">Bolivia</a></li>
+                    <li><a href="https://en.climate-data.org/south-america/brazil-114/">Brazil</a></li>
+                    <li><a href="https://en.climate-data.org/south-america/chile-75/">Chile</a></li>
+                    <li><a href="https://en.climate-data.org/south-america/colombia-133/">Colombia</a></li>
+                    <li><a href="https://en.climate-data.org/south-america/ecuador-63/">Ecuador</a></li>
+                    <li><a href="https://en.climate-data.org/south-america/peru-27/">Peru</a></li>
+                    <li><a href="https://en.climate-data.org/south-america/venezuela-99/">Venezuela</a></li>
+                   </ul>
+            </li>
+            
+            <li>
+              <a href="https://en.climate-data.org/europe/" target="_blank">Europe<span class="subline"> Select country</span></a>
+                <ul>
+                    <li><a href="https://en.climate-data.org/europe/belgium-233/">Belgium</a></li>
+                    <li><a href="https://en.climate-data.org/europe/croatia-82/">Croatia</a></li>
+                    <li><a href="https://en.climate-data.org/europe/france-216/">France</a></li>
+                    <li><a href="https://en.climate-data.org/europe/germany-232/">Germany</a></li>
+                    <li><a href="https://en.climate-data.org/europe/greece-173/">Greece</a></li>
+                    <li><a href="https://en.climate-data.org/europe/italy-2/">Italy</a></li>
+                    <li><a href="https://en.climate-data.org/europe/the-netherlands-40/">Netherlands</a></li>
+                    <li><a href="https://en.climate-data.org/europe/portugal-250/">Portugal</a></li>
+                    <li><a href="https://en.climate-data.org/europe/romania-185/">Romania</a></li>
+                    <li><a href="https://en.climate-data.org/europe/spain-5/">Spain</a></li>
+                    <li><a href="https://en.climate-data.org/europe/ukraine-231/">Ukraine</a></li>
+                    <li><a href="https://en.climate-data.org/europe/united-kingdom-213/">United Kingdom</a></li>
+                </ul>
+            </li>
+
+             <li>
+              <a href="https://en.climate-data.org/asia/" target="_blank">Asia<span class="subline"> Select country</span></a>
+                <ul>
+                    <li><a href="https://en.climate-data.org/asia/bangladesh-166/">Bangladesh</a></li>
+                    <li><a href="https://en.climate-data.org/asia/china-110/">China</a></li>
+                    <li><a href="https://en.climate-data.org/asia/india-129/">India</a></li>
+                    <li><a href="https://en.climate-data.org/asia/indonesia-101/">Indonesia</a></li>
+                    <li><a href="https://en.climate-data.org/asia/japan-108/">Japan</a></li>
+                    <li><a href="https://en.climate-data.org/asia/nepal-26/">Nepal</a></li>
+                    <li><a href="https://en.climate-data.org/asia/philippines-1/">Philippines</a></li>
+                    <li><a href="https://en.climate-data.org/asia/russian-federation-136/">Russia</a></li>
+                    <li><a href="https://en.climate-data.org/asia/sri-lanka-256/">Sri Lanka</a></li>
+                    <li><a href="https://en.climate-data.org/asia/thailand-202/">Thailand</a></li>
+                    <li><a href="https://en.climate-data.org/asia/turkey-67/">Turkey</a></li>
+                    <li><a href="https://en.climate-data.org/asia/vietnam-60/">Vietnam</a></li>
+                </ul>
+            </li>
+
+             <li>
+              <a href="https://en.climate-data.org/africa/" target="_blank">Africa<span class="subline"> Select country</span></a>
+                <ul>
+                    <li><a href="https://en.climate-data.org/africa/algeria-164/">Algeria</a></li>
+                    <li><a href="https://en.climate-data.org/africa/angola-72/">Angola</a></li>
+                    <li><a href="https://en.climate-data.org/africa/congo-brazzaville-184/">Congo Republic</a></li>
+                    <li><a href="https://en.climate-data.org/africa/egypt-143/">Egypt</a></li>
+                    <li><a href="https://en.climate-data.org/africa/ethiopia-249/">Ethiopia</a></li>
+                    <li><a href="https://en.climate-data.org/africa/kenya-124/">Kenya</a></li>
+                    <li><a href="https://en.climate-data.org/africa/morocco-181/">Morocco</a></li>
+                    <li><a href="https://en.climate-data.org/africa/nigeria-153/">Nigeria</a></li>
+                    <li><a href="https://en.climate-data.org/africa/south-africa-61//">South Africa</a></li>
+                    <li><a href="https://en.climate-data.org/africa/tunisia-158/">Tunisia</a></li>
+                </ul>
+            </li>
+
+            <li>
+                 <a href="https://de.climate-data.org/reisewetter/" target="_blank">Travel<span class="subline"> Places to Visit</span></a>
+                  <ul>
+                    <li><a href="https://en.climate-data.org/europe/united-kingdom/england/london-1/">London</a></li>
+                    <li><a href="https://en.climate-data.org/oceania/australia/new-south-wales/sydney-24/">Sydney</a></li>
+                    <li><a href="https://en.climate-data.org/oceania/australia/victoria/melbourne-764100/">Melbourne</a></li>
+                    <li><a href="https://en.climate-data.org/north-america/canada/ontario/toronto-53/">Toronto</a></li>
+                    <li><a href="https://en.climate-data.org/asia/united-arab-emirates/dubai/dubai-705/">Dubai</a></li>
+                    <li><a href="https://en.climate-data.org/north-america/united-states-of-america/new-york/new-york-1091/">New York</a></li>
+                    <li><a href="https://en.climate-data.org/north-america/canada/british-columbia/vancouver-963/">Vancouver</a></li>
+                    <li><a href="https://en.climate-data.org/europe/france/ile-de-france/paris-44/">Paris</a></li>
+                    <li><a href="https://en.climate-data.org/north-america/united-states-of-america/nevada/las-vegas-723/">Las Vegas</a></li>
+                    <li><a href="https://en.climate-data.org/north-america/united-states-of-america/california/los-angeles-714829/">Los Angeles</a></li>
+                    <li><a href="https://en.climate-data.org/asia/japan/tokyo/tokyo-3292/">Tokyo</a></li>
+                    <li><a href="https://en.climate-data.org/europe/italy/lazio/rome-1185/">Rome</a></li>
+                    <li><a href="https://en.climate-data.org/oceania/australia/western-australia/perth-582/">Perth</a></li>
+                    <li><a href="https://en.climate-data.org/asia/india/karnataka/bengaluru-4562/">Bangalore</a></li>
+                    <li><a href="https://en.climate-data.org/asia/india/delhi/new-delhi-30/">New Delhi</a></li>
+                    <li><a href="https://en.climate-data.org/north-america/canada/quebec/montreal-3704/">Montreal</a></li>
+                    <li><a href="https://en.climate-data.org/oceania/new-zealand/auckland/auckland-3605/">Auckland</a></li>
+                    <li><a href="https://en.climate-data.org/asia/india/gujarat/ahmedabad-2828/">Ahmedabad</a></li>
+                    <li><a href="https://en.climate-data.org/oceania/australia/queensland/brisbane-6171/">Brisbane</a></li>
+                    <li><a href="https://en.climate-data.org/north-america/canada/alberta/calgary-390/">Calgary</a></li>
+                    <li><a href="https://en.climate-data.org/north-america/united-states-of-america/washington/seattle-593/">Seattle</a></li>
+                    <li><a href="https://en.climate-data.org/asia/thailand/bangkok/bangkok-6313/">Bangkok</a></li>
+                </ul>
+               </li>
+               
+          </ul>
+
+
+
+          </ul>
+        </nav>
+      </div>
+      <form action="/search/" method="get" role="search" id="search-form-header">
+        <span></span>
+        <input type="text" name="q" value="" placeholder="Search..." />
+      </form>
+    </div>
+  </div>
+</div>
+<div class="clear"></div>
+
+<div id="breadcrumbs" style="min-height: 25px">
+	<div itemtype="http://schema.org/TouristDestination" itemscope>
+  <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+      
+        <a itemprop="item" href="/"><span itemprop="name">Climate-Data.org</span></a>
+      
+      <meta itemprop="position" content="1" />
+    </li>
+
+    
+	
+		  
+        
+    
+  </ol>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div id="content">
+        <div id="content-layout">
+          <div id="content-holder" class="sidebar-position-right">
+            
+<div id="content-box">
+  <div>
+    <div id="page-404">
+      <div id="content-404" class="notice">
+        <h1>404</h1>
+        <p>
+		  Sorry, the page you asked for couldn&#39;t be found.
+		</p>
+
+        
+          Please try to use the search form below to search for places, regions or countries.
+        
+
+        
+<form id="search_form" action="/search/" method="get" role="search">
+  <input type="text" name="q" value="" placeholder="Search..." />
+</form>
+
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div id="sidebar">
+  <div class="sidebar">
+  
+  
+  
+  
+<div class="widget widget-info">
+  <h5>Popular places</h5>
+  <ul id="kttnav">
+    
+      
+      
+      
+      
+        <li><a href="/europe/united-kingdom/england/london-1/">Climate London</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/asia/japan/tokyo/tokyo-3292/">Climate Tokyo</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/north-america/united-states-of-america-163/">Climate United States of America</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/oceania/australia/new-south-wales/sydney-24/">Climate Sydney</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/north-america/canada/ontario/toronto-53/">Climate Toronto</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/europe/france/ile-de-france/paris-44/">Climate Paris</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/asia/united-arab-emirates/dubai/dubai-705/">Climate Dubai</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/europe/italy/lazio/rome-1185/">Climate Rome</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/north-america/united-states-of-america/new-york/new-york-1091/">Climate New York</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/north-america/united-states-of-america/oklahoma/savanna-129459/">Climate Savanna</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/asia/russian-federation/sakha-republic/yakutsk-1806/">Climate Yakutsk</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/europe/italy-2/">Climate Italy</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/south-america/brazil-114/">Climate Brazil</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/north-america/canada-116/">Climate Canada</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/north-america/canada/british-columbia/vancouver-963/">Climate Vancouver</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/europe/france-216/">Climate France</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/south-america/brazil/amazonas-95/">Climate Amazonas</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/africa/egypt/cairo-governorate/cairo-3392/">Climate Cairo</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/asia/russian-federation/moscow/moscow-6390/">Climate Moscow</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/asia/china/chongqing/chongqing-5383/">Climate Chongqing</a></li>
+      
+    
+  </ul>
+</div>
+<div class="widget widget-info">
+  <h5>Top Locations in March</h5>
+  <ul id="kttnav">
+    
+      
+      
+      
+      
+        <li><a href="/north-america/united-states-of-america/new-york/new-york-1091/t/march-3/">New York</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/europe/france/ile-de-france/paris-44/t/march-3/">Paris</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/europe/united-kingdom/england-256/r/march-3/">England</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/asia/china/shanghai/shanghai-5582/t/march-3/">Shanghai</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/europe/united-kingdom/england/london-1/t/march-3/">London</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/asia/philippines/benguet/baguio-6086/t/march-3/">Baguio</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/north-america/canada/alberta/calgary-390/t/march-3/">Calgary</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/asia/china/hong-kong/hong-kong-977986/t/march-3/">Hong Kong</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/oceania/australia/victoria/melbourne-764100/t/march-3/">Melbourne</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/asia/republic-of-china-taiwan/taipei-city/taipei-city-5817/t/march-3/">Taipei City</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/north-america/canada/ontario/toronto-53/t/march-3/">Toronto</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/north-america/united-states-of-america/nevada/las-vegas-723/t/march-3/">Las Vegas</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/asia/japan/osaka-prefecture/osaka-1002/t/march-3/">Osaka</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/europe/spain/catalonia/barcelona-1564/t/march-3/">Barcelona</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/north-america/canada/manitoba/winnipeg-982/t/march-3/">Winnipeg</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/north-america/canada/alberta/edmonton-610/t/march-3/">Edmonton</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/asia/turkey/istanbul/istanbul-715086/t/march-3/">Istanbul</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/north-america/united-states-of-america/disneyland-california-10307/r/march-3/">Disneyland (California)</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/europe/italy/lazio/rome-1185/t/march-3/">Rome</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/asia/china/chongqing/chongqing-5383/t/march-3/">Chongqing</a></li>
+      
+    
+  </ul>
+</div>
+<div class="widget widget-info">
+  <h5>Top Locations in April</h5>
+  <ul id="kttnav">
+    
+      
+      
+      
+      
+        <li><a href="/north-america/canada/ontario/toronto-53/t/april-4/">Toronto</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/north-america/united-states-of-america/new-york/new-york-1091/t/april-4/">New York</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/europe/france/ile-de-france/paris-44/t/april-4/">Paris</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/asia/united-arab-emirates/dubai/dubai-705/t/april-4/">Dubai</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/europe/united-kingdom/england/london-1/t/april-4/">London</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/asia/china/hong-kong/hong-kong-977986/t/april-4/">Hong Kong</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/europe/spain/balearic-islands/palma-de-mallorca-3575/t/april-4/">Palma de Mallorca</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/europe/the-netherlands/north-holland/amsterdam-3330/t/april-4/">Amsterdam</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/oceania/australia/victoria/melbourne-764100/t/april-4/">Melbourne</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/asia/philippines/benguet/baguio-6086/t/april-4/">Baguio</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/europe/united-kingdom/england-256/r/april-4/">England</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/asia/turkey/istanbul/istanbul-715086/t/april-4/">Istanbul</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/europe/italy/lombardy/milan-1094/t/april-4/">Milan</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/north-america/canada/alberta/calgary-390/t/april-4/">Calgary</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/europe/italy/lazio/rome-1185/t/april-4/">Rome</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/europe/spain/ibiza-10025/r/april-4/">Ibiza</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/europe/spain/tenerife-10021/r/april-4/">Tenerife</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/europe/united-kingdom/scotland-257/r/april-4/">Scotland</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/north-america/united-states-of-america/massachusetts/boston-1722/t/april-4/">Boston</a></li>
+      
+    
+      
+      
+      
+      
+        <li><a href="/europe/spain/catalonia/barcelona-1564/t/april-4/">Barcelona</a></li>
+      
+    
+  </ul>
+</div>
+
+            
+
+
+
+
+
+	    
+
+<div style="min-height:650px !important; max-height:650px">
+
+<div id='climatedataorg47397'></div>
+</div>
+  
+
+
+
+
+<div class="widget widget-info">
+      <h5>Climate of popular cities worldwide</h5>
+        <p>
+        <a href="https://en.climate-data.org/europe/united-kingdom/england/london-1/">London</a><br />
+        <a href="https://en.climate-data.org/oceania/australia/new-south-wales/sydney-24/">Sydney</a><br />
+        <a href="https://en.climate-data.org/oceania/australia/victoria/melbourne-764100/">Melbourne</a><br />
+        <a href="https://en.climate-data.org/north-america/canada/ontario/toronto-53/">Toronto</a><br />
+        <a href="https://en.climate-data.org/asia/united-arab-emirates/dubai/dubai-705/">Dubai</a><br />
+        <a href="https://en.climate-data.org/north-america/united-states-of-america/new-york/new-york-1091/">New York</a><br />
+        <a href="https://en.climate-data.org/north-america/canada/british-columbia/vancouver-963/">Vancouver</a><br />
+        <a href="https://en.climate-data.org/europe/france/ile-de-france/paris-44/">Paris</a><br />
+        <a href="https://en.climate-data.org/north-america/united-states-of-america/nevada/las-vegas-723/">Las Vegas</a><br />
+        <a href="https://en.climate-data.org/north-america/united-states-of-america/california/los-angeles-714829/">Los Angeles</a>
+        </p>
+</div>
+
+<div class="widget widget-info">
+        <h5>Weather of popular destinations in July</h5>
+       
+    	<p>
+			<a href="https://en.climate-data.org/asia/india/delhi/delhi-967662/t/july-7/">Delhi in July</a><br />
+    
+			<a href="https://en.climate-data.org/north-america/united-states-of-america/new-york/new-york-1091/t/july-7/">New York in July</a><br />
+ 
+    	    <a href="https://en.climate-data.org/europe/united-kingdom/england/london-1/t/july-7/">London in July</a><br />
+    	 	<a href="https://en.climate-data.org/asia/india/maharashtra/mumbai-29/t/july-7/">Mumbai in July</a><br />
+    	 	<a href="https://en.climate-data.org/asia/india/uttar-pradesh-761/r/july-7/">Uttar Pradesh in July</a><br />
+    	    <a href="https://en.climate-data.org/north-america/united-states-of-america/washington/seattle-593/t/july-7/">Seattle in July</a><br />
+  
+    		<a href="https://en.climate-data.org/asia/united-arab-emirates/dubai/dubai-705/t/july-7/">Dubai in July</a><br />
+  
+            <a href="https://en.climate-data.org/europe/france/ile-de-france/paris-44/t/july-7/">Paris in July</a><br />
+   	
+    	    <a href="https://en.climate-data.org/north-america/united-states-of-america/california-917/r/july-7/">California in July</a><br />
+ 
+    	    <a href="https://en.climate-data.org/north-america/united-states-of-america/nevada/las-vegas-723/t/july-7/">Las Vegas in July</a><br />
+ 
+           	<a href="https://en.climate-data.org/north-america/united-states-of-america/california/los-angeles-714829/t/july-7/">Los Angeles in July</a>
+ 
+        <h5>Weather of popular destinations in May</h5>
+       
+    	<p>
+			<a href="https://en.climate-data.org/asia/india/delhi/new-delhi-30/t/may-5/">New Delhi in May</a><br />
+    
+			<a href="https://en.climate-data.org/north-america/united-states-of-america/new-york/new-york-1091/t/may-5/">New York in May</a><br />
+ 
+    	    <a href="https://en.climate-data.org/europe/united-kingdom/england/london-1/t/may-5/">London in May</a><br />
+    	 	<a href="https://en.climate-data.org/asia/india/uttarakhand/kedarnath-54697/t/may-5/">Kedarnath in May</a><br />
+    	 	<a href="https://en.climate-data.org/asia/india/uttar-pradesh-761/r/may-5/">Uttar Pradesh in May</a><br />
+    	    <a href="https://en.climate-data.org/asia/india/himachal-pradesh/manali-24786/t/may-5/">Manali in May</a><br />
+  
+    		<a href="https://en.climate-data.org/asia/united-arab-emirates/dubai/dubai-705/t/may-5/">Dubai in May</a><br />
+  
+            <a href="https://en.climate-data.org/north-america/united-states-of-america/nevada/las-vegas-723/t/may-5/">Las Vegas in May</a><br />
+   	
+    	    <a href="https://en.climate-data.org/north-america/united-states-of-america/tennessee/nashville-886/t/may-5/">Nashville in May</a><br />
+ 
+    	    <a href="https://en.climate-data.org/asia/japan/tokyo/tokyo-3292/t/may-5/">Tokyo in May</a><br />
+ 
+           	<a href="https://en.climate-data.org/europe/france/ile-de-france/paris-44/t/may-5/">Paris in May</a>
+ 
+       </p>
+</div>
+
+<div class="widget widget-info">
+        <h5>Weather of popular destinations in August</h5>
+       
+    	<p>
+			<a href="https://en.climate-data.org/asia/india/delhi/new-delhi-30/t/august-8/">New Delhi in August</a><br />
+    
+			<a href="https://en.climate-data.org/north-america/united-states-of-america/new-york/new-york-1091/t/august-8/">New York in August</a><br />
+ 
+    	    <a href="https://en.climate-data.org/europe/united-kingdom/england/london-1/t/august-8/">London in August</a><br />
+    	 	<a href="https://en.climate-data.org/asia/india/goa-746/r/august-8/">Goa in August</a><br />
+    	 	<a href="https://en.climate-data.org/north-america/united-states-of-america/california/los-angeles-714829/t/august-8/">Los Angeles in August</a><br />
+    	    <a href="https://en.climate-data.org/north-america/canada/ontario/toronto-53/t/august-8/">Toronto in August</a><br />
+  
+    		<a href="https://en.climate-data.org/asia/united-arab-emirates/dubai/dubai-705/t/august-8/">Dubai in August</a><br />
+  
+            <a href="https://en.climate-data.org/north-america/united-states-of-america/nevada/las-vegas-723/t/august-8/">Las Vegas in August</a><br />
+   	
+    	    <a href="https://en.climate-data.org/asia/turkey-67/c/august-8/">Turkey in August</a><br />
+ 
+    	    <a href="https://en.climate-data.org/oceania/australia/new-south-wales/sydney-24/t/august-8/">Sydney in August</a><br />
+ 
+           	<a href="https://en.climate-data.org/europe/france/ile-de-france/paris-44/t/august-8/">Paris in August</a>
+ 
+        <h5>Weather of popular destinations in June</h5>
+       
+    	<p>
+			<a href="https://en.climate-data.org/asia/india/delhi/delhi-967662/t/june-6/">Delhi in June</a><br />
+    
+			<a href="https://en.climate-data.org/north-america/united-states-of-america/new-york/new-york-1091/t/june-6/">New York in June</a><br />
+ 
+    	    <a href="https://en.climate-data.org/europe/united-kingdom/england/london-1/t/june-6/">London in June</a><br />
+    	 	<a href="https://en.climate-data.org/asia/india/uttarakhand/kedarnath-54697/t/june-6/">Kedarnath in June</a><br />
+    	 	<a href="https://en.climate-data.org/asia/india/uttar-pradesh-761/r/june-6/">Uttar Pradesh in June</a><br />
+    	    <a href="https://en.climate-data.org/north-america/canada/ontario/toronto-53/t/june-6/">Toronto in June</a><br />
+  
+    		<a href="https://en.climate-data.org/asia/united-arab-emirates/dubai/dubai-705/t/june-6/">Dubai in June</a><br />
+  
+            <a href="https://en.climate-data.org/north-america/united-states-of-america/nevada/las-vegas-723/t/june-6/">Las Vegas in June</a><br />
+   	
+    	    <a href="https://en.climate-data.org/asia/turkey-67/c/june-6/">Turkey in June</a><br />
+ 
+    	    <a href="https://en.climate-data.org/north-america/united-states-of-america/washington/seattle-593/t/june-6/">Seattle in June</a><br />
+ 
+           	<a href="https://en.climate-data.org/europe/france/ile-de-france/paris-44/t/june-6/">Paris in June</a>
+ 
+       </p>
+      
+      
+       
+</div>
+
+        <div class="widget widget-info">
+      <h5>Weather of popular travel destinations throughout the year</h5>
+        <p>
+           <a href="https://en.climate-data.org/north-america/united-states-of-america/nevada/las-vegas-723/t/december-12/">Las Vegas in December</a><br />
+           <a href="https://en.climate-data.org/north-america/united-states-of-america/florida/orlando-1262/t/december-12/">Orlando in December</a><br />
+           <a href="https://en.climate-data.org/north-america/united-states-of-america/nevada/las-vegas-723/t/march-3/">Las Vegas in March</a><br />
+           <a href="https://en.climate-data.org/north-america/united-states-of-america/florida/orlando-1262/t/january-1/">Orlando in January</a><br />
+           <a href="https://en.climate-data.org/north-america/united-states-of-america/tennessee/nashville-886/t/december-12/">Nashville in December</a><br />
+                             
+           <a href="https://en.climate-data.org/asia/turkey-67/c/september-9/">Turkey in September</a><br />
+           <a href="https://en.climate-data.org/asia/turkey-67/c/june-6/">Turkey in June</a><br />
+           <a href="https://en.climate-data.org/europe/spain/valencian-community/benidorm-56914/t/april-4/">Benidorm in April</a><br />
+           <a href="https://en.climate-data.org/asia/india/himachal-pradesh/manali-24786/t/december-12/">Manali in December</a><br />
+           <a href="https://en.climate-data.org/oceania/australia/victoria/melbourne-764100/t/december-12/">Melbourne in December</a><br />
+           <a href="https://en.climate-data.org/oceania/australia/new-south-wales/sydney-24/t/december-12/">Sydney in December</a><br />
+           <a href="https://en.climate-data.org/north-america/united-states-of-america/new-york/new-york-1091/t/december-12/">New York in December</a>
+       </p>
+</div>
+
+
+
+    <div class="widget widget-info">
+      <h5>Popular places</h5>
+      <p>
+        
+      </p>
+      <div class="clear"></div>
+    </div>
+     
+  </div>
+	    
+
+
+
+</div>
+
+
+</div>
+</div>
+</div>
+<div class="clear"></div>
+
+<link rel="preload" href="//www.climate-data.org/css/css.e4b87140.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="//www.climate-data.org/css/css.e4b87140.min.css"></noscript>
+
+
+<footer>
+  <div id="footer">
+    <div id="footer-layout">
+      <div id="sidebar-ad-c">
+        <div class="sidebar sidebar-ad-c">
+          <div class="widget">
+            <div class="clear"></div>
+          </div>
+        </div>
+      </div>
+      <div id="footer-holder">
+        <div id="footer-box" class="footer-box-v5">
+          <div class="sidebar-footer">
+            <div>
+              <div class="widget widget-posts widget-posts-most-viewed">
+                <h5>About</h5>
+                <div class="widget-posts-post-box">
+                  <a class="widget-posts-title" href="/info/sources/">
+                    Data sources
+                  </a>
+                </div>
+                <div class="widget-posts-post-box">
+                  <a class="widget-posts-title" href="/info/licensing/">
+                    Licensing
+                  </a>
+                </div>
+                <div class="widget-posts-post-box">
+                  <a class="widget-posts-title" href="/info/translations/">
+                    Translations
+                  </a>
+                </div>
+                <div class="widget-posts-post-box">
+                  <a class="widget-posts-title" href="/info/advertising/">
+                    Advertising
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+	 <div class="sidebar-footer">
+            <div>
+              <div class="widget widget-posts widget-posts-most-viewed">
+                <h5>Legal</h5>
+                <div class="widget-posts-post-box">
+                  <a class="widget-posts-title" href="/info/imprint/">
+                    Imprint
+                  </a>
+                </div>
+                <div class="widget-posts-post-box">
+                  <a class="widget-posts-title" href="/info/privacy/">
+                    Privacy
+                  </a>                </div>
+                <div class="widget-posts-post-box">
+		</div>
+              </div>
+            </div>
+          </div>
+	
+
+          <div class="clear"></div>
+				        </div>
+      </div>
+      <div id="copyrights-holder">
+        <div id="copyrights-box">
+          <div id="copyrights-company">&copy; Climate-Data.org / AM OP / OpenStreetMap contributors</div>
+          <div class="clear"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+</div>
+</body>
+</html>
+
