@@ -165,8 +165,9 @@ function updateSourceLink(url) {
 function getLargeClimatoSrc(src) {
   if (!src) return src;
   // Если картинка локальная, берём локальную "800".
-  if (src.startsWith("./climatograms/200/")) {
-    return src.replace("./climatograms/200/", "./climatograms/800/");
+  // В DOM src уже стал абсолютным URL, поэтому ищем подстроку пути.
+  if (src.includes("/climatograms/200/")) {
+    return src.replace("/climatograms/200/", "/climatograms/800/");
   }
   // На ru.climate-data.org часто есть несколько размеров, например climate-graph-200.png, 400, 800.
   // Пробуем заменить 200 (или другой размер) на 800, чтобы открыть более крупную версию.
