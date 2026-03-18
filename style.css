@@ -466,16 +466,29 @@ body {
     flex-direction: column;
   }
 
+  .top-controls {
+    top: 72px;
+    right: 12px;
+  }
+
   .climato-panel {
     width: 100%;
     order: -1;
   }
 
   .settings-panel {
+    top: 120px;
     right: 8px;
     left: 8px;
     width: auto;
     max-width: none;
+  }
+
+  .share-panel {
+    top: 120px;
+    right: 8px;
+    left: 8px;
+    width: auto;
   }
 }
 
